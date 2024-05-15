@@ -120,6 +120,18 @@ const config = {
         },
       ],
     ],
+    plugins: [
+      [
+        "@orama/plugin-docusaurus-v3",
+        {
+          cloud: {
+            indexId: "jdf9kh7tt3piue4e7zb3gy40",
+            oramaCloudAPIKey: process.env.ORAMA_CLOUD_API_KEY, // Env variable suggested
+            deploy: true // Enables deploy while building/starting
+          },
+        },
+      ],
+    ]
 };
 
 module.exports = config;

@@ -20,6 +20,7 @@
     "@emailjs/browser": "^3.11.0",
     "@mdx-js/react": "^1.6.22",
     "@orama/plugin-docusaurus": "^2.0.18",
+    "@oramacloud/client": "^1.1.5",
     "clsx": "^1.2.1",
     "emailjs-com": "^3.2.0",
     "logrocket": "^5.0.0",

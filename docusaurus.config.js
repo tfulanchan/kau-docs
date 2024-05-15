@@ -126,7 +126,7 @@ const config = {
         {
           cloud: {
             indexId: "jdf9kh7tt3piue4e7zb3gy40",
-            oramaCloudAPIKey: process.env.ORAMA_CLOUD_API_KEY, // Env variable suggested
+            oramaCloudAPIKey: "rCiMZg5iZnVP4EAIcqrbdD40FVRqXomB", // Env variable suggested
             deploy: true // Enables deploy while building/starting
           },
         },

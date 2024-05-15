@@ -1,17 +1,16 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '法赫德國王《古蘭經》印刷局',
-  tagline: '中文出版物',
+  title: 'King Abdulaziz University',
+  tagline: 'Faculty of Computing & Information Technology',
   customFields: {
-    more:'官方授權電子版',
+    more:'Bachelor in Information Systems',
   },
-  favicon: 'img/qurancomplex.ico',
+  favicon: 'img/kau_square.jpg',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
@@ -65,12 +64,17 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/cropped-kfgqpc-logo2-1.png',
+      image: 'img/kau_logo.jpg',
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
       navbar: {
         title: '主頁',
         logo: {
           alt: '主頁',
-          src: 'img/qurancomplex.png',
+          src: 'img/kau_square.jpg',
         },
         items: [
           {
@@ -79,9 +83,13 @@ const config = {
             to: 'docs/iimaan',
             items: [
               {
+                label: "開始閱讀",
+                to: "docs/iimaan",
+              },
+              {
                 label: "關於譯者",
                 to: "blog/suJiYuan",
-              },
+              },             
             ],
           },
           {
@@ -90,6 +98,10 @@ const config = {
             to: 'docs/tafseer',
             items: [
               {
+                label: "開始閱讀",
+                to: "docs/tafseer",
+              },
+              {
                 label: "關於譯者",
                 to: "blog/kongDeJun",
               },
@@ -97,19 +109,24 @@ const config = {
           },
           {
             position: "right",
-            href: "https://qurancomplex.gov.sa/",
-            label:'關於印刷廠',
+            href: "https://qurancomplex.gov.sa/kfgqpc/about/",
+            label:'關於印刷局',
+          },
+          {
+            position: "right",
+            href: "#",
+            label: '附註',
           },
           {
             position: "right",
             to: "contact",
-            label:'聯繫網絡管理員',
+            label:'聯繫站長',
           },
         ],
       },
       footer: {
         style: 'dark',
-        copyright: `法赫德國王《古蘭經》印刷局 版權所有 © ${new Date().getFullYear()} `,
+        copyright: `版權所有 © ${new Date().getFullYear()} 法赫德國王《古蘭經》印刷局  `,
       },
       prism: {
         theme: lightCodeTheme,
@@ -124,6 +141,7 @@ const config = {
           language: ["en", "zh"],
           highlightSearchTermsOnTargetPage: true,
           explicitSearchResultPath: true,
+          // indexDocs: false,
         },
       ],
     ],

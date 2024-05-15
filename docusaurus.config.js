@@ -46,13 +46,13 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -82,21 +82,6 @@ const config = {
             label: "exam",
             to: 'docs/exam',
           },          
-          {
-            position: "right",
-            href: "https://qurancomplex.gov.sa/kfgqpc/about/",
-            label:'關於印刷局',
-          },
-          {
-            position: "right",
-            href: "#",
-            label: '附註',
-          },
-          {
-            position: "right",
-            to: "contact",
-            label:'聯繫站長',
-          },
         ],
       },
       footer: {
@@ -108,30 +93,30 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    // themes: [
-    //   [
-    //     "@easyops-cn/docusaurus-search-local",
-    //     {
-    //       hashed: true,
-    //       language: ["en", "zh"],
-    //       highlightSearchTermsOnTargetPage: true,
-    //       explicitSearchResultPath: true,
-    //       // indexDocs: false,
-    //     },
-    //   ],
-    // ],
-    // plugins: [
-    //   [
-    //     "@orama/plugin-docusaurus",
-    //     {
-    //       cloud: {
-    //         indexId: "jdf9kh7tt3piue4e7zb3gy40",
-    //         oramaCloudAPIKey: "rCiMZg5iZnVP4EAIcqrbdD40FVRqXomB", // Env variable suggested
-    //         deploy: true // Enables deploy while building/starting
-    //       },
-    //     },
-    //   ],
-    // ]
+    themes: [
+      [
+        "@easyops-cn/docusaurus-search-local",
+        {
+          hashed: true,
+          language: ["en", "zh"],
+          highlightSearchTermsOnTargetPage: true,
+          explicitSearchResultPath: true,
+          // indexDocs: false,
+        },
+      ],
+    ],
+    plugins: [
+      [
+        "@orama/plugin-docusaurus",
+        {
+          cloud: {
+            indexId: "jdf9kh7tt3piue4e7zb3gy40",
+            oramaCloudAPIKey: process.env.ORAMA_CLOUD_API_KEY, // Env variable suggested
+            deploy: true // Enables deploy while building/starting
+          },
+        },
+      ],
+    ]
 };
 
 module.exports = config;

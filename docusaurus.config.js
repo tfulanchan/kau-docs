@@ -122,7 +122,7 @@ const config = {
     ],
     plugins: [
       [
-        "@orama/plugin-docusaurus-v3",
+        "@orama/plugin-docusaurus",
         {
           cloud: {
             indexId: "jdf9kh7tt3piue4e7zb3gy40",

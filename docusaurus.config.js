@@ -79,34 +79,9 @@ const config = {
         items: [
           {
             position: "left",
-            label: "正信原則",
-            to: 'docs/iimaan',
-            items: [
-              {
-                label: "開始閱讀",
-                to: "docs/iimaan",
-              },
-              {
-                label: "關於譯者",
-                to: "blog/suJiYuan",
-              },             
-            ],
-          },
-          {
-            position: "left",
-            label: "古蘭經注",
-            to: 'docs/tafseer',
-            items: [
-              {
-                label: "開始閱讀",
-                to: "docs/tafseer",
-              },
-              {
-                label: "關於譯者",
-                to: "blog/kongDeJun",
-              },
-            ],
-          },
+            label: "exam",
+            to: 'docs/exam',
+          },          
           {
             position: "right",
             href: "https://qurancomplex.gov.sa/kfgqpc/about/",

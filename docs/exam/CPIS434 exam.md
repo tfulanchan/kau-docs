@@ -1658,8 +1658,7 @@ Company uses services supplied
 by an unaffiliated foreign -based 
 company
 Figure .. Different Forms of Sourcing. 
-(Source: http ://www.dbresearch.com/ servlet/reweb.ReWEB?
-rwsite=DBR_INTERNET_EN -PROD)
+(Source: https://www.ibm.com/blog/sourcing-types/)
 
 
 

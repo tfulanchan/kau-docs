@@ -24,8 +24,8 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/tafseer">
-            📚古蘭經注
+            to="/docs/exam">
+            📚exam
           </Link>
         </div>
       </div>

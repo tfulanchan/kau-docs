@@ -2,13 +2,12 @@
 title: Chapter 6 Emerging Strategies and Business Models in the Network Economy
 sidebar_position: 1
 ---
-CH6_New_Strategies_for_the_Network_Economy_by_Feng.md
-Chapter 6, 7, 8, 9 and 10
+
+[New Strategies for the Network Economy Feng](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1b8793af7a34b7ba5a2d40e552ec839101ac3c7c)
 
 Introduction 
 
-The new business environment has changed inseveral important aspects, this change requires organizations toadopt new strategies, business models and new organizational designs, develop new ways of doing business and manage disruptive innovations effectively
-
+The new business environment has changed inseveral important aspects, this change requires organizations to adopt new strategies, business models and new organizational designs, develop new ways of doing business and manage disruptive innovations effectively
 
 This chapter first illustrates the web strategy that developed byHagel and colleagues, and explores its implications fortoday's organizations in the knowledge-based, network economy.
 

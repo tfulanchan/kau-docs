@@ -5,7 +5,7 @@ import os
 def remove_copyright(md_file):
     with open(md_file, "r", encoding="utf-8") as file:
         content = file.read()
-        A = "Managing and Using Information Systems: A Strategic Approach – Sixth Edition"
+        A = "================================================================================"
         new_content = content.replace(A, "")
     
     with open(md_file, "w", encoding="utf-8") as file:

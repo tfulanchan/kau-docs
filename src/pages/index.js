@@ -17,15 +17,10 @@ function HomepageHeader() {
         <h2 className="hero__subtitle">{siteConfig.tagline}</h2>
         <p className="hero__subtitle">{siteConfig.customFields.more}</p>
         <div className={styles.buttons}>
-        <Link
-            className="button button--secondary button--lg"
-            to="/docs/exam">
-            📘正信原則
-          </Link>
           <Link
             className="button button--secondary button--lg"
             to="/docs/exam">
-            📚exam
+            📚exam📘
           </Link>
         </div>
       </div>

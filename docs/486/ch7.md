@@ -13,7 +13,7 @@ Introduction
 customers can be'blindsided' bydisruptive innovations from new competitors
 
 Introduction 
-+ In.The Innovator's Solution creating and sustaining successful growth,
++ In. The Innovator's Solution creating and sustaining successful growth,
 + This established companies how tocreate disruptive innovations rather than being destroyed bythem,
 + How toturn innovative ideas into new disruptive products that can lead tolong-term profitable growth.
 + In.another book written with Eric Roth and Scott Anthony:Seeing What Next:Using theory ofinnovation to
@@ -21,19 +21,18 @@ predict industry change,
 + The book describe, summarize, and further developed thedisruptive theory ofstrategic innovations and supported itwith new evidence and more detailed explanations.
 
 Introduction
-+ The strategy ofdisruption is
-+ One ofthemost influential theories inrecent years
-+ Itprovides apowerful framework for executives toidentify emerging opportunities and challenges inthemarket
++ The strategy of disruption is
++ One of the most influential theories inrecent years
++ It provides apowerful framework for executives toidentify emerging opportunities and challenges inthemarket
 + Develop appropriate strategic responses.
-+ Itprovides aninsightful explanation toaquestion that has been puzzling academics, consultants and business executives for decades:
++ It provides aninsightful explanation toaquestion that has been puzzling academics, consultants and business executives for decades:
 + Why do successful companies failtosustain profitable growth for more than a few years ?
 
 Introduction
 + According to this theory, thecompanies fail not because the executives and workers aredoing abad job.
 
 But because
-+ They have been doing an excellent job in what they are supposed to
-be doing
++ They have been doing an excellent job in what they are supposed to be doing
 + Improving products rapidly and continuously
 + Focusing onneeds ofthehigh-end, most profitable customers.
 
@@ -43,7 +42,8 @@ Introduction
 + Examples such eBay, Google, Amazon.com, Expedia. Travelocity and soon.These new entrants have radically
 disrupted awide range ofindustries such asauctions, book retailing toholidays, traveling, and hotel booking.
 
-The Strategy of Disruption-From  Inventor's Dilemma to Inventor's Solutions
+### The Strategy of Disruption-From Inventor's Dilemma to Inventor's Solutions
+
 + Cristensen pointed out that roughly only one company in every tenisable tosustain thekind ofgrowth
 + Once acompany's core business has matured, it should looking fornew platforms forgrowth which have:
 + Include significant risk
@@ -56,8 +56,6 @@ The Strategy of Disruption-From  Inventor's Dilemma to Inventor's Solutions
 + To bring incremental changes, and attention toinnovation that enable them to out perform the competition.
 + It is the'circumstances' of innovations that often Determine whether currant industry leaders orupstart companies win acompetitive war. 
 
-### The Strategy of Disruption-From Inventor's Dilemma to Inventor's Solutions
-
 + New-entrants are more likely toovertake old leaders in disruptive circumstances,
 + When the challenge istocommercialize asimpler, more convenient product that sells forless money and attract to new customers.
 + Established current large companies can capture disruptive growth, rather than bedefeated it,ifthey aware of the circumstances ofdisruptive innovations and areable to use it for them and their own benefit.
@@ -68,14 +66,14 @@ The Strategy of Disruption-From  Inventor's Dilemma to Inventor's Solutions
 disruptive innovations
 + The nature of the innovation determines whether established companies ornew entrants eventually win the competitive war in the market.
 
-+ Inevery industry, there isarate ofimprovement in products that customers canfully utilize oruse.
-+ However, inmost industries, the pace oftechnological progress almost always outstrips the ability of customers in any given tierofthemarket touseit.
-+ Partly because companies keep trying to make better products that they can sellforhigher profit margins to their most demanding, high-end customers.
++ In every industry, there is a rate of improvement in products that customers can fully utilize oruse.
++ However, inmost industries, the pace of technological progress almost always outstrips the ability of customers in any given tier of the market touseit.
++ Partly because companies keep trying to make better products that they can sell for higher profit margins to their most demanding, high-end customers.
 + This creates aserious problem forestablished companies making such product
 + This creates opportunities fornew entrants toenter the market
 + With products with fewer features and lower specifications,
-+ First selling them tocustomers atthelowest market, who the least attractive customers toestablished companies,
-+ But moving upwards toinclude the high end customers, who are more profitable customers fortheestablished companies
++ First selling them tocustomers atthelowest market, who the least attractive customers to established companies,
++ But moving upwards toinclude the high end customers, who are more profitable customers for the established companies
 
 A sustaining innovation is:
 + Targets those demanding, high-end customers, with better performance than previously available.Whether performance isan incremental improvement orabreakthrough improvement.

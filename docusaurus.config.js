@@ -79,8 +79,8 @@ const config = {
         items: [
           {
             position: "left",
-            label: "exam",
-            to: 'docs/exam',
+            label: "CPIS-434",
+            to: 'docs/434',
           },          
         ],
       },

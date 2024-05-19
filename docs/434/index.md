@@ -14,9 +14,9 @@ Decentralized scatters different IT components to different locations to address
 
 Federal ensure both corporate and divisional IT units are involved in decision-making. Enable greater responsiveness to business needs while maintaining control over standards.
 
-IT units are responsible for planning for business discontinuity and innovate business processes. Develop and maintain information systems. Manage data, information and network services. Promote enterprise information security.
+IT units are responsible for planning for digital transformation, business discontinuity and innovate business processes. Develop and maintain information systems. Manage data, information and network services. Promote enterprise information security.
 
-CIO is responsible for planning IT strategies and communicate IT to non-IT business leaders. He oversees implementation of IT projects. Create competitive advantages and define technology vision.
+CIO is responsible for planning IT strategies and communicate IT to non-IT business leaders and stakeholders. He oversees implementation of technology. Create competitive advantages and define technology vision.
 
 Countries are selected for outsourcing based on factors such as availability of skilled talent, cost-effectiveness, ease of doing business, infrastructure, government policies, and alignment with core business functions.
 
@@ -30,5 +30,5 @@ The Resource-Based View focuses on leveraging internal resources for sustainable
 
 |Hierarchical | Flat | Matrix | Networked|
 |-|-|-|-|
-| top-down structure | minimal middle management promoting direct communication | lend functional expertise with project focus through dual reporting | prioritize informal networks and task demands |
+| top-down structure | minimal middle management promoting direct communication | blend functional expertise with project focus through dual reporting | prioritize informal networks and task demands |
 | a clear chain of command with levels of management, ensure defined roles but potentially slowing decision-making | minimize middle management layers, promote quicker decision-making and employee involvement | blend functional and project teams, optimize resource utilization but risking conflicts | focus on relationships with external entities, enhance flexibility but potentially leading to role confusion and duplication of work |

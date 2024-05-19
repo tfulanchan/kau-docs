@@ -21,3 +21,13 @@ CIO is responsible for planning IT strategies and communicate IT to non-IT busin
 Countries are selected for outsourcing based on factors such as availability of skilled talent, cost-effectiveness, ease of doing business, infrastructure, government policies, and alignment with core business functions.
 
 Cost implications, total cost involved, quality and performance standards, strategic goals, risks, organizational ability to manage in-house, flexibility to change, legal implications, impact on human resources.
+
+===
+
+The relationship between IT and cultural dimensions is crucial for effective global collaboration and communication. By understanding cultural dimensions such as power distance, individualism vs. collectivism, uncertainty avoidance, masculinity vs. femininity, long-term vs. short-term orientation, and indulgence vs. restraint, IT professionals can tailor their approaches to better engage with diverse teams and clients worldwide, ultimately enhancing project outcomes and fostering stronger relationships across cultural boundaries.
+
+The Resource-Based View focuses on leveraging internal resources for sustainable competitive advantages. Time-Based strategies prioritize speed and adaptability to capitalize on market changes, enhancing operational efficiency and customer loyalty.
+
+|Hierarchical | Flat | Matrix | Networked|
+|-|-|-|-|
+| a clear chain of command with levels of management, ensure defined roles but potentially slowing decision-making | minimize middle management layers, promote quicker decision-making and employee involvement | blend functional and project teams, optimize resource utilization but risking conflicts | focus on relationships with external entities, enhance flexibility but potentially leading to role confusion and duplication of work |

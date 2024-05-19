@@ -30,4 +30,5 @@ The Resource-Based View focuses on leveraging internal resources for sustainable
 
 |Hierarchical | Flat | Matrix | Networked|
 |-|-|-|-|
+| top-down structure | minimal middle management promoting direct communication | lend functional expertise with project focus through dual reporting | prioritize informal networks and task demands |
 | a clear chain of command with levels of management, ensure defined roles but potentially slowing decision-making | minimize middle management layers, promote quicker decision-making and employee involvement | blend functional and project teams, optimize resource utilization but risking conflicts | focus on relationships with external entities, enhance flexibility but potentially leading to role confusion and duplication of work |

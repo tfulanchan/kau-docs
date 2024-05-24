@@ -5,42 +5,33 @@ sidebar_position: 2
 
 Managing Disruptive Strategic Innovation in the New Economy
 
-Introduction 
-+ Disruptive innovations create new markets or reshape existing markets by
-+ delivering relative simple, convenient, low cost innovations to a set of customers who areignored byindustry leaders.
-+ Since the late  s, a very influential strategic innovation has been thetheory ofdisruptive strategic innovations.
-+ Clayton Christensen ofHarvared Business School in started thefirst developed theory inhisbestseller book The Innovator's Dilemma.'He explained how industry leaders that focused onhigh-end products fortheir most profitable
-customers can be'blindsided' bydisruptive innovations from new competitors
-
-Introduction 
-+ In. The Innovator's Solution creating and sustaining successful growth,
-+ This established companies how tocreate disruptive innovations rather than being destroyed bythem,
-+ How toturn innovative ideas into new disruptive products that can lead tolong-term profitable growth.
-+ In.another book written with Eric Roth and Scott Anthony:Seeing What Next:Using theory ofinnovation to
-predict industry change,
-+ The book describe, summarize, and further developed thedisruptive theory ofstrategic innovations and supported itwith new evidence and more detailed explanations.
-
 Introduction
-+ The strategy of disruption is
-+ One of the most influential theories inrecent years
-+ It provides apowerful framework for executives toidentify emerging opportunities and challenges inthemarket
-+ Develop appropriate strategic responses.
-+ It provides aninsightful explanation toaquestion that has been puzzling academics, consultants and business executives for decades:
-+ Why do successful companies failtosustain profitable growth for more than a few years ?
 
-Introduction
-+ According to this theory, thecompanies fail not because the executives and workers aredoing abad job.
+Disruptive innovations create new markets or reshape existing markets by delivering relatively simple, convenient, low-cost innovations to a set of customers who are ignored by industry leaders.
 
-But because
-+ They have been doing an excellent job in what they are supposed to be doing
-+ Improving products rapidly and continuously
-+ Focusing onneeds ofthehigh-end, most profitable customers.
+Since the late 1990s, a very influential strategic innovation has been the theory of disruptive strategic innovations.
 
-Introduction
-+ Theory ofdisruptive innovation isnot specific to the knowledge based, network economy.Many disruptive innovations were introduced indifferent sectors
-+ Disruptive strategic innovations are particularly influential-and disruptive intoday's business environment, because of the extremely rapid development and widespread proliferation of ICTs
-+ Examples such eBay, Google, Amazon.com, Expedia. Travelocity and soon.These new entrants have radically
-disrupted awide range ofindustries such asauctions, book retailing toholidays, traveling, and hotel booking.
+Clayton Christensen of Harvard Business School first developed the theory in his bestseller book, The Innovator's Dilemma. He explained how industry leaders that focused on high-end products for their most profitable customers can be "blindsided" by disruptive innovations from new competitors.
+
+In The Innovator's Solution: Creating and Sustaining Successful Growth, this established how companies can create disruptive innovations rather than be destroyed by them, and how to turn innovative ideas into new disruptive products that can lead to long-term profitable growth.
+
+In another book written with Eric Roth and Scott Anthony, Seeing What's Next: Using the Theory of Innovation to Predict Industry Change, the book describes, summarizes, and further develops the disruptive theory of strategic innovations and supports it with new evidence and more detailed explanations.
+
+The strategy of disruption is one of the most influential theories in recent years. It provides a powerful framework for executives to identify emerging opportunities and challenges in the market and develop appropriate strategic responses.
+
+It provides an insightful explanation to a question that has been puzzling academics, consultants, and business executives for decades: Why do successful companies fail to sustain profitable growth for more than a few years?
+
+According to this theory, companies fail not because the executives and workers are doing a bad job but because they have been doing an excellent job in what they are supposed to be doing:
+
+Improving products rapidly and continuously
+
+Focusing on the needs of the high-end, most profitable customers.
+
+The theory of disruptive innovation is not specific to the knowledge-based, network economy. Many disruptive innovations were introduced in different sectors.
+
+Disruptive strategic innovations are particularly influential—and disruptive—in today’s business environment because of the extremely rapid development and widespread proliferation of ICTs.
+
+Examples include eBay, Google, Amazon.com, Expedia, Travelocity, and so on. These new entrants have radically disrupted a wide range of industries such as auctions, book retailing, holidays, traveling, and hotel booking.
 
 ### The Strategy of Disruption-From Inventor's Dilemma to Inventor's Solutions
 
@@ -104,32 +95,121 @@ product, ordifferent situations inwhich aproduct can be used.
 + As improvements are made in new-market disruptions, the companies that foster them are able to pull customers out of old. Stream value networks and into new ones.
 
 What products do customers want to buy? (Circumstances)
-+ Christensen point out the fact that marketers often segment markets byproduct price, ordemographics of the individuals orcompanies that comprise their customer base.
-+ This segmentation isoften defined bythe attributes of products orcustomers
-+ Point outwhat isthecorrelations between attributes and outcomes.
-+ What features, functions and positioning will cause customers to buy aproduct.
+Cristensen's Insights
 
-+ To solve this problem, Christensen introduced the 'circumstances’ concept and offered amore reasonable way of segmenting the market
-+ The customers ‘hire' products todospecific 'jobs',
-+ Managers must segment their markets tomirror the way of their customers experience life.
-+ Successful products must target the circumstances of customers find themselves, rather than the customers themselves.What products do customers want to buy? (Circumstances)
+Christensen pointed out that roughly only one company in every ten is able to sustain the kind of growth required.
 
-+ Highlighted the importance of understanding the circumstances which acustomer buys aproduct.
-+ Knowing what jobofeach product gets hired to do,
-+ Knowing what jobs out there are not getting done very well by particular products
-+ Can give innovators amuch clearer road map forimproving their products tobeat the true competition from the customer's perspective.
-+ This segmentation can be used to gain a disruptive foot hold theinitial product orservice that isthepoint ofentry for a new market disruption.What products do customers want to buy? (Circumstances)
+Once a company’s core business has matured, it should look for new platforms for growth, which include significant risk.
 
-+ While itmay never bepossible togetevery dimension of a product introduction inanew-market disruption right straight away,
-+ Using the jobs-to-be-done lens can help innovators come tomarket with aninitial product that ismuch closer to
-what customers ultimately value.What products do customers want to buy? (Circumstances)
+Most companies simply do not know how to grow. Following growth the wrong way can be worse than no growth at all.
 
-### The Best Customers for Your Products low-end and new-market customers
-+ The low-end disruptor's marketing task isextending the low-cost business model uptowards products that more profitable forcustomers tobedone.
-+ Itiseasy toidentify ideal customers for alow-end disruption, and they are uninterested people tohigh-
-performance products.
-+ New-market disruptions require the innovators to invent the upward path, because no one has been up that
-trajectory before.
+Managers have long sought ways to predict the outcome of competition based around innovation, but it has become difficult to do so in recent years.
+
+It is no longer simply a matter of large companies using their resources to crush smaller competitors.
+
+To bring incremental changes and attention to innovation that enable them to outperform the competition.
+
+It is the "circumstances" of innovations that often determine whether current industry leaders or upstart companies win a competitive war.
+
+New entrants are more likely to overtake old leaders in disruptive circumstances, when the challenge is to commercialize a simpler, more convenient product that sells for less money and attracts new customers.
+
+Established current large companies can capture disruptive growth, rather than be defeated by it, if they are aware of the circumstances of disruptive innovations and are able to use them for their own benefit.
+
+### Two Types of Innovation: Sustaining Versus Disruptive Innovation
+
+Different from the classification of innovations into autonomous and systemic innovations when examining the suitability of different organizational models and designs in the last chapter.
+
+Christensen classified innovations into two categories along a different dimension: sustaining innovations and disruptive innovations.
+
+The nature of the innovation determines whether established companies or new entrants eventually win the competitive war in the market.
+
+In every industry, there is a rate of improvement in products that customers can fully utilize or use.
+
+However, in most industries, the pace of technological progress almost always outstrips the ability of customers in any given tier of the market to use it.
+
+Partly because companies keep trying to make better products that they can sell for higher profit margins to their most demanding, high-end customers.
+
+This creates a serious problem for established companies making such products.
+
+This creates opportunities for new entrants to enter the market with products with fewer features and lower specifications.
+
+First selling them to customers at the lowest market, who are the least attractive customers to established companies, but moving upwards to include the high-end customers, who are more profitable customers for the established companies.
+
+A Sustaining Innovation Is:
+
+Targets those demanding, high-end customers, with better performance than previously available, whether performance is an incremental improvement or a breakthrough improvement.
+
+Established companies are motivated to focus on following up innovations to meet the needs of their high-end, most profitable customers.
+
+This leaves the door open for new entrants to target the low-end customers.
+
+### Disruptive Innovations:
+
+Do not bring better products and services to established customers in existing markets.
+
+Introduce products and services that are not as good as existing products, but which are simpler, more convenient, and less expensive than existing ones.
+
+As these simpler products continue to improve, new entrants soon get a foothold in the market and gradually squeeze out the established incumbent suppliers.
+
+The history of the computing industry in the past few decades provides an example of this scenario.
+
+### Which Is Disruption Often Breakdown Industry-Leading Companies:
+
+To identify where disruptions can take place, an important concept used by Christensen is the value network.
+
+Christensen defined the value network as a plane of competition and consumption in which the application and customers reside.
+
+In other words, a value network is "the context within which a firm establishes a cost structure and operating processes and works with suppliers and channel partners in order to respond profitably to the common needs of a class of customers."
+
+Christensen added a third dimension to the disruptive innovation model in The Innovator's Solution by extending into new contexts of consumption and competition.
+
+The new value networks constitute new customers who previously lacked the money or skills to buy and use the product, or different situations in which a product can be used.
+
+These were made possible by improvements in simplicity, portability, and costs.
+
+New-market disruptions take place in different value networks, by competing with non-consumption, by converting previous non-customers into active customers and creating a new market.
+
+As improvements are made in new-market disruptions, the companies that foster them are able to pull customers out of old stream value networks and into new ones.
+
+### What Products Do Customers Want to Buy? (Circumstances):
+
+Christensen points out the fact that marketers often segment markets by product price, or demographics of the individuals or companies that comprise their customer base.
+
+This segmentation is often defined by the attributes of products or customers.
+
+Points out what the correlations are between attributes and outcomes.
+
+What features, functions, and positioning will cause customers to buy a product.
+
+To solve this problem, Christensen introduced the "circumstances" concept and offered a more reasonable way of segmenting the market.
+
+The customers "hire" products to do specific "jobs."
+
+Managers must segment their markets to mirror the way their customers experience life.
+
+Successful products must target the circumstances customers find themselves in, rather than the customers themselves.
+
+Highlighted the importance of understanding the circumstances in which a customer buys a product.
+
+Knowing what job each product gets hired to do.
+
+Knowing what jobs out there are not getting done very well by particular products.
+
+Can give innovators a much clearer roadmap for improving their products to beat the true competition from the customer's perspective.
+
+This segmentation can be used to gain a disruptive foothold in the initial product or service that is the point of entry for a new market disruption.
+
+While it may never be possible to get every dimension of a product introduction in a new-market disruption right straight away.
+
+Using the jobs-to-be-done lens can help innovators come to market with an initial product that is much closer to what customers ultimately value.
+
+### The Best Customers for Your Products: Low-End and New-Market Customers
+
+The low-end disruptor's marketing task is extending the low-cost business model upwards towards products that are more profitable for customers to be done.
+
+It is easy to identify ideal customers for a low-end disruption, and they are uninterested people in high-performance products.
+
+New-market disruptions require the innovators to invent the upward path because no one has been up that trajectory before.
 
 + Identifying new-market customers isacomplex task, because there are different reasons fornon-consumption that thenew entrant tries toattract.
 + When only afraction ofapopulation isusing aproduct, some ofthenotreflect thereally using it

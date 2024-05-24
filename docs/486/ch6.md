@@ -7,941 +7,456 @@ sidebar_position: 1
 
 Introduction 
 
-The new business environment has changed inseveral important aspects, this change requires organizations to adopt new strategies, business models and new organizational designs, develop new ways of doing business and manage disruptive innovations effectively
+The new business environment has changed in several important aspects, this change requires organizations to adopt new strategies, business models and new organizational designs, develop new ways of doing business and manage disruptive innovations effectively.
 
-This chapter first illustrates the web strategy that developed byHagel and colleagues, and explores its implications fortoday's organizations in the knowledge-based, network economy.
+This chapter first illustrates the web strategy that developed by Hagel and colleagues, and explores its implications for today's organizations in the knowledge-based, network economy.
 
-Following this, the chapter examines the deconstruction ofvalue chains, integrated business models, and how this might bedone.
+Following this, the chapter examines the deconstruction of value chains, integrated business models, and how this might be done.
 
-Finally the chapter discusses the qualities and potential difficulties that face virtual organization 
+Finally the chapter discusses the qualities and potential difficulties that face virtual organization.
 
 ### Web Strategy, Business Unbundling, and Virtual Organization 
 
-The business environment is very different from the past, and under some circumstances new strategies and business models are needed for organizations tocompete effectively today. These new strategies and business models are closely linked to some of the new rules of the network economy discussed in chapter. 
+The business environment is very different from the past, and under some circumstances new strategies and business models are needed for organizations to compete effectively today. These new strategies and business models are closely linked to some of the new rules of the network economy discussed in chapter 4. 
 
-The changing business environment requires organizations old and new todevelop new strategies and business models.
+The changing business environment requires organizations old and new to develop new strategies and business models.
 
-One such strategy that has emerged inrecent years istheso-called 'web strategy',
+One such strategy that has emerged in recent years is the so-called 'web strategy',
 
-The web here is the web refers to'clusters of companies that collaborate on aparticular technology'.
+The web here is the web refers to 'clusters of companies that collaborate on a particular technology'.
  
-The concept ofthe 'web' overlaps with another popular concept inthe studies of innovation-'clusters', but clusters usually have astrong geographical connotation.
+The concept of the 'web' overlaps with another popular concept in the studies of innovation - 'clusters', but clusters usually have a strong geographical connotation.
 
-webs are primarily concerned with technological standards, customer, ormarket segments.
+webs are primarily concerned with technological standards, customer, or market segments.
 
 Hagel regards the web as a Natural response to uncertainty and risks in environmental,
 
-Webs create powerful new ways tothink about strategy, risk, technological uncertainty and innovation.
+Webs create powerful new ways to think about strategy, risk, technological uncertainty and innovation.
 
-Different from traditional strategic or supply chains, the web explains how independent companies cluster around particular technological standards orcustomer segments todeliver complex value propositions to the final consumers.
+Different from traditional strategic or supply chains, the web explains how independent companies cluster around particular technological standards or customer segments t odeliver complex value propositions to the final consumers.
 
-New Strategies for the Network Economy
+### New Strategies for the Network Economy
 
-This strategy requires business executives to reevaluate their management focus, organizational structure, performance measurement, and information systems,
+This strategy requires business executives to re-evaluate their management focus, organizational structure, performance measurement, and information systems,
 
-The web strategy also highlights the profound significance ofvirtual organizations in the new economy.
-
-New Strategies for the Network Economy
+The web strategy also highlights the profound significance of virtual organizations in the new economy.
  
 Virtual organization is unlike web strategy,
 
-The virtual organization illustrates situations where a cluster of independent companies active with each other to execute aproject traditionally only manageable by large integrated organizations.
+The virtual organization illustrates situations where a cluster of independent companies active with each other to execute a project traditionally only manageable by large integrated organizations.
 
-The relationships between the partners ofthe virtual organizations could bestrategic unions or other formal contracts.This allows independent tocollaborate and compete with larger, vertically integrated organizations.
-
-New Strategies for the Network Economy
+The relationships between the partners of the virtual organizations could be strategic unions or other formal contracts. This allows independent to collaborate and compete with larger, vertically integrated organizations.
  
 An important process that links the web strategy and virtual organization is the deconstruction of integrated business processes and organizational models.
 
-Deconstruction isaneffective mechanism that enables the web togrow rapidly, it is increasingly leading to the development of virtual organizations in many sectors.
-
-New Strategies for the Network  Economy
+Deconstruction is an effective mechanism that enables the web to grow rapidly, it is increasingly leading to the development of virtual organizations in many sectors.
  
-The Web Strategy
+### The Web Strategy
 
-Hagel defined webs asclusters ofcompanies collaborating around aparticular technology.
+Hagel defined webs as clusters of companies collaborating around a particular technology.
 
 Examples of webs is the Microsoft Intel platform, SAP integrated IT solutions, Netscape and the Sony PlayStation.
 
-The webs create platform foreach company can mobilizes and support ofother companies to achieve their own objectives.
+The webs create platform for each company can mobilizes and support of other companies to achieve their own objectives.
 
 There are many different types of web, such as economic web, the technological and the value web, the customer web and the market web.
 
-The Web Strategy
+#### Classification of the Web 
 
-Classification of the Web 
+Economic web is a cluster of companies that use a common architecture to deliver independent elements of an overall value proposition to final consumers.
 
-Economic web is a cluster of companies that use a common architecture to deliver independent elements ofanoverall value proposition tofinal consumers.
+One example of an economic web is the Microsoft and Intel personal computer web - the Wintel web.
 
-One example of an economic web is the Microsoft and Intel personal computer web-the Wintel web.
+Within the web, independent companies combine to deliver the overall value proposition of a Windows PC. 
 
-Within the web, independent companies combine to deliver theoverall value proposition ofaWindows PC.
+The members of the web are independent companies, and very often they don’t know- indeed, do not even need to know-most other members of the web
 
-The Web Strategy
+All companies in the web are totally independent: they price, market and sell their products autonomously.
 
-Classification of the Web 
+It is the pursuit of economic self-interest that brings them together into the web.
 
-The members ofthe web are independent companies, and very often they don’t know- indeed, donoteven need to know-most other members oftheweb
+It is rarely any partner needs to develop a formal relations with the other participants.
 
-All companies in the web aretotally independent: they price, market and sell their products autonomously.
+Technology web, where a cluster of independent companies organize around a particular technological platform.
 
-It is the pursuit of economic self-interest that brings them together intotheweb.
+The development of the Internet and related technologies allows a growing number of industries to unbundle their vertically integrated business models to allow specialized, independent players to enter the market.
 
-It is rarely any partner needs todevelop aformal relations with the other participants.
-
-The Web Strategy Classification of the Web 
-
-Technology web, where acluster ofindependent companies organize around aparticular technological platform.
-
-The development of the Internet and related technologies allows a growing number of industries to unbundle their vertically integrated business models toallow specialized, independent players toenter the market.
-
-Example ;online service
-
-The Web Strategy Classification of the Web 
+Example; online service
 
 Unbundling has created more than virtual organizations,
 
-Because theproviders of various services areindependent and they provide their services to multiple buyers, and
-many ofthese buyers could be competitors. To do technology web.
-
-The Web Strategy Classification of the Web 
+Because the providers of various services are independent and they provide their services to multiple buyers, and many of these buyers could be competitors. To do technology web.
 
 Value web.
 
-It operates within thetechnology web and the technology web focuses onmaximizing value tothecustomer.
+It operates within the technology web and the technology web focuses on maximizing value to the customer.
 
-The value Web focus oncreating value for a specific group ofcompanies that have adopted a common technology platform.
+The value Web focus on creating value for a specific group of companies that have adopted a common technology platform.
 
-Examples are the value webs inthe desktop-computing technology web. Apple’s Macintosh vs. the PC by Microsoft and Intel
+Examples are the value webs in the desktop-computing technology web. Apple’s Macintosh vs. the PC by Microsoft and Intel
 
-The Web Strategy
-Classification of the Web 
-
-Two types Ofweb are emerging which are customer web and themarket web,
+Two types Of web are emerging which are customer web and the market web,
 
 The customer web focuses
 
-On managing theownership ofcustomer relationships and customer segments.
+On managing the ownership of customer relationships and customer segments.
 
-By developing and maintaining deep relationships with a particular segment ofcustomers,
+By developing and maintaining deep relationships with a particular segment of customers,
 
-A company could use special relationship and deep understanding toserve awide range oftheir needs by finding and delivering the most suitable products and services they need from themarket and maximally satisfy each customer.
-
-The Web Strategy
-Classification of the Web 
+A company could use special relationship and deep understanding to serve a wide range of their needs by finding and delivering the most suitable products and services they need from the market and maximally satisfy each customer.
 
 Similarly, a market web
 
-Focuses onaspecific type oftransaction bydeveloping deep relationships foraparticular need with all customers.
+Focuses on a specific type of transaction by developing deep relationships for a particular need with all customers.
 
-Example, aportal formortgages isthefocal point ofa market web.
+Example, a portal for mortgages is the focal point of a market web.
 
-Hagel illustrated two conditions that must be present before aneconomic web
+Hagel illustrated two conditions that must be present before an economic web
 
-First Conduction is a technological standard and increasing returns, When competing technology standards exist in a market,
+First Condition is a technological standard and increasing returns, When competing technology standards exist in a market,
 
-A common standard reduces riskbyallowing companies tomake investment decisions intheface oftechnological
+A common standard reduces risk by allowing companies to make investment decisions in the face of technological
 uncertainty.
 
-A technological standard provides thestability and safety net for firms to make dedicated investments; and those who own orcontrol the standard can often extract disproportionate reward from it.
+A technological standard provides the stability and safety net for firms to make dedicated investments; and those who own or control the standard can often extract disproportionate reward from it.
 
-The Web Strategy
-two conditions of an economic web
+### Two conditions of an economic web
 
 A company often has to take huge risks when selecting which standard to follow ;
 
 Once the decision is made, it often cannot go back. So following the wrong standard could be costly and strategically damaging to the company.
 
-Why some companies give away their core technologies and products toboost widespread adoption by users;
-
-The Web Strategy
-two conditions of an economic web
+Why some companies give away their core technologies and products to boost widespread adoption by users;
 
 The second condition of an economic web is increasing returns,
 
-Which creates ashared dependence that supports the web bydrawing inmore customers and producers.
+Which creates a shared dependence that supports the web by drawing in more customers and producers.
 
-This creates avirtuous contributions such asapositive feedback loop, drawing inever more companies and
-consumers, and increasing thesize ofthewhole market exponentially.
+This creates a virtuous contributions such as a positive feedback loop, drawing in ever more companies and
+consumers, and increasing the size of the whole market exponentially.
 
-The result is increasing returns for everyone within the web when more people join theweb.More valuable is to stay in the web which could attract more people.
+The result is increasing returns for everyone within the web when more people join the web. More valuable is to stay in the web which could attract more people.
  
-The Web Strategy two conditions of an economic web
-
-
 The web has several key characteristics.
 
-Webs are notonly union (association), because very often there isnoformal relationship between the majority of participants.
+Webs are not only union (association), because very often there is no formal relationship between the majority of participants.
 
-Each company inaweb
+Each company in a web is largely independent and their behaviors are driven by the pursuit of economic self-interest.
 
-Is largely independent and their behaviors are driven by the pursuit ofeconomic self-interest.
-
-From theory perspective, they operate separately inthe market including setting prices, marketing and selling
+From theory perspective, they operate separately in the market including setting prices, marketing and selling
 their products and services.
 
-The Web Strategy Characteristic of the Web
+Many of the companies working aggressively with one to another.
 
-The Web Strategy Characteristic of the Web
-
-
-Many of the companies working aggressively with one toanother.
-
-Webs arenatural responses toriskand uncertainty environment according toHagel.
+Webs are natural responses to risk and uncertainty environment according to Hagel.
 
 The safety net of the web allows a firm:
 
 To focus on activities that offer unique value
 
-The standards ofweb strategy ensure theproducts and services that offered byone company can be as fundamental of another companies infrastructure.
+The standards of web strategy ensure the products and services that offered by one company can be as fundamental of another companies infrastructure.
 
+As a result, increasing returns will lead to attract more and more companies and customers into the web. thereby enabling continued growth.
 
-As a result, increasing returns will lead toattract more and more companies and customers intothe web. thereby enabling continued growth.
+Therefore, the web Strategy is:
 
-Therefore, theweb Strategy is:
+Reducing the overall investment requirements by a company to enter the market,
 
-Reducing the overall investment requirements by a company toenter themarket,
+Allowing the company to focus investments on areas most likely to succeed.
 
-Allowing thecompany tofocus investments onareas most likely tosucceed.
+### Roles for different players in a web: shapers and adapters
 
+A company can perform one of two roles in a web: a shaper or an adapter.
 
-The Web Strategy
-Characteristic of the Web
-
-Roles for different players in a web: shapers and adapters
-
-Acompany can perform one of two roles in a web: ashaper oranadapter.
-
-Each role can potentially create substantial value but the strategies need topursue they have to
+Each role can potentially create substantial value but the strategies need to pursue they have to
 adopt differ significantly.
 
-For shapers, the central task istodefine and influence the environment in order to enhance their ability tocreate value.
+For shapers, the central task is to define and influence the environment in order to enhance their ability to create value.
 
-Adapters focus onstaying ahead ofcompetition byanticipating and responding to environmental changes quickly.
-
-Roles for different players in a web: shapers and adapters
+Adapters focus on staying ahead of competition by anticipating and responding to environmental changes quickly.
 
 To illustrate the differences we can examine the strategies of Microsoft and Dell in the desktop computing web.
 
-As a leading shaper of this web. Microsoft has concentrated on
+As a leading shaper of this web. Microsoft has concentrated on controlling and developing key technologies and relationships in the computer arena and using these positions to shape the web.
 
-Controlling and developing key technologies and relationships inthe computer arena and using these positions toshape theweb.
+Microsoft managed to establish MS-DOS, and then Windows, as the defacto operating system for PCs around the world.
 
-Microsoft managed toestablish MS-DOS, and then Windows, asthedefacto operating system forPCsaround
-the world.
+Its strategic alliance with Intel further strengthened its architectural leadership and facilitated standard
+adoption.
+
+For Microsoft, its huge profit and market value have been derived from the overall architecture rather than features and attributes of individual products.
+
+As a result, Microsoft's technology focus has always straddled product and architecture, so its long-term investment strategy is to strengthen the architecture and the web.
 
 Roles for different players in a web: shapers and adapters
 
-Its strategic alliance with Intel further strengthened
-itsarchitectural leadership and facilitated standard
-adoption.
+In contrast, Dell's desktop business has followed a very different strategy. Its focus is to use its low-cost
+business model to offer customized products at a low price and high quality.
 
-For Microsoft, itshuge profit and market value
-have been derived from theoverall architecture
-rather than features and attributes ofindividual
-products.
+Unlike Microsoft, Dell's success depends on its ability to exploit near-term product opportunities in the Microsoft/Intel value web.
 
-Asaresult, Microsoft's technology focus has
-always straddled product and architecture, soits
-long-term investment strategy istostrengthen the
-architecture and theweb.
+Its marketing has focused on product excellence and customization, low cost and comprehensive service, rather than trying to define new standards or create a new architecture to challenging Microsoft's Windows.
 
-Roles for different players in a 
-web: shapers and adapters
+Roles for different players in a web Shapers’ Condition
 
-Incontrast, Dell's desktop business has followed a
-very different strategy. Itsfocus istouseitslow-cost
-business model tooffer customized products ata
-lowprice and high quality.
+the ownership of a key platform technology is essential, which shapes the broader architecture and provides long-term lock-in of other participants in the web.
 
-Unlike Microsoft, Dell's success depends onits
-ability toexploit near-term product opportunities in
-theMicrosoft/Intel value web.
+The shapers also need to unbundle their businesses to release profitable opportunities for other web participants so as to attract companies to enter the web and create opportunities for increasing income
 
-Itsmarketing has focused onproduct excellence
-and customization, low cost and comprehensive
-service, rather than trying todefine new standards
-orcreate anew architecture tochallenging
-Microsoft's Windows.
-
-Roles for different players in a 
-web Shapers ’ Condition
-
-the ownership ofakey platform technology is
-essential, which shapes the broader architecture
-and provides long-term lock-in ofother participants
-intheweb.
-
-Theshapers also need tounbundle their businesses
-torelease profitable opportunities forother web
-participants soastoattract companies toenter the
-web and create opportunities forincreasing income
-
-Fortheshaper owning asmaller slice orlarge slice
-willhelp toincrease thefinancial profit and more
+For the shaper owning a smaller slice or large slice will help to increase the financial profit and more
 controlling (WHY).
 
+Its strategic focus needs to go far beyond the organization's own boundary, because its success depends not only on how efficient or innovative it is internally, but also, more importantly, on how successful the web is.
 
-Itsstrategic focus needs togofarbeyond the
-organization's own boundary, because itssuccess
-depends notonly onhow efficient orinnovative itis
-internally, but also, more importantly, onhow
-successful theweb is.
+By speeding up the adoption of core technologies and expanding the range of web participants, for an adapter to be successful,
 
-Byspeeding uptheadoption ofcore technologies
-and expanding therange ofweb participants, for
-anadapter tobesuccessful,
+Early participation in value web is essential for establishing pre-emptive positions in attractive markets 
 
-Early participation invalue web isessential for
-establishing pre-emptive positions inattractive
-markets.Roles for different players in a 
-web Shapers ’ Condition
+The adapter must pursue market shares in the value web through aggressive competition and strengthen relationships with the key shapers for information on the latest development.
 
-Roles for different players in a 
-web Adapters ’ conditions
+Strategically they could link their own strategies with keyshapers or
 
-The adapter must pursue market shares inthe
-value web through aggressive competition and
-strengthen relationships with the key shapers for
-information onthelatest development.
+Include several competing webs, although the latter can be expensive and often requires large scales.
 
-Strategically they could
+For example, a games company could develop games platforms, but there are serious cost and skill implications.
 
-Link their own strategies with keyshapers or
+### The implications of the web strategy
 
-Include several competing webs, although thelatter can
-beexpensive and often requires large scales.
+The implications of the web strategy are very deep,
 
-Forexample, agames company could develop games
-platforms, butthere areserious cost and skillimplications.
+It create powerful new ways to think about strategy, risk, technological uncertainty, and innovation
 
-The implications of the web 
-strategy
-
-Theimplications oftheweb strategy arevery deep,
-
-Itcreate powerful new ways tothink about strategy,
-risk, technological uncertainty, and innovation
-
-Allows companies tomanage risk and generate
-innovation intoday’s complex, rapidly changing
-environment.
-
+Allows companies to manage risk and generate innovation in today’s complex, rapidly changing environment.
 
 Reduce risk
 
-Itenables companies toreduce risks byfocusing onwhat
-they aregood
+It enables companies to reduce risks by focusing on what they are good
 
-Increases flexibility and reduce the overall investment
-required byeach company and lowers the barriers of
+Increases flexibility and reduce the overall investment required by each company and lowers the barriers of
 entry.
 
-Reduce risks forallparticipants intheweb because ifone
-company fails multiple companies willtake itplace.The implications of the web 
-strategy
-
-The implications of the web 
-strategy
+Reduce risks for all participants in the web because if one company fails multiple companies will take it place.
 
 Encourage Innovation
 
-Thismechanism encourages multiple entries inbottleneck
-areas orinareas employed bycompanies without unique
+Thismechanism encourages multiple entries inbottleneck areas orinareas employed bycompanies without unique
 capabilities,
 
-Provide opportunities for innovative companies to
-succeed.
+Provide opportunities for innovative companies to succeed.
 
-Encourages competition
+Encourages competition.
 
-The web encourages innovation because information is
-distributed far more widely and than inaphysical
-marketplace.
+The web encourages innovation because information is distributed far more widely than in a physical marketplace.
 
-This serves toimprove functionality, service, and
-customer adoption.
+This serves to improve functionality, service, and customer adoption.
 
-The implications of the web 
-strategy
+The implications of the web strategy:
 
-Management
+Management requires a new way of thinking about strategy, industry structure, relationships between companies, and value creation.
 
-Itrequire new way ofthinking about strategy, industry
-structure, relationships between companies and value
-creation.
+Traditionally, a firm creates its own strategy and then negotiates alliances in the market to advance its strategy.
 
-Traditionally afirm create itsown strategy and then
-negotiates alliances inthemarket toadvance itsstrategy.
+In the web, management first needs to decide which web to enter and what role it should play, and then formulates strategy for the firm (opposite).
 
-Intheweb,management firstneeds todecide which web
-toenter and what role itshould play, and then formulates
-strategy forthefirm.(Opposite)
+The performance measurement of business executives in shapers needs to be similar in physical firm performance as the web performance.
 
-The performance measurement ofbusiness executives in
-shapers needs tosimilar inphysical firmperformance asthe
-web performance.
+The implications of the web strategy:
 
-The implications of the web 
-strategy
+More recently, business unbundling and outsourcing has been pointed out carefully from reliable, competent suppliers.
 
-More recently, business unbundling and
-outsourcing hasbeen point carefully from reliable,
-competent suppliers.
+The information system of the firm often needs to extend beyond its own boundary to enhance communications and information sharing along the entire supply chain.
 
-The information system ofthefirm often needs to
-extend beyond itsown boundary toenhance
-communications and information share along the
-entire supply chain.
+The internet makes communication easy and affordable.
 
-Theinternet make communication easy and affordable
-
-The implications of the web 
-strategy
+The implications of the web strategy:
 
 Many issues remain unanswered.
 
-Theweb strategy requires organizations
+The web strategy requires organizations to adopt a flexible organizational design, outsource non-strategic activities, and increasingly.
 
-Toadopt aflexible organizational design
+It also gives rise to the emergence of virtual organizations and new inter-organizational relations.
 
-Outsource non- strategic activities and, increasingly.
+However, it remains unclear (Challenges):
 
-Italso gives risetotheemergence ofvirtual organizations
-and new inter-organizational relations.
++ How unbundling can take place, and under what conditions a virtual organization should be adopted instead of vertical integration.
 
-However, itremains unclear (Challenges)
+### What Does Your Company Really Do?
 
-How unbundling can take place,and under what
-conditions avirtual organization should be adopted
-instead ofvertical integration.
+Whenever I ask senior business executives and MBA students this simple question, the answers are always very specific (investment, provide service, sell products).
 
-What Does your Company 
-really Do?
+Stepping back from the sectoral details of these businesses, the nature of the activities that all organizations do is much simpler:
 
-Whenever Iask senior business executives and
-MBA students thissimple question, theanswers are
-always very specific, (investment, provide service,
-sellproducts)
++ The customer relationship business
++ The product innovation and commercialization business
++ The infrastructure management business
 
-Stepping back from thesectoral details ofthese
-businesses, the nature ofthe activities that all
-organizations doismuch simpler.
+Most organizations' activities can be assigned to one of the three categories listed above, although the make-up of some organizations tends to lean more heavily towards some of these activities than others.
 
-Thecustomer relationship business
+Such an organizational composition is a major problem for many organizations in today's business environment. (WHY?)
 
-Theproduct innovation and commercialization business
+Because these three businesses have very different characteristics, and each of them requires very different strategies, business models, organizational structures, and processes to function efficiently and effectively.
 
-Theinfrastructure management business
+The customer relations business is driven by economies of scope.
 
+Each customer should be treated as an individual, and the offerings to each customer—as far as possible—modified to maximally satisfy their needs.
 
-Most organizations' activities can beassigned to
-one ofthethree categories listed above, although
-themake-up ofsome organizations tends tolean
-more heavily towards some ofthese activities than
-others.
+The organization must focus efforts on customization, developing relationships with customers, and understanding their individual needs.
 
-Such anorganizational composition isamajor
-problem formany organizations intoday's business
-environment. (WHY)
+The company should offer as many choices as possible to maximize selection for customers.
 
-because these three businesses have very different
-characteristics and each ofthem requires very different
-strategies, business models and organizational structures
-and processes tofunction efficiently and effectively.What Does your Company 
-really Do?
+The objective is to offer appropriate products and services in order to capture a large share of customers' spending.
 
-What Does your Company 
-really Do?
-Thecustomer relations business
+The product innovation and commercialization business is driven by speed—the faster an organization can innovate and commercialize new products and services, the better.
 
-isdriven byeconomies ofscope
+This requires the organization to use all possible distribution channels to reach potential customers.
 
-Each customer should betreated asanindividual
-and the offerings toeach customer-asfaras
-possible –modify made tomaximally satisfy their
-needs.
+The organizational culture needs to focus on attracting and retaining creative talents.
 
-the organization must efforts incustomization to
-developing relationships with customers and
-understanding their individual needs.
+The operations need to be appropriate to serve the needs of these creative talents for innovation.
 
+In other words, the product innovation and commercialization business requires very different strategies, organizational culture, and operational systems from the customer relations business.
 
-The company should offer asmany choices as
-possible tomaximize selection forcustomers.
+The infrastructure management business is driven by economies of scale.
 
-The objective istooffer appropriate product and
-services inorder tocapture alarge share of
-customers' spending.
+The organization should use the infrastructure to deliver as many products as possible, as fast as possible, and at the lowest costs.
 
-The product innovation and commercialization
-business
+The strategic focus is on the full utilization of facilities and low-cost operations, so the organization needs to be oriented towards cost reduction and standardization.
 
-Isdriven byspeed-thefaster anorganization can
-innovate and commercialize new products and
-services thebetter.What Does your Company 
-really Do?
+### Unbundling the Unnaturally Bundled Corporations
 
-What Does your Company 
-really Do?
+Each activity has different characteristics, requires very different strategies, business models, organizational structures, and processes, and most of all, different organizational cultures to function efficiently and effectively.
 
-Thisrequires theorganization
+Managing them within one organization means that a compromise has to be reached, and despite various other potential benefits, none of them can operate optimally.
 
-Touse allpossible distribution channels toreach potential
-customers
+The different characteristics of the three businesses unnaturally bundled together within the same organization can create serious problems for each of them.
 
-The organizational culture needs towards attracting and
-retaining creative talents,
+In customer relationship business (e.g., banks):
 
-Theoperations need tobeappropriated toserve the
-needs ofthese creative talents forinnovation
+No bank could possibly provide the 'best products' in all categories. This creates a dilemma for the financial advisor in the bank.
 
-in other words, the product innovation and
-commercialization business requires very different
-strategies, organizational culture and operational
-systems from thecustomer relations business.
+Customer relationship management vs. specialized customer service company:
 
-What Does your Company 
-really Do?
+The moral of the story is that even if the customer relations management staff (the financial advisers) want to do a good job (that is, providing what is best for the customer), they cannot do so as long as they are part of an integrated bank.
 
-Theinfrastructure management business
+They have to sell all products from their own bank even though some of the products are not the best options for the customer.
 
-Itisdriven byeconomies ofscale,
+In contrast, a specialized customer service company could search the entire market and find the best-in-class products from multiple suppliers in each of the categories, and then bundle them together to maximally satisfy the needs of a customer.
 
-The organization should use the infrastructure to
-deliver asmany products aspossible, asfast as
-possible, and atthelowest costs.
+So for customer services, the integrated company cannot possibly compete with a specialist provider.
 
-The strategic focus isonthe full utilization of
-facilities and low-cost operations, so the
-organization require tobeoriented towards cost
-reduction and standardization.
+The same is true for product innovation and commercialization. The integrated company, once they have invested in producing a product, will need to recover the investment over a certain period of time and extract as much profit from it as possible.
 
-Unbundling the Unnaturally 
-Bundled Corporations
+If halfway through an investment cycle a newer and better product is invented, it may well be in the company's interest not to commercialize the new product too quickly, in case it cannibalizes the existing product and the investment already made in the existing product cannot be recovered.
 
-Each activity
+In comparison, for a product innovation and commercialization company, the consideration will be very different and they will explore different routes to market and commercialize the product as quickly as possible.
 
-have different characteristics
+For infrastructure management businesses, the driving force is scale—the more products that can be pumped through the infrastructure, the more quickly the organization can recover its investment and make a profit.
 
-require very different strategies, business models and
-organizational structure and processes
+However, being part of an integrated business will restrict what can and cannot be delivered through the infrastructure.
 
-and most ofall, different organizational cultures-to
-function efficiently and effectively.
+For example, the cash machine networks (Automated Teller Machine or ATM) in the UK require huge investment to develop and maintain, and for most banks it is a service they have to provide to customers, and often it is not a profitable activity.
 
-Managing them within one organization means
-that acompromise hastobereached, and despite
-various other potential benefits, none ofthem can
-operate optimally.
+However, if the network can be detached from banks, the infrastructure can be used to deliver more than cash, and it can also be used to provide a range of other services, for example, selling theatre or football tickets, and so on, thereby generating additional revenues for its providers.
 
+This may enable the ATM network to become a stand-alone, profitable business.
 
-Thedifferent characteristics ofthethree businesses
-unnaturally bundled together within the same
-organization can create serious problems foreach
-ofthem.
+The implications are very profound.
 
-Incustomer relationship business
+Since then, large companies have spent considerable energy and resources re-engineering and redesigning their core processes. They have used the latest ICTs to eliminate human intervention, cut waiting time, and reduce errors.
 
-Ex.Bank, nobank could possibly provide ‘best products ’in
-allcategories.This create adilemma tothe financial
-advisor inthebank
+For many companies, streamlining core processes has yielded impressive gains, saving money and time, and providing customers with more valuable products and services.
 
-Customer relation management vs.specialized
-customer service company.Unbundling the Unnaturally 
-Bundled Corporations
+However, there are limits to such gains. The principles governing the three core processes conflict with one another. Bundling them into a single corporation inevitably forces management to compromise the performance of each process in ways that no amount of re-engineering can overcome.
 
-Unbundling the Unnaturally 
-Bundled Corporations
+In the past, when transaction costs were high, and sometimes for other strategic reasons, these activities were bundled together under the same organizational roof and managed via vertically integrated business models and organizational designs.
 
-Themoral ofthestory isthat even ifthecustomer
-relations management staff (the financial advisers)
-want todoagood job(that is,providing what is
-best forthecustomer),
+However, the conditions today have changed, and it often makes more sense to unbundle them and run each of the three activities as stand-alone businesses. Examining the fundamental nature of the business provides one way to deconstruct the vertically integrated business model and processes.
 
-They cannot dosoaslong asthey arepart ofan
-integrated bank.
+Transaction cost pressures may also influence some organizations to choose not to unbundle.
 
-They have tosellallproducts from their own bank even
-though some oftheproducts arenotthebest options for
-thecustomer.
+Hagel and Singer believed that only product innovation is likely to be dominated by a large number of small companies because of the need for creativity, which favors smaller companies.
 
+The other two businesses—customer relations management and infrastructure management—are likely to consolidate quickly and be dominated by a small number of large companies.
 
-Incontrast, aspecialized customer service
-company could search theentire market and
+A second wave of unbundling for transforming intensive companies is 'unbundling the unbundled.' Most basic capital-intensive services were heavily regulated and/or owned by the country. Such services were mostly delivered by monopolies (single supplier).
 
-find thebest-in-class products from multiple suppliers in
-each ofthecategories, and then bundle them together to
-maximally satisfy theneeds ofacustomer.
+Examples include gas, electricity, water, telecommunication, and other utilities.
 
-Soforcustomer services, theintegrated company
-cannot possibly compete with aspecialist providerUnbundling the Unnaturally 
-Bundled Corporations
+Since deregulation, most of these services have been privatized, and the previous services have been unbundled into separate businesses. An example of this is the gas business, where the ownership of the pipeline is separated from the business of pipeline operation, maintenance, and upgrading, and the business of day-to-day work.
 
+The unbundling of vertical business has led to significant improvements and innovative efficiency. This was largely achieved by introducing competition into those stages of the value chain and separating ownership, management, and service delivery.
 
+### When is Virtual Worthy?
 
-The same istrue forproduct innovation and
-commercialization. Theintegrated company,
+Managers and academics alike are increasingly convinced that bureaucracy is bad and flexibility is good.
 
-once they have invested inproducing aproduct,
+Virtual organizations require less investment and are more responsive to market changes than integrated companies. Therefore, they are more suited for today's volatile business environment.
 
-thecompany willneed torecover theinvestment over a
-certain period oftime and extract asmuch profit from itas
-possible.
+Despite repeated warnings about the potential risks of the virtual organization since the mid-'90s, managers are still urged to subcontract everything possible today through downsizing, decentralization, alliances, and more recently, strategic and operational outsourcing.
 
-Ifhalfway through aninvestment cycle anewer and better
-product isinvented, itmay well beinthe company's
-interest nottocommercialize thenew product tooquickly,
+Virtual organizations have many advantages. According to Chesbrough and Teece, the keys to the success of virtual organizations are incentives and responsiveness. Rather than relying on administrative measures of the hierarchy to deploy resources and set priorities, virtual organizations use market entities to bring free agents together to buy and sell goods and services.
 
-Incase itcannibalizes the existing product and the
-investment already made intheexisting product cannot
-berecovered.Unbundling the Unnaturally 
-Bundled Corporations
+### When is Virtual Virtuous?
 
+Virtual organizations develop, manufacture, market, distribute, and support integrated solutions for the final consumers in ways that integrated companies could not.
 
-Incomparison, for product innovation and
-commercialization company,
+All the smartest people in the world work for them, so the market gives organizations access to such talents when required. In other words, virtual organizations encourage innovation and risk-taking.
 
-the consideration will bevery different and they will
-explore different routes tomarket and commercialize the
-product asquickly aspossible.
+These networks can be more sensitive, innovative, and responsive to market changes than integrated companies.
 
-Forinfrastructure management businesses,
+The problem is that great motivations could lead to excessive risk-taking by some of the free agents. When some of them fail, the entire network can be pulled down with them.
 
-Thedriving force isscale themore products that can be
-pumped through theinfrastructure themore quickly the
-organization can recover itsinvestment and make aprofit.
+Free agents are independent and work from their own self-interest, often at the expense of others. Furthermore, many of these unions will take a short-term view, and therefore, there is also the risk of friendly partnerships becoming long-term unhealthy.
 
-However, being part ofanintegrated business willrestrict
-what can and cannot bedeliver through theinfrastructure.Unbundling the Unnaturally 
-Bundled Corporations
+Virtual organization characteristics:
 
-Unbundling the Unnaturally 
-Bundled Corporations (ATM)
+Often working with little inefficiency out of the system, so some partners prefer the system's flexibility to face potential distractions and market changes. When the market changes direction suddenly, the whole network often collapses.
 
-For example, the cash machine networks
-Automated Teller Machine (ATM)
+In contrast, integrated companies depend on internal administrative measures to coordinate activities, control resources, and set priorities. Within integrated organizations, it is possible for some sections to make local sacrifices for the benefit of the whole organization.
 
-IntheUKrequire huge investment todevelop and
-maintain,
+Chesbrough and Teece point out the virtual organization and the integrated company as two extremes; in the middle are various alliances. The key is to strike an appropriate balance between incentive and control, which depends on the nature of the innovation the organization is pursuing.
 
-and formost banks itisaservice they have to
-provide tocustomers and often itisaprofitable not
-activity.
+### Autonomous versus Systemic Innovations
 
+There are two types of innovation:
 
-However, ifthe network can bedetached from
-banks,
+1. Innovations that can be followed up independently, such as turbochargers for cars.
+2. Innovations that must be followed up collaboratively, where no one can work without the other, such as photography, which depends on perfect camera technologies with film technologies.
 
-theinfrastructure can beused todeliver more than cash
-and itcan also beused toprovide arange ofother
-services
+When innovations are autonomous, virtual organizations can manage the development and commercialization of the innovation very well. When the innovation is systemic, integrated organizations are often more appropriate because the organization does not need to work with independent partners whom they have no control over.
 
-forexample, selling theatre orfootball tickets, and soon,
+It should also be noted that all innovations depend critically on information flows. Codified (collected) information can travel relatively easily between organizations (such as the information in an industry field). Tacit knowledge is deeply embedded in an organization and does not travel across organizational boundaries easily. Systemic innovation often requires tacit information, and it is often easier to coordinate the exchange of such information within the boundary of an organization.
 
-thereby generating additional revenues foritsproviders.
+### The Rise and Fall of IBM
 
-This may enable theATM network tobecome a
-stand-alone, profitable businessUnbundling the Unnaturally 
-Bundled Corporations (ATM)
+The success and failure of virtual organizations were clearly illustrated by the rise and fall of IBM since the 1980s. Under threat from aggressive advances by Apple, IBM launched its first PC in 1981. Rather than developing its own technologies, IBM chose to outsource all major components from the market: microprocessors were purchased from Intel, and the operating system was licensed from Microsoft. The PC was based on a standard and components that were widely available on the market.
 
-Unbundling the Unnaturally 
-Bundled Corporations
+This enabled hundreds of third-party developers of software and hardware to join the fray. IBM also relied on third parties to distribute its products. This greatly reduced the time and investment required, and they were able to bring the product to market in months.
 
-Theimplications arevery profound.
+This approach brought clear early success to IBM, and by 1983, IBM replaced Apple as the number one supplier of PCs with a market share of 26 percent, which further grew to 40 percent.
 
-Since thes, large companies have spent considerable
-energy and resources re-engineering and redesigning their
-core processes.
+However, the early success soon collapsed because IBM lost control of the IT architecture it created. Competitors were able to buy the same components, license the same operating system and application software, and use the same distribution channels, leaving IBM with little to establish competitive advantages.
 
-They have used the latest ICTs toeliminate human
-intervention, cutwaiting time and reduce errors.
+When IBM tried to regain control of the architecture by launching its own OS/2 operating system, Microsoft introduced a competing system, Windows, which was backward compatible with the old operating system, DOS. Compaq was also able to work with Intel to launch the first 'PC clone' before IBM. By 1998, IBM's PC market share had been reduced to a mere 8.6%, against Compaq's 12.8%.
 
-For many companies, streamlining core processes has
-yielded impressive gains, saving money and time and
-providing customers with more valuable products and
-services.
+In 2004, the IBM PC was sold to China's Lenovo. However, IBM did help create some super-rich companies in the industry such as Intel, Microsoft, Hewlett-Packard, and Dell.
 
+### Main Lessons
 
-However, there arelimits tosuch gains.
+The moral of the story is that a company should not outsource everything. Without core competences and strong internal strength, strategic positions in a virtual network are often short-lived. The virtual organization is only effective under particular circumstances.
 
-Theprinciples governing thethree core processes conflict
-with one another.
+For most organizations, especially large organizations, achieving the balance between a mixture of internal development capabilities, licenses, partnerships, and alliances, and new technologies purchased from other companies is essential to their long-term competitiveness and survival. Without control over key technologies and relationships, internal capability, and market-led virtual networks often do not work. This is particularly crucial for a firm to shape the market.
 
-Bundling them into asingle corpora tion inevitably forces
-management tocompromise the performance ofeach
-process inways that noamount ofre-engineering can an
-overcome.
+A further lesson is that organizations need to evaluate a new strategy and business model over different time scales. The right balance between long-term opportunities and short-term gains is very important. Too short a time horizon in evaluating new strategies and business models is dangerous.
 
-Inthepast when transaction costs were high, and
-sometimes forother strategic-reasons.
+Equally dangerous is the decentralization and outsourcing of key activities and technologies without strategic leverage and central coordination and control over the relationship and the provider.
 
-these activities were bundled together under the same
-organizational roof and managed viavertically integrated
-business models and organizational designs.Unbundling the Unnaturally 
-Bundled Corporations
+Virtual organizations have many advantages over integrated companies under certain circumstances. If implemented properly, the critical issue is to identify the right circumstances, the activities to unbundle or outsource from the market, and execute the strategy effectively.
 
-Unbundling the Unnaturally 
-Bundled Corporations
+### Summary
 
-However, theconditions today have changed and
-itoften makes more sense tounbundle them and
-run each ofthe three activities asstand-alone
-businesses.
+In the context of the changing business environment and the new rules of the networked, knowledge-based economy, this chapter illustrated one set of emerging strategies and business models.
 
-Examining thefundamental nature ofthebusiness provides
-one way todeconstruct thevertically integrated business
-model and processes
+The web strategy represents a powerful new way to think about strategy, risk, technological uncertainty, and innovation. It encourages business executives to re-evaluate their management focus, organizational structure, performance measurement, and information systems. It highlights the critical importance of standards in today's business environment, and once standards are established, it requires organizations to unbundle integrated business models and processes in order to release opportunities for other companies and grow the market rapidly.
 
-Transaction cost, have also cost pressure, some
-organizations may choose nottounbundle.
-
-Unbundling the Unnaturally 
-Bundled Corporations
-
-Hagel and Singer believed that only product
-innovation islikely tobedominated byalarge
-number ofsmall companies because oftheneed
-forcreativity, which favors smaller companies.
-
-The other two businesses-customer relations
-management and infrastructure management-
-are likely toconsolidate (join) quickly and be
-dominated byasmall number oflarge companies.
-
-Unbundling the Unbundled
-
-Asecond wave ofunbundling fortransforming
-intensive companies is'unbundling theunbundled’.
-
-Most basic capital-intensive services were heavily
-regulated and/or owned bythecountry.
-
-Such services were mostly delivered by
-monopolies (single supplier)
-
-Examples include gas, electricity, water,
-telecommunication and other utilities.
-
-Unbundling the Unbundled
-
-Since deregulation, most ofthese services have been
-privatized and the previous service have been
-unbundled intoseparated businesses
-
-An example ofthis isthe gas business where the
-ownership ofthepipeline isseparated from thebusiness
-ofpipeline operation, maintenance and upgrading, and
-thebusiness ofday-to-day work.
-
-The unbundling ofvertical business lead tosignificant
-improvements and innovated efficiency.
-
-Thiswas largely achieved byintroducing competition into
-those stages ofthevalue chain, and separate between
-ownership, management and service delivery.
-
-When is Virtual Worthy?
-
-Managers and academics alike are increasingly
-convinced that bureaucracy isbad and flexibility is
-good.
-
-Virtual organizations
-
-Require less investment, and more responsive tomarket
-changes than integrated companies,
-
-Therefore are more suited fortoday's volatile business
-environment.
-
-
-Despite repeated warnings about thepotential risks
-ofthevirtual organization since themid-s,
-
-Managers are still urged tosubcontract everything
-possible today,
-
-Through downsizing, decentralization, alliances and more
-recently, strategic and operational outsourcing.
-
-Virtual organizations have many advantages
-
-According,toChesbrough and Teece, thekeys to
-thesuccess ofvirtual organizations are
-
-incentives and responsiveness.Rather than relying on
-administrative measures ofthe hierarchy todeploy
-resources and setpriorities,
-When is Virtual Virtuous?
-
-When is Virtual Virtuous?
-
-Virtual organizations usemarket entities to
-
-Bring free agents together tobuy and sell goods and
-services.
-
-Todevelop,manufacture, market, distribute and support
-integrated solutions forthefinal consumers inways that the
-integrated companies could notdoit.
-
-Allthesmartest people intheworld work forthem, so
-themarket gives organizations access tosuch talents
-when required.So, Inother words, the virtual organizations encourage toinnovation and risk talking.
-
-These networks can bemore sensitive, innovative and responsive tomarket changes than integrated companies.
-
-When is Virtual Virtuous?
-
-Theproblem isthat great motivations could lead to excessive risktaking bysome ofthefree agents,
-
-When some ofthem fail, theentire network being pulled down with them.
-
-Free agents isindependent and they are working from their own self-interest, often attheexpense ofothers.
-
-Furthermore, many ofthese union willtake a short-term view, and therefore there isalso the risk offriendly partnerships tobeinlong term unhealthy.
-
-When is Virtual Virtuous?
-
-Virtual organization characteristics
-
-Often working little inefficiency outofthesystem, so some partners prefer the system flexibility toface potential distractions and market changing.
-
-When market changes direction suddenly, the whole network often collapsed.
-
-Incontrast, integrated companies
-
-Depending on internal administrative measures to coordinate activities, control resources and setpriorities.
-
-Within integrated organizations itispossible for some sections tomake local sacrifices forthe benefit ofthe whole organization.
-
-When is Virtual Virtuous?
-
-Chesbrough and Teece point out the virtual organization and theintegrated company astwo extremes: inthemiddle arevarious alliances
-
-The key istostrike an appropriate balance between incentive and control, which depends on the nature ofthe innovation the organization is pursuing.
-
-Autonomous versus Systemic 
-Innovations
-
-There aretwotypes ofinnovation.
-.Innovations that can befollowed upindependently, such as innovation isaturbo chargers forcars.
-.Innovation must befollowed upcollaboratively, and no one can work without theother, such asphotography which depends onaperfect camera technologies with film technologies.
-
-When innovations areautonomous, thevirtual organizations can manage the development and commercialization ofthe innovation very well,
-
-When theinnovation issystemic, theinnovation areoften more appropriate because theorganization does notneed towork with independent partners who they have nocontrol.
-
-Autonomous versus systemic  innovations
-
-Itshould also benoted that allinnovations depend critically oninformation flows.
-
-Codified (collected) information can travel relatively easily between organizations (such astheinformation in industry field).
-
-Tacit knowledge isdeeply embedded in an organization and does not travel across organizational boundaries easily.
-
-Systemic innovation often require tacit information, and often easier tocoordinate theexchange ofsuch information within theboundary ofanorganization.
-
-The Rise and Fall of IBM
-
-The success and failure ofvirtual organizations were clearly illustrated bytherise/fall ofIBM since the s.Under threat from aggressive advances by Apple,
-
-IBM launched itsfirstPCin.
-
-Rather than developing itsown technologies. IBM chose tooutsource allmajor components from the market:
-
-microprocessors were purchased from Intel and the operating system licensed from Microsoft. The PC was based onastandard and components that were widely available onthemarket,
-
-
-This enabled hundreds of third-party developers of software and hardware tojointhefray.
-
-IBM also relied onthird parties todistribute itsproducts.
-
-IBM have done greatly reduced the time and investment required and they was able tobring the product tomarket inmonths.
-
-This approach brought clear early success to IBM. and by,
-
-IBM replaced Apple as the number one supplier of PCs with a market share ofpercent, which further grew to percent.
-The Rise and Fall of IBM
-
-The Rise and Fall of IBM
-
-However, the early success was soon collapse because IBM lost control oftheITarchitecture it created.
-
-Competitors were able tobuy the same components, license the same operating system and application software, and usethesame distribution channels.
-
-leaving IBM with little toestablish competitive advantages.
-
-When IBM tried toregain control ofthearchitecture by launching itsown OS/operating system.Microsoft introduced acompeting system, Windows, which was backward compatible with theoldoperating system, DOS
-
-The Rise and Fall of IBM
-
-Compaq was also able towork with Intel tolaunch the first'PCbefore IBM.
-
-By, IBM's PCmarket share had been reduced to a mere.%,against Compaq's. %–
-
-In the IBM, PC was sold to China's Lenova.
-
-However, IBM did help create some super-rich companies inthe industry such as Intel and Microsoft toHewlett-Packard and Dell.
-
-Main Lessons
-
-Themoral ofthestory is that a company should not outsource everything,
-
-Without core competences and strong internal strength, strategic positions invirtual network are often short-lived
-
-The virtual organization isonly effective under particular circumstances.
-
-
-For most organizations especially the large organizations,
-
-Achieving thebalance isimportant between amixture of internal development capabilities, licenses, partnership and alliances,
-
-New technologies purchased from other companies, is essential totheir long- term competitive and survival. 
-Without control over key technologies and relationships, internal capability, market-ledvirtual networks often do not work, isparticularly crucial forafirm toshape the market.
-
-Main Lessons
-
-A further lesson isthat organizations need to evaluate anew strategy anbusiness model over different time scales
-
-Theright balance between long-term opportunities and short-term gains isvery important.
-
-Too short atime horizon inevaluating new strategies and business models isdangerous ;
-
-Equally dangerous isthedecentralization and outsourcing of key activities and technologies without strategic leverage and central coordination and control over the relationship and theprovider
-
-Main Lessons
-
-Virtual organizations have many advantages over integrated companies, under certain circumstances
-
-If implemented properly, thecritical issue is
-
-Toidentify theright circumstances,
-
-Theactivities tounbundle oroutsource from themarket,
-
-Execute thestrategy effectively.
-
-Summary
-
-In the context of the changing business environment and thenew rules ofthenetworked, knowledge-based economy,
-
-This chapter illustrated one set ofemerging strategies and business models.
-
-
-The web strategy
-
-Represents apowerful new way tothink about strategy, risk, technological uncertainty and innovation
-
-Itencourages business executives tore-evaluate their management focus, organizational structure, performance measurement, and information systems.
-
-Highlights thecritical importance ofstandards intoday's business environment ;and once standards are established, itrequires organizations to unbundle integrated business models and processes inorder to release opportunities forother companies and grow the market rapidly.
-
-Summary
-
-However, virtual organizations point out new challenges tobusiness executives, under specific circumstances,
-
-The virtual organization isvery effective toprovide the resources and competence ofindependent companies in the market todeliver integrated solutions tocustomers,
-
-It is responsive and flexible than many ofthevertically integrated companies inresponding tomarket changes
+However, virtual organizations point out new challenges to business executives. Under specific circumstances, the virtual organization is very effective in providing the resources and competence of independent companies in the market to deliver integrated solutions to customers. It is more responsive and flexible than many of the vertically integrated companies in responding to market changes.

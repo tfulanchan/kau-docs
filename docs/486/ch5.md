@@ -1,5 +1,5 @@
 ---
-title: Chapter 5 How the Internet Redefines Organizational Boundaries A transaction Cost Analysis
+title: "Chapter 5 How the Internet Redefines Organizational Boundaries: A transaction Cost Analysis"
 sidebar_position: 1
 ---
 
@@ -29,7 +29,7 @@ What is the transaction cost for purchasing something online? (Share your inform
 
 ### The Internet and Changing Organizational Boundaries: A Revolution in Interaction
 
-Minimizing costs is one important principle that most (if not all) organizations need to follow. It is useful to examine the appropriateness of organizational designs from a cost and efficiency perspective.
+Minimizing costs is one important principle that all organizations need to follow. It is useful to examine the appropriateness of organizational designs from a cost and efficiency perspective.
 
 To make a clear boundary between the organization and their market, the costs to an organization can be divided into two main categories:
 
@@ -59,7 +59,7 @@ The methods that can be affected include communication channels such as phone ca
 
 Interactions are not free, and in fact, they are very expensive.
 
-At the economy level, the McKinsey study found that in the USA, interactions represent a significant percentage of all labor activities. Even in developing countries, the figure is still high.
+At the economy level, the [McKinsey](https://www.mckinsey.com/industries/healthcare/our-insights/putting-the-right-price-on-customer-interactions) study found that in the USA, interactions represent a significant percentage of all labor activities. Even in developing countries, the figure is still high.
 
 At an industry level, interactions account for over half of all labor activities in services and a significant portion in mining, agriculture, and manufacturing.
 
@@ -99,7 +99,7 @@ These activities have very different features and require different styles of or
 
 When combined together in one organization, none of these activities can operate at the optimum level.
 
-The customer relationship management is scope-driven—i.e., each customer should be treated as an individual, and the offerings the organization provides should match the requirements of the customer as far as possible.
+The customer relationship management is scope-driven—i.e., each customer should be treated as an individual, and the offerings the organization provides should match the requirements of the customer.
 
 Product innovation and marketing are focused on innovating quickly and getting the innovations to market as quickly as possible.
 
@@ -117,7 +117,7 @@ In vertically integrated organizations, all partners produce different products/
 
 ### When is Virtual Virtuous?
 
-Cost is only one of the factors that organizations consider when making strategic decisions on organizational boundaries and strategic focuses. 
+Cost is only one of the factors that organizations consider when making strategic decisions on organizational boundaries and strategic focuses.
 
 The success of virtual organizations requires all partners to work towards a common goal, but it is not uncommon for each party to act in its own self-interest at the expense of others.
 

@@ -4,9 +4,9 @@ sidebar_position: 0
 
 # CPIS-486 E-commerce strategies
 
-#### Adpater
+Adpater
 
-#### Shaper
+Shaper
 
 Shapers focus on influencing and shaping the evolution of the industry structure and environment to their advantage. They leverage key platform technologies, manage increasing returns dynamics, and mobilize economic incentives to accelerate web growth and create lock-in effects.
 
@@ -14,11 +14,11 @@ Adapters quickly respond to changes happening in the environment. Adapters estab
 
 While shapers proactively shape the playing field, adapters flexibly adapt and thrive within that changing landscape shaped by others.
 
-#### Customer relationship business
+Customer relationship business
 
-#### Product innovation and commercialization business
+Product innovation and commercialization business
 
-#### Infrastructure management business
+Infrastructure management business
 
 | business | example | description | 
 |-|-|-|
@@ -26,9 +26,9 @@ While shapers proactively shape the playing field, adapters flexibly adapt and t
 | Product innovation and commercialization | Apple conceiving new products and bringing them to market quickly | prioritize speed-to-market and rewarding creative talent |
 | Infrastructure management | logistics companies like FedEx managing high-volume operational facilities efficiently at scale | pursue economies of scale through standardization to drive down unit costs in high-volume operations. While often bundled together historically, these business types have conflicting economics, cultures and competitive requirements. |
 
-#### Autonomous innovations
+Autonomous innovations
 
-#### Systemic innovations
+Systemic innovations
 
 Autonomous innovations are those that can be independently pursued without relying on other innovations or actors, such as developing a new turbocharger to increase horsepower. 
 
@@ -36,7 +36,7 @@ Systemic innovations require a series of interdependent and complementary innova
 
 Virtual organizations are better suited for pursuing autonomous innovations at the edges of the organization, leveraging external partnerships and alliances. However, they face challenges in coordinating systemic innovations that require tighter integration and control across organizational boundaries. 
 
-#### Virtual organization and integrated companies
+Virtual organization and integrated companies
 
 Virtual organizations in the network economy are geographically distributed networks of independent entities collaborating remotely through communication technologies. They concentrate on core competencies while outsourcing non-core activities, relying heavily on trust and flexibility to rapidly adapt to changing conditions. Extensive use of IT enables seamless coordination and information sharing across these fluid virtual structures.
 
@@ -57,9 +57,9 @@ The choice depends on whether innovations are autonomous or systemic, with virtu
 | Thrive on agility and external partnerships | Prioritize self-sufficiency and control |
 | Suitable for autonomous innovations | Advantageous for systemic innovations requiring tight coordination |
 
-#### Sustaining innovations
+Sustaining innovations
 
-#### Disruptive innovations
+Disruptive innovations
 
 Sustaining innovation focuses on incrementally improving existing products or services to serve an organization's existing customer base, such as Apple releasing updated iPhone models each year with enhanced features.
 
@@ -90,7 +90,7 @@ Top-down disruption refers to when an established company leverages new technolo
 | New-market Disruption | New entrant | Non-consumers lacking skills, wealth or access | Creates entirely new market with simple, accessible product | Serves previously unserved segment |
 | Top-down Disruption | Established company | Existing high-end market | Leverages new tech or business model for higher-quality, affordable product | Disrupts incumbents from above, not low-end |
 
-#### E-business model
+E-business model
 
 A business model needs to address:
 - The revenue and product aspects,

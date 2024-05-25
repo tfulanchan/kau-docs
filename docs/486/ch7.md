@@ -179,7 +179,7 @@ Modularity enables independent, non-integrated organizations to sell, buy, and a
 
 This scenario clearly favors outsourcing and virtual organizational designs.
 
-So, in parallel with the nature of innovation, another important dimension to consider when choosing appropriate organizational designs is the stage of development from the customers' job-to-be-done perspective.
+In parallel with the nature of innovation, another important dimension to consider when choosing appropriate organizational designs is the stage of development from the customers' job-to-be-done perspective.
 
 ### Organizational Structures and Disruptive Innovations
 

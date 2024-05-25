@@ -47,11 +47,11 @@ Early studies have mainly focused on identifying and describing various e-busine
 
 Based on a comprehensive review of literature, Yousept classified studies of e-business models into three main categories:
 
-**E-business models building blocks:** Outlined the main components and building blocks that make up the architectural configuration of e-business.
+E-business models building blocks: Outlined the main components and building blocks that make up the architectural configuration of e-business.
 
-**E-business model content and evaluation:** E-business model content framework focuses on what is and should be the core of a good e-business model (viability, value creation, and capture potential); E-business model evaluation provides tools and frameworks to systematically assess the viability of the e-business model.
+E-business model content and evaluation: E-business model content framework focuses on what is and should be the core of a good e-business model (viability, value creation, and capture potential); E-business model evaluation provides tools and frameworks to systematically assess the viability of the e-business model.
 
-**E-business model classification:** Focuses on the classifications of various models (purpose of e-business).
+E-business model classification: Focuses on the classifications of various models (purpose of e-business).
 
 ## Current E-Business Models
 
@@ -70,27 +70,19 @@ Based on this definition, he illustrated eleven e-business models that can be ob
 
 Most of these models are self-explanatory.
 
-**E-Shops:** Web marketing by an organization or an online shop.
-
-**E-Procurement:** The electronic tendering and procurement of goods and services.
-
-**E-Malls:** A collection of e-shops enhanced by a common umbrella.
-
-**E-Auctions:** Electronic implementation of bidding mechanisms.
-
-**Virtual Communities:** Online communities of members with common interests.
-
-**Collaboration Platforms:** The provision of tools and information environment for collaboration between enterprises.
-
-**Third-Party Marketplaces:** Using a third party to provide web marketing or an online shop.
-
-**Value-Chain Integrators:** Integrating multiple steps of the value chain, with the potential to exploit the information flows between those steps as further added value.
-
-**Value-Chain Service Providers:** Companies specializing in a specific part of the value chain (e.g., e-logistics, e-payments).
-
-**Information Brokerage:** New information services such as information search, customer profiling, and business opportunity brokerage.
-
-**Trust and Other Services:** Trust services by certification authorities or others. Other services include the delivery of business information and consultancy services.
+|Model | Description |
+|-|-|
+| E-Shops | Web marketing by an organization or an online shop.
+| E-Procurement | The electronic tendering and procurement of goods and services. |
+| E-Malls | A collection of e-shops enhanced by a common umbrella. |
+| E-Auctions | Electronic implementation of bidding mechanisms. |
+| Virtual Communities | Online communities of members with common interests. |
+| Collaboration Platforms | The provision of tools and information environment for collaboration between enterprises. |
+| Third-Party Marketplaces | Using a third party to provide web marketing or an online shop. |
+| Value-Chain Integrators | Integrating multiple steps of the value chain, with the potential to exploit the information flows between those steps as further added value. |
+| Value-Chain Service Providers | Companies specializing in a specific part of the value chain (e.g., e-logistics, e-payments). |
+| Information Brokerage | New information services such as information search, customer profiling, and business opportunity brokerage. |
+| Trust and Other Services | Trust services by certification authorities or others. Other services include the delivery of business information and consultancy services. |
 
 By mapping the business models onto a two-dimensional framework, Timmers identified two opposite trends for the future evolution of e-business models:
   - One is the move toward increased integration of information flow.
@@ -119,9 +111,9 @@ Afuah and Tucci moved beyond the identification of individual categories of e-bu
 They have specifically emphasized the importance of revenue generation in their classification of e-business models.
 
 Key Components Identified:
-1. **The value that a firm offers its customers.**
-2. **The segment of customers it targets to whom it will offer the value.**
-3. **The scope of products and services it offers to each segment of customers.**
+1. The value that a firm offers its customers.
+2. The segment of customers it targets to whom it will offer the value.
+3. The scope of products and services it offers to each segment of customers.
 
 The profit site it chooses;
 
@@ -141,13 +133,13 @@ The authors then argued that these components must work in a system. How well th
 
 Afuah and Tucci considered the e-Business model as the method by which a firm plans to make money long-term using the Internet. It is the system that takes advantage of the properties of the Internet to make money. They identified seven possible revenue models in their classification of e-Business models:
 
-1. **Commission** - fees levied on transactions based on the size of the transaction.
-2. **Advertising** - revenue generated by charging for advertising rather than by charging the end users for using the website.
-3. **Mark-up** - the primary source of revenue from mark-up on the products it sells via the Internet.
-4. **Production** - which Rappa called the manufacturing model, where the manufacturer sells to the customers directly via the Internet.
-5. **Referral-based** - firms rely on fees for steering visitors to another company's site.
-6. **Subscription-based** - the company charges users a flat rate on a periodic basis for certain services.
-7. **Fee-for-service based** - activities are metered and the users pay for what they consume, which Rappa calls the utility model.
+1. Commission - fees levied on transactions based on the size of the transaction.
+2. Advertising - revenue generated by charging for advertising rather than by charging the end users for using the website.
+3. Mark-up - the primary source of revenue from mark-up on the products it sells via the Internet.
+4. Production - which Rappa called the manufacturing model, where the manufacturer sells to the customers directly via the Internet.
+5. Referral-based - firms rely on fees for steering visitors to another company's site.
+6. Subscription-based - the company charges users a flat rate on a periodic basis for certain services.
+7. Fee-for-service based - activities are metered and the users pay for what they consume, which Rappa calls the utility model.
 
 The authors recognized that their classification was based on the dominant revenue model. The revenue model is only one of at least four dimensions that determine the classification of business models. By analyzing and comparing previous studies of business models along four dimensions—Profit site, Revenue model, Commerce strategy, and Pricing model—they are able to describe the typology of e-Business models in a systematic fashion.
 
@@ -188,14 +180,11 @@ The ontological framework of the e-Business model is based on four main pillars:
 - Infrastructure management
 - Financials
 
-**Product innovation:**
-Describes what business the company is in.
-
-**Customer relationship:**
-Illustrates who the company's target customers are.
-
-**Infrastructure management describes:**
-How the company efficiently deals with the logistical issue, and the financials deal with the revenue model.
+| Pillars | Description |
+|-|-|
+| Product innovation | Describes what business the company is in. |
+| Customer relationship | Illustrates who the company's target customers are. |
+| Infrastructure management | Describes how the company efficiently deals with the logistical issue, and the financials deal with the revenue model. |
 
 ## An E-Business Model Ontology pillars and building blocks
 

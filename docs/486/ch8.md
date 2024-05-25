@@ -3,7 +3,7 @@ title: Chapter 8 Emerging E-Business Models in the Network Economy
 sidebar_position: 3
 ---
 
-## Introduction
+### Introduction
 
 The rapid development of the Internet and related technologies, combined with the changing nature of the economy and other changes in the business environment, has facilitated the emergence of new business strategies.
 
@@ -21,7 +21,7 @@ Since the mid-1990s, numerous studies have been undertaken to identify, describe
 
 This chapter will highlight some of the key research findings in recent years.
 
-## What Is a Business Model?
+### What Is a Business Model?
 
 Definitions of a business model vary but a common description is about how a business works and the logic that creates its value.
 
@@ -33,7 +33,7 @@ Afuah and Tucci defined the business model as the method by which a firm builds 
 
 In particular, a business model details how a firm makes money now and in the future, and it enables a firm to have sustainable competitive advantages over its competitors.
 
-## What Is an E-Business Model?
+### What Is an E-Business Model?
 
 Like the concept of the business model, the e-business model is also a multidimensional concept.
 
@@ -53,7 +53,7 @@ E-business model content and evaluation: E-business model content framework focu
 
 E-business model classification: Focuses on the classifications of various models (purpose of e-business).
 
-## Current E-Business Models
+### Current E-Business Models
 
 Timmers made a first attempt to classify different ways of doing business on the Internet and provided some preliminary categorizations of the phenomenon.
 
@@ -104,7 +104,7 @@ The main categories are summarized in the following table.
 | Community | Group of people with a common interest, ending up as a cluster of people with critical mass purchasing power. Revenue comes from advertising and subscription fees. | Knowledge network. |
 | Utility | Pay-as-you-go approach. | |
 
-## Afuah and Tucci's Classification
+### Afuah and Tucci's Classification
 
 Afuah and Tucci moved beyond the identification of individual categories of e-business models to developing a classification.
 
@@ -153,7 +153,7 @@ In terms of pricing models, they identified five separate categories: fixed pric
 
 By overlaying these four dimensions, the authors believe that most e-Business models can be characterized.
 
-## An E-Business Model Ontology
+### An E-Business Model Ontology
 
 Osterwalder believed that despite the significant progress made by previous studies of e-Business models, most previous studies dealt with only some aspects of the concept while neglecting or downplaying others. He defined a business model as the logic of a business system for creating value that lies behind the actual processes.
 
@@ -186,7 +186,7 @@ The ontological framework of the e-Business model is based on four main pillars:
 | Customer relationship | Illustrates who the company's target customers are. |
 | Infrastructure management | Describes how the company efficiently deals with the logistical issue, and the financials deal with the revenue model. |
 
-## An E-Business Model Ontology pillars and building blocks
+### An E-Business Model Ontology pillars and building blocks
 
 | Pillars | Building blocks of business model | Description|
 |-|-|-|
@@ -204,7 +204,7 @@ The e-Business model domain can be structured into several levels of decompositi
 
 It provides a valuable toolkit that would enable business leaders to define, assess, and change their business models, and enable information system developers to undertake information system requirement engineering.
 
-## Summary 
+### Summary 
 
 The rapidly changing business environment has put enormous pressure on all organizations to explore new strategies and business models.
 

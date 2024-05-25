@@ -3,140 +3,164 @@ title: Chapter 8 Emerging E-Business Models in the Network Economy
 sidebar_position: 3
 ---
 
-# Introduction
+## Introduction
 
-- The rapid development of the Internet and related technologies, combined with the changing nature of the economy and other changes in the business environment, has facilitated the emergence of new business strategies.
-- Some of the new strategies have been discussed in the last three chapters.
-- One of the main aims of a good strategy is to lead to circumstances in the long term that are favorable to profit generation.
-- However, strategies do not automatically translate into profit. Instead, profit is earned through the day-to-day operation of the company.
-- Structural profit potential, as derived from the ability to create value for customers and make a unique contribution, is specified systematically by what is known as the business model.
+The rapid development of the Internet and related technologies, combined with the changing nature of the economy and other changes in the business environment, has facilitated the emergence of new business strategies.
 
-# Introduction
+Some of the new strategies have been discussed in the last three chapters.
 
-- In other words, to implement new strategies and to translate them into new structures, processes, and day-to-day activities, the missing link that needs to be explored is the business model.
-- Since the mid-1990s, numerous studies have been undertaken to identify, describe, and conceptualize them.
-- This chapter will highlight some of the key research findings in recent years.
+One of the main aims of a good strategy is to lead to circumstances in the long term that are favorable to profit generation.
 
-# What Is a Business Model?
+However, strategies do not automatically translate into profit. Instead, profit is earned through the day-to-day operation of the company.
 
-- Definitions of a business model vary but a common description is about how a business works and the logic that creates its value.
-- Jutla: A business model determines processes and transactions.
-- Timmers defined a business model as the organization, or architecture, of product, service, and information flows, and the sources of revenue and benefits for suppliers and customers.
-- Afuah and Tucci defined the business model as the method by which a firm builds and uses its resources to offer its customers better value than its competitors and to make money in doing so.
-- In particular, a business model details how a firm makes money now and in the future, and it enables a firm to have sustainable competitive advantages over its competitors.
+Structural profit potential, as derived from the ability to create value for customers and make a unique contribution, is specified systematically by what is known as the business model.
 
-# What Is an E-Business Model?
+In other words, to implement new strategies and to translate them into new structures, processes, and day-to-day activities, the missing link that needs to be explored is the business model.
 
-- Like the concept of the business model, the e-business model is also a multidimensional concept.
-- Many authors have attempted to conceptualize e-business models in a systematic fashion.
-- E-business models generally describe emerging business models that exploit the new capabilities of the Internet and related technologies.
+Since the mid-1990s, numerous studies have been undertaken to identify, describe, and conceptualize them.
 
-# What Is an E-Business Model?
+This chapter will highlight some of the key research findings in recent years.
 
-- Since the dot-com boom of the late 1990s, many studies have been carried out.
-- Early studies have mainly focused on identifying and describing various e-business models and classifying them into different categories.
-- Based on a comprehensive review of literature, Yousept classified studies of e-business models into three main categories:
+## What Is a Business Model?
 
-# What Is an E-Business Model?
+Definitions of a business model vary but a common description is about how a business works and the logic that creates its value.
 
-- **E-business models building blocks:** Outlined the main components and building blocks that make up the architectural configuration of e-business.
-- **E-business model content and evaluation:** E-business model content framework focuses on what is and should be the core of a good e-business model (viability, value creation, and capture potential); E-business model evaluation provides tools and frameworks to systematically assess the viability of the e-business model.
-- **E-business model classification:** Focuses on the classifications of various models (purpose of e-business).
+Jutla: A business model determines processes and transactions.
 
-# Current E-Business Models
+Timmers defined a business model as the organization, or architecture, of product, service, and information flows, and the sources of revenue and benefits for suppliers and customers.
 
-- Timmers made a first attempt to classify different ways of doing business on the Internet and provided some preliminary categorizations of the phenomenon.
-- He started with a systematic approach of identifying architectures for business models, then based on the idea of value chain deconstruction and reconstruction, identifying possible ways of integrating information along the chain between the different components.
-- He then explored two dimensions of each of the business models: the extent of innovation of the business model, and the extent of integration of information and functions along the value chain.
+Afuah and Tucci defined the business model as the method by which a firm builds and uses its resources to offer its customers better value than its competitors and to make money in doing so.
 
-# Current E-Business Models
+In particular, a business model details how a firm makes money now and in the future, and it enables a firm to have sustainable competitive advantages over its competitors.
 
-- Timmers defined a business model as an architecture for product, service, and information flows, including:
+## What Is an E-Business Model?
+
+Like the concept of the business model, the e-business model is also a multidimensional concept.
+
+Many authors have attempted to conceptualize e-business models in a systematic fashion.
+
+E-business models generally describe emerging business models that exploit the new capabilities of the Internet and related technologies.
+
+Since the dot-com boom of the late 1990s, many studies have been carried out.
+
+Early studies have mainly focused on identifying and describing various e-business models and classifying them into different categories.
+
+Based on a comprehensive review of literature, Yousept classified studies of e-business models into three main categories:
+
+**E-business models building blocks:** Outlined the main components and building blocks that make up the architectural configuration of e-business.
+
+**E-business model content and evaluation:** E-business model content framework focuses on what is and should be the core of a good e-business model (viability, value creation, and capture potential); E-business model evaluation provides tools and frameworks to systematically assess the viability of the e-business model.
+
+**E-business model classification:** Focuses on the classifications of various models (purpose of e-business).
+
+## Current E-Business Models
+
+Timmers made a first attempt to classify different ways of doing business on the Internet and provided some preliminary categorizations of the phenomenon.
+
+He started with a systematic approach of identifying architectures for business models, then based on the idea of value chain deconstruction and reconstruction, identifying possible ways of integrating information along the chain between the different components.
+
+He then explored two dimensions of each of the business models: the extent of innovation of the business model, and the extent of integration of information and functions along the value chain.
+
+Timmers defined a business model as an architecture for product, service, and information flows, including:
   - A description of the various business actors and their roles,
   - A description of the potential benefits for the various business actors,
   - And a description of the sources of revenue.
-- Based on this definition, he illustrated eleven e-business models that can be observed in the real world and are widely referred to in other studies of e-business models.
-- Most of these models are self-explanatory.
 
-# Current E-Business Models
+Based on this definition, he illustrated eleven e-business models that can be observed in the real world and are widely referred to in other studies of e-business models.
 
-- **E-Shops:** Web marketing by an organization or an online shop.
-- **E-Procurement:** The electronic tendering and procurement of goods and services.
-- **E-Malls:** A collection of e-shops enhanced by a common umbrella.
-- **E-Auctions:** Electronic implementation of bidding mechanisms.
-- **Virtual Communities:** Online communities of members with common interests.
-- **Collaboration Platforms:** The provision of tools and information environment for collaboration between enterprises.
-- **Third-Party Marketplaces:** Using a third party to provide web marketing or an online shop.
-- **Value-Chain Integrators:** Integrating multiple steps of the value chain, with the potential to exploit the information flows between those steps as further added value.
-- **Value-Chain Service Providers:** Companies specializing in a specific part of the value chain (e.g., e-logistics, e-payments).
-- **Information Brokerage:** New information services such as information search, customer profiling, and business opportunity brokerage.
-- **Trust and Other Services:** Trust services by certification authorities or others. Other services include the delivery of business information and consultancy services.
+Most of these models are self-explanatory.
 
-# Current E-Business Models
+**E-Shops:** Web marketing by an organization or an online shop.
 
-- By mapping the business models onto a two-dimensional framework, Timmers identified two opposite trends for the future evolution of e-business models:
+**E-Procurement:** The electronic tendering and procurement of goods and services.
+
+**E-Malls:** A collection of e-shops enhanced by a common umbrella.
+
+**E-Auctions:** Electronic implementation of bidding mechanisms.
+
+**Virtual Communities:** Online communities of members with common interests.
+
+**Collaboration Platforms:** The provision of tools and information environment for collaboration between enterprises.
+
+**Third-Party Marketplaces:** Using a third party to provide web marketing or an online shop.
+
+**Value-Chain Integrators:** Integrating multiple steps of the value chain, with the potential to exploit the information flows between those steps as further added value.
+
+**Value-Chain Service Providers:** Companies specializing in a specific part of the value chain (e.g., e-logistics, e-payments).
+
+**Information Brokerage:** New information services such as information search, customer profiling, and business opportunity brokerage.
+
+**Trust and Other Services:** Trust services by certification authorities or others. Other services include the delivery of business information and consultancy services.
+
+By mapping the business models onto a two-dimensional framework, Timmers identified two opposite trends for the future evolution of e-business models:
   - One is the move toward increased integration of information flow.
   - The other is the development of specialized, highly innovative services.
 
-## Classification of E-Business Models
-- Rappa identified and conceptualized a series of e-business models primarily from the perspective of revenue generation.
-- The main categories are summarized in the following table.
+Rappa identified and conceptualized a series of e-business models primarily from the perspective of revenue generation.
 
-### E-Business Model Meaning Sub-models
+The main categories are summarized in the following table.
+
+## E-Business Model Meaning Sub-models
 
 #### Brokerage
 
-- Market-makers, bringing buyers and sellers together and facilitating transactions.
-- It makes its money by charging a fee for each transaction it enables.
-- **Sub-models:** Marketplace exchange, system, auction broker.
+Market-makers, bringing buyers and sellers together and facilitating transactions.
+
+It makes its money by charging a fee for each transaction it enables.
+
+**Sub-models:** Marketplace exchange, system, auction broker.
 
 #### Advertising
 
-- The website provides some kind of information and services (email, chat) mixed with advertising messages, usually in the form of banner ads.
-- **Sub-models:** Portal, user registration, query-based paid.
+The website provides some kind of information and services (email, chat) mixed with advertising messages, usually in the form of banner ads.
+
+**Sub-models:** Portal, user registration, query-based paid.
 
 #### Infomediary
 
-- Helping consumers both protect and enrich themselves by capturing their own customer information and then selling it to the many companies that are now getting that information for free.
+Helping consumers both protect and enrich themselves by capturing their own customer information and then selling it to the many companies that are now getting that information for free.
 
 #### Subscription
 
-- Charging users for access to the site.
-
-### E-Business Model Meaning Sub-models
+Charging users for access to the site.
 
 #### Merchant
 
-- The classic wholesaler and retailer of goods and services.
-- **Sub-models:** Virtual merchant, catalogue merchant.
+The classic wholesaler and retailer of goods and services.
+
+**Sub-models:** Virtual merchant, catalogue merchant.
 
 #### Manufacturer
 
-- Manufacturers reach buyers directly and thereby compress the distribution channel.
-- **Sub-models:** Licenses, brand purchase, lease.
+Manufacturers reach buyers directly and thereby compress the distribution channel.
+
+**Sub-models:** Licenses, brand purchase, lease.
 
 #### Affiliate
 
-- Provides purchase-point through to merchant.
-- **Sub-models:** Banner exchange, pay-per-click, and revenue sharing.
+Provides purchase-point through to merchant.
+
+**Sub-models:** Banner exchange, pay-per-click, and revenue sharing.
 
 #### Community
 
-- Group of people with a common interest, ending up as a cluster of people with critical mass purchasing power.
-- Revenue comes from advertising and subscription fees.
-- **Sub-models:** Knowledge network.
+Group of people with a common interest, ending up as a cluster of people with critical mass purchasing power.
+
+Revenue comes from advertising and subscription fees.
+
+**Sub-models:** Knowledge network.
 
 #### Utility
 
-- Pay-as-you-go approach.
+Pay-as-you-go approach.
 
-### Afuah and Tucci's Classification
+## Afuah and Tucci's Classification
 
-- Afuah and Tucci moved beyond the identification of individual categories of e-business models to developing a classification.
-- They have specifically emphasized the importance of revenue generation in their classification of e-business models.
+Afuah and Tucci moved beyond the identification of individual categories of e-business models to developing a classification.
 
-#### Key Components Identified:
+They have specifically emphasized the importance of revenue generation in their classification of e-business models.
 
+Key Components Identified:
 1. **The value that a firm offers its customers.**
 2. **The segment of customers it targets to whom it will offer the value.**
 3. **The scope of products and services it offers to each segment of customers.**
@@ -179,7 +203,7 @@ In terms of pricing models, they identified five separate categories: fixed pric
 
 By overlaying these four dimensions, the authors believe that most e-Business models can be characterized.
 
-**An E-Business Model Ontology**
+## An E-Business Model Ontology Ostelwalder
 
 Osterwalder believed that despite the significant progress made by previous studies of e-Business models, most previous studies dealt with only some aspects of the concept while neglecting or downplaying others. He defined a business model as the logic of a business system for creating value that lies behind the actual processes.
 
@@ -191,16 +215,15 @@ A business model needs to address:
 
 Inorder toprovide anappropriate foundation fortools that would allow the effective and consistent understanding, sharing and communicating, changing, measuring and simulating ofthee-Business models,..cont.
 
-### An E-Business Model Ontology Ostelwalder
-
-**An Ontology of e-Business Models:**
+### An Ontology of e-Business Models
 
 Is defined as a framework that provides a shared and common understanding of a domain that can be communicated between people and heterogeneous and widespread application systems.
 
 Olsterwalder uses "business model" to describe:
 
-- The value a company offers to one or several segments of customers.
-- The architecture of the firm and its network of partners for creating, marketing, and delivering this relationship capital, in order to generate profitable and sustainable revenue streams.
+The value a company offers to one or several segments of customers.
+
+The architecture of the firm and its network of partners for creating, marketing, and delivering this relationship capital, in order to generate profitable and sustainable revenue streams.
 
 The ontological framework of the e-Business model is based on four main pillars:
 
@@ -225,31 +248,39 @@ How the company efficiently deals with the logistical issue, and the financials 
 **Pillars: Building blocks of business model description**
 
 **Product innovation:**
-- Value proposition: Overall view of company’s product and services that are of value to customer.
-- Customer interface: Target customer is a segment of customer to whom a company wants to offer value.
-- Distribution channel: A means of getting in touch with the customer.
+
+Value proposition: Overall view of company’s product and services that are of value to customer.
+
+Customer interface: Target customer is a segment of customer to whom a company wants to offer value.
+
+Distribution channel: A means of getting in touch with the customer.
 
 **Relationship:**
 Describes the kind of link a company establishes between itself and the customer.
 
 **Financial aspects:**
-- Cost structure: The representation in money of all the means employed in the business model.
-- Revenue model: Describes the way a company makes money through a variety of revenue flows.
+
+Cost structure: The representation in money of all the means employed in the business model.
+
+Revenue model: Describes the way a company makes money through a variety of revenue flows.
 
 **Pillars and Building Blocks:**
 
 **Pillars: Building blocks of business model description**
 
 **Infrastructure management:**
-- Value configuration: Describes the arrangement of activities and resources that are necessary to create value for customers.
-- Capability: Is the ability to execute a repeatable pattern of actions that is necessary in order to create value for customers.
-- Partnership: Initiated a cooperative agreement between two or more companies in order to create value for customers.
+
+Value configuration: Describes the arrangement of activities and resources that are necessary to create value for customers.
+
+Capability: Is the ability to execute a repeatable pattern of actions that is necessary in order to create value for customers.
+
+Partnership: Initiated a cooperative agreement between two or more companies in order to create value for customers.
 
 The e-Business model domain can be structured into several levels of decomposition with increasing depth and complexity.
 
 It provides a valuable toolkit that would enable business leaders to define, assess, and change their business models, and enable information system developers to undertake information system requirement engineering.
 
-### Summary 
+## Summary 
 
 The rapidly changing business environment has put enormous pressure on all organizations to explore new strategies and business models.
 

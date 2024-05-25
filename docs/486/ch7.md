@@ -83,7 +83,7 @@ To identify where disruptions can take place, an important concept used by Chris
 
 Christensen defined the value network as a plane of competition and consumption in which the application and customers reside.
 
-In other words, a value network is 'the context within which a firm establishes a cost structure and operating processes and works with suppliers and channel partners in order to respond profitably to the common needs of a class of customers.’
+In other words, a value network is the context within which a firm establishes a cost structure and operating processes and works with suppliers and channel partners in order to respond profitably to the common needs of a class of customers.
 
 Christensen added a third dimension to the disruptive innovation model in "The Innovator's Solution" by extending into new contexts of consumption and competition.
 

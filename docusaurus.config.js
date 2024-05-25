@@ -100,7 +100,7 @@ const config = {
     }),
     scripts: [
       {
-        src: 'https://ttchan.netlify.app/script.js',
+        src: 'https://ttchan.netlify.app/speech.js',
         defer: true,
       },
     ],

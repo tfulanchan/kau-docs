@@ -392,7 +392,7 @@ Managers and academics alike are increasingly convinced that bureaucracy is bad 
 
 Virtual organizations require less investment and are more responsive to market changes than integrated companies. Therefore, they are more suited for today's volatile business environment.
 
-Despite repeated warnings about the potential risks of the virtual organization since the mid-'s, managers are still urged to subcontract everything possible today through downsizing, decentralization, alliances, and more recently, strategic and operational outsourcing.
+Despite repeated warnings about the potential risks of the virtual organization since the mid-1990s, managers are still urged to subcontract everything possible today through downsizing, decentralization, alliances, and more recently, strategic and operational outsourcing.
 
 Virtual organizations have many advantages. According to Chesbrough and Teece, the keys to the success of virtual organizations are incentives and responsiveness. Rather than relying on administrative measures of the hierarchy to deploy resources and set priorities, virtual organizations use market entities to bring free agents together to buy and sell goods and services.
 
@@ -420,8 +420,8 @@ Chesbrough and Teece point out the virtual organization and the integrated compa
 
 There are two types of innovation:
 
-. Innovations that can be followed up independently, such as turbochargers for cars.
-. Innovations that must be followed up collaboratively, where no one can work without the other, such as photography, which depends on perfect camera technologies with film technologies.
+1. Innovations that can be followed up independently, such as turbochargers for cars.
+2. Innovations that must be followed up collaboratively, where no one can work without the other, such as photography, which depends on perfect camera technologies with film technologies.
 
 When innovations are autonomous, virtual organizations can manage the development and commercialization of the innovation very well. When the innovation is systemic, integrated organizations are often more appropriate because the organization does not need to work with independent partners whom they have no control over.
 
@@ -429,27 +429,27 @@ It should also be noted that all innovations depend critically on information fl
 
 ### The Rise and Fall of IBM
 
-The success and failure of virtual organizations were clearly illustrated by the rise and fall of IBM since the s. Under threat from aggressive advances by Apple, IBM launched its first PC in . Rather than developing its own technologies, IBM chose to outsource all major components from the market: microprocessors were purchased from Intel, and the operating system was licensed from Microsoft. The PC was based on a standard and components that were widely available on the market.
+The success and failure of virtual organizations were clearly illustrated by the rise and fall of IBM since the 1980s. Under threat from aggressive advances by Apple, IBM launched its first PC in 1981. Rather than developing its own technologies, IBM chose to outsource all major components from the market: microprocessors were purchased from Intel, and the operating system was licensed from Microsoft. The PC was based on a standard and components that were widely available on the market.
 
 This enabled hundreds of third-party developers of software and hardware to join the fray. IBM also relied on third parties to distribute its products. This greatly reduced the time and investment required, and they were able to bring the product to market in months.
 
-This approach brought clear early success to IBM, and by , IBM replaced Apple as the number one supplier of PCs with a market share of  percent, which further grew to  percent.
+This approach brought clear early success to IBM, and by 1984, IBM replaced Apple as the number one supplier of PCs with a market share of 26 percent, which further grew to 41 percent.
 
 However, the early success soon collapsed because IBM lost control of the IT architecture it created. Competitors were able to buy the same components, license the same operating system and application software, and use the same distribution channels, leaving IBM with little to establish competitive advantages.
 
-When IBM tried to regain control of the architecture by launching its own OS/ operating system, Microsoft introduced a competing system, Windows, which was backward compatible with the old operating system, DOS. Compaq was also able to work with Intel to launch the first 'PC clone' before IBM. By , IBM's PC market share had been reduced to a mere .%, against Compaq's .%.
+When IBM tried to regain control of the architecture by launching its own OS/2 operating system, Microsoft introduced a competing system, Windows, which was backward compatible with the old operating system, DOS. Compaq was also able to work with Intel to launch the first 386 'PC clone' before IBM. By 1995, IBM's PC market share had been reduced to a mere 7.3%, against Compaq's 10.5%.
 
-In , the IBM PC was sold to China's Lenovo. However, IBM did help create some super-rich companies in the industry such as Intel, Microsoft, Hewlett-Packard, and Dell.
+In 2005, the IBM PC was sold to China's Lenovo. However, IBM did help create some super-rich companies in the industry such as Intel, Microsoft, Hewlett-Packard, and Dell.
 
 ### Main Lessons
 
 The moral of the story is that a company should not outsource everything. Without core competences and strong internal strength, strategic positions in a virtual network are often short-lived. The virtual organization is only effective under particular circumstances.
 
-For most organizations, especially large organizations, achieving the balance between a mixture of internal development capabilities, licenses, partnerships, and alliances, and new technologies purchased from other companies is essential to their long-term competitiveness and survival. Without control over key technologies and relationships, internal capability, and market-led virtual networks often do not work. This is particularly crucial for a firm to shape the market.
+For most organizations, especially large organizations, achieving the balance between a mixture of internal development capabilities, licenses, partnerships, and alliances, and new technologies purchased from other companies is essential to their long-term competitiveness and survival. Without control over key technologies, relationships, internal capability, and market-led virtual networks often do not work. This is particularly crucial for a firm to shape the market.
 
 A further lesson is that organizations need to evaluate a new strategy and business model over different time scales. The right balance between long-term opportunities and short-term gains is very important. Too short a time horizon in evaluating new strategies and business models is dangerous.
 
-Equally dangerous is the decentralization and outsourcing of key activities and technologies without strategic leverage and central coordination and control over the relationship and the provider.
+Equally dangerous is the decentralization and outsourcing of key activities and technologies without strategic leverage, central coordination and control over the relationship and the provider.
 
 Virtual organizations have many advantages over integrated companies under certain circumstances. If implemented properly, the critical issue is to identify the right circumstances, the activities to unbundle or outsource from the market, and execute the strategy effectively.
 

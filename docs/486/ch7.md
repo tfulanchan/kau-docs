@@ -9,13 +9,13 @@ Disruptive innovations create new markets or reshape existing markets by deliver
 
 Since the late 90s, a very influential strategic innovation has been the theory of disruptive strategic innovations.
 
-Clayton Christensen of Harvard Business School started the first developed theory in his bestseller book "The Innovator's Dilemma." He explained how industry leaders that focused on high-end products for their most profitable customers can be 'blindsided' by disruptive innovations from new competitors.
+Clayton Christensen of Harvard Business School started the first developed theory in his bestseller book "[The Innovator's Dilemma](https://www.hbs.edu/faculty/Pages/item.aspx?num=46)". He explained how industry leaders that focused on high-end products for their most profitable customers can be 'blindsided' by disruptive innovations from new competitors.
 
-In "The Innovator's Solution: Creating and Sustaining Successful Growth," this established how companies can create disruptive innovations rather than being destroyed by them.
+In "[The Innovator's Solution: Creating and Sustaining Successful Growth](https://www.hbs.edu/faculty/Pages/item.aspx?num=15473)", he established how companies can create disruptive innovations rather than being destroyed by them.
   
 It shows how to turn innovative ideas into new disruptive products that can lead to long-term profitable growth.
   
-In another book written with Eric Roth and Scott Anthony, "Seeing What's Next: Using the Theory of Innovation to Predict Industry Change," the book describes, summarizes, and further develops the disruptive theory of strategic innovations and supports it with new evidence and more detailed explanations.
+In another book written by Eric Roth and Scott Anthony, "[Seeing What's Next: Using the Theory of Innovation to Predict Industry Change](https://store.hbr.org/product/seeing-what-s-next-using-the-theories-of-innovation-to-predict-industry-change/1857#:~:text=Based%20on%20proven%20theories%20outlined,and%20assess%20whether%20a%20firm's)," the book describes, summarizes, and further develops the disruptive theory of strategic innovations and supports it with new evidence and more detailed explanations.
 
 The strategy of disruption is one of the most influential theories in recent years.
   
@@ -51,8 +51,7 @@ Established large companies can capture disruptive growth, rather than be defeat
 
 ### Two Types of Innovation: Sustaining vs. Disruptive Innovation
 
-
-Different from the classification of innovations into autonomous and systemic innovations when examining the suitability of different organizational models and designs in the last chapter, Christensen classified innovations into two categories along a different dimension: sustaining innovations and disruptive innovations.
+Different from the classification of innovations into autonomous and systemic innovations when examining the suitability of different organizational models and designs in the last chapter, Christensen classified innovations into two categories along a different dimension: **sustaining innovations** and **disruptive innovations**.
 
 The nature of the innovation determines whether established companies or new entrants eventually win the competitive war in the market.
 
@@ -70,7 +69,7 @@ A sustaining innovation is targeted at those demanding, high-end customers, with
 
 Established companies are motivated to focus on following up innovations to meet the needs of their high-end, most profitable customers. This leaves the door open for new entrants to target the low-end customers.
 
-Disruptive innovations do not bring better products and services to established customers in existing markets.
+Disruptive innovations do not bring better products and services to established customers in existing markets 
 
 They introduce products and services that are not as good as existing products, but which are simpler, more convenient, and less expensive than existing ones.
 
@@ -106,7 +105,7 @@ He points out what the correlations between attributes and outcomes are, and wha
 
 To solve this problem, Christensen introduced the 'circumstances' concept and offered a more reasonable way of segmenting the market.
 
-Customers ‘hire' products to do specific 'jobs,’ and managers must segment their markets to mirror the way their customers experience life.
+Customers ‘hire' products to do specific 'jobs', and managers must segment their markets to mirror the way their customers experience life.
 
 Successful products must target the circumstances customers find themselves in, rather than the customers themselves.
 
@@ -130,7 +129,7 @@ New-market disruptions require the innovators to invent the upward path because 
 
 Identifying new-market customers is a complex task, because there are different reasons for non-consumption that the new entrant tries to attract.
 
-When only a fraction of a population is using a product, some of them are not reflecting the really using it.
+When only a small portion of a population is using a product, it does not necessarily mean that the rest have no need or desire for it. There may be various barriers preventing non-consumers from accessing or using the product, even though they could potentially benefit from it.
 
 There is no job that needs to be done in non-consumers' lives.
 
@@ -155,10 +154,8 @@ Instead of asking what their company does best today, managers should determine 
 From the job-to-be-done perspective, customers will not buy your product unless it solves a problem for them.
 
 What comprises a solution differs across two circumstances of the current solution:
-  
-The products are not good enough (Poor Quality).
-  
-Or more than good enough (More Expensive).
+1. Poor Quality - the products are not good enough.
+2. More Expensive - the products are more than good enough.
 
 The advantage goes to integration when products are not good enough and to outsourcing when the products are more than good enough.
 

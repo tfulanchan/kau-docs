@@ -100,59 +100,17 @@ Rappa identified and conceptualized a series of e-business models primarily from
 
 The main categories are summarized in the following table.
 
-## E-Business Model Meaning Sub-models
-
-#### Brokerage
-
-Market-makers, bringing buyers and sellers together and facilitating transactions.
-
-It makes its money by charging a fee for each transaction it enables.
-
-**Sub-models:** Marketplace exchange, system, auction broker.
-
-#### Advertising
-
-The website provides some kind of information and services (email, chat) mixed with advertising messages, usually in the form of banner ads.
-
-**Sub-models:** Portal, user registration, query-based paid.
-
-#### Infomediary
-
-Helping consumers both protect and enrich themselves by capturing their own customer information and then selling it to the many companies that are now getting that information for free.
-
-#### Subscription
-
-Charging users for access to the site.
-
-#### Merchant
-
-The classic wholesaler and retailer of goods and services.
-
-**Sub-models:** Virtual merchant, catalogue merchant.
-
-#### Manufacturer
-
-Manufacturers reach buyers directly and thereby compress the distribution channel.
-
-**Sub-models:** Licenses, brand purchase, lease.
-
-#### Affiliate
-
-Provides purchase-point through to merchant.
-
-**Sub-models:** Banner exchange, pay-per-click, and revenue sharing.
-
-#### Community
-
-Group of people with a common interest, ending up as a cluster of people with critical mass purchasing power.
-
-Revenue comes from advertising and subscription fees.
-
-**Sub-models:** Knowledge network.
-
-#### Utility
-
-Pay-as-you-go approach.
+| E-Business Model | Meaning | Sub-models |
+|-|-|-|
+| Brokerage | Market-makers, bringing buyers and sellers together and facilitating transactions. It makes its money by charging a fee for each transaction it enables. | Marketplace exchange, system, auction broker. |
+| Advertising | The website provides some kind of information and services (email, chat) mixed with advertising messages, usually in the form of banner ads. | Portal, user registration, query-based paid. |
+| Infomediary | Helping consumers both protect and enrich themselves by capturing their own customer information and then selling it to the many companies that are now getting that information for free. | |
+| Subscription | Charging users for access to the site. | |
+| Merchant | The classic wholesaler and retailer of goods and services. | Virtual merchant, catalogue merchant. |
+| Manufacturer | Manufacturers reach buyers directly and thereby compress the distribution channel. | Licenses, brand purchase, lease. |
+| Affiliate | Provides purchase-point through to merchant. | Banner exchange, pay-per-click, and revenue sharing. |
+| Community | Group of people with a common interest, ending up as a cluster of people with critical mass purchasing power. Revenue comes from advertising and subscription fees. | Knowledge network. |
+| Utility | Pay-as-you-go approach. | |
 
 ## Afuah and Tucci's Classification
 
@@ -203,7 +161,7 @@ In terms of pricing models, they identified five separate categories: fixed pric
 
 By overlaying these four dimensions, the authors believe that most e-Business models can be characterized.
 
-## An E-Business Model Ontology Ostelwalder
+## An E-Business Model Ontology
 
 Osterwalder believed that despite the significant progress made by previous studies of e-Business models, most previous studies dealt with only some aspects of the concept while neglecting or downplaying others. He defined a business model as the logic of a business system for creating value that lies behind the actual processes.
 
@@ -241,30 +199,17 @@ How the company efficiently deals with the logistical issue, and the financials 
 
 ## An E-Business Model Ontology pillars and building blocks
 
-**Product innovation:**
-
-Value proposition: Overall view of company’s product and services that are of value to customer.
-
-Customer interface: Target customer is a segment of customer to whom a company wants to offer value.
-
-Distribution channel: A means of getting in touch with the customer.
-
-**Relationship:**
-Describes the kind of link a company establishes between itself and the customer.
-
-**Financial aspects:**
-
-Cost structure: The representation in money of all the means employed in the business model.
-
-Revenue model: Describes the way a company makes money through a variety of revenue flows.
-
-**Infrastructure management:**
-
-Value configuration: Describes the arrangement of activities and resources that are necessary to create value for customers.
-
-Capability: Is the ability to execute a repeatable pattern of actions that is necessary in order to create value for customers.
-
-Partnership: Initiated a cooperative agreement between two or more companies in order to create value for customers.
+| Pillars | Building blocks of business model | Description|
+|-|-|-|
+| Product innovation | Value proposition | Overall view of company’s product and services that are of value to customer. |
+| Customer interface | Target customer | a segment of customer to whom a company wants to offer value. |
+| | Distribution channel | A means of getting in touch with the customer. |
+| | Relationship | Describes the kind of link a company establishes between itself and the customer. |
+| Financial aspects | Cost structure | The representation in money of all the means employed in the business model. |
+| | Revenue model | Describes the way a company makes money through a variety of revenue flows. |
+| Infrastructure management | Value configuration | Describes the arrangement of activities and resources that are necessary to create value for customers. |
+| | Capability | Is the ability to execute a repeatable pattern of actions that is necessary in order to create value for customers. |
+| | Partnership | Initiated a cooperative agreement between two or more companies in order to create value for customers. |
 
 The e-Business model domain can be structured into several levels of decomposition with increasing depth and complexity.
 

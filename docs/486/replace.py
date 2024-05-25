@@ -4,7 +4,7 @@ def replace_chars(md_file):
     with open(md_file, "r", encoding="utf-8") as file:
         content = file.read()
     
-    new_content = content.replace(" ,", ",")
+    new_content = content.replace("", "+ ")
     
     with open(md_file, "w", encoding="utf-8") as file:
         file.write(new_content)

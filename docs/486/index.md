@@ -1,5 +1,5 @@
 ---
-sidebar_position: 0
+sidebar_position: 
 ---
 
-# CPIS-486 E-commerce strategies
+# CPIS- E-commerce strategies

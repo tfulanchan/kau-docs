@@ -3,7 +3,7 @@ title: Chapter 6 Emerging Strategies and Business Models in the Network Economy
 sidebar_position: 1
 ---
 
-[New Strategies for the Network Economy Feng](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1b8793af7a34b7ba5a2d40e552ec839101ac3c7c)
+[New Strategies for the Network Economy Feng](https://citeseerx.ist.psu.edu/document?repid=rep&type=pdf&doi=bafabbaadeecaccc)
 
 Introduction 
 
@@ -17,7 +17,7 @@ Finally the chapter discusses the qualities and potential difficulties that face
 
 ### Web Strategy, Business Unbundling, and Virtual Organization 
 
-The business environment is very different from the past, and under some circumstances new strategies and business models are needed for organizations to compete effectively today. These new strategies and business models are closely linked to some of the new rules of the network economy discussed in chapter 4. 
+The business environment is very different from the past, and under some circumstances new strategies and business models are needed for organizations to compete effectively today. These new strategies and business models are closely linked to some of the new rules of the network economy discussed in chapter . 
 
 The changing business environment requires organizations old and new to develop new strategies and business models.
 
@@ -392,7 +392,7 @@ Managers and academics alike are increasingly convinced that bureaucracy is bad 
 
 Virtual organizations require less investment and are more responsive to market changes than integrated companies. Therefore, they are more suited for today's volatile business environment.
 
-Despite repeated warnings about the potential risks of the virtual organization since the mid-'90s, managers are still urged to subcontract everything possible today through downsizing, decentralization, alliances, and more recently, strategic and operational outsourcing.
+Despite repeated warnings about the potential risks of the virtual organization since the mid-'s, managers are still urged to subcontract everything possible today through downsizing, decentralization, alliances, and more recently, strategic and operational outsourcing.
 
 Virtual organizations have many advantages. According to Chesbrough and Teece, the keys to the success of virtual organizations are incentives and responsiveness. Rather than relying on administrative measures of the hierarchy to deploy resources and set priorities, virtual organizations use market entities to bring free agents together to buy and sell goods and services.
 
@@ -420,8 +420,8 @@ Chesbrough and Teece point out the virtual organization and the integrated compa
 
 There are two types of innovation:
 
-1. Innovations that can be followed up independently, such as turbochargers for cars.
-2. Innovations that must be followed up collaboratively, where no one can work without the other, such as photography, which depends on perfect camera technologies with film technologies.
+. Innovations that can be followed up independently, such as turbochargers for cars.
+. Innovations that must be followed up collaboratively, where no one can work without the other, such as photography, which depends on perfect camera technologies with film technologies.
 
 When innovations are autonomous, virtual organizations can manage the development and commercialization of the innovation very well. When the innovation is systemic, integrated organizations are often more appropriate because the organization does not need to work with independent partners whom they have no control over.
 
@@ -429,17 +429,17 @@ It should also be noted that all innovations depend critically on information fl
 
 ### The Rise and Fall of IBM
 
-The success and failure of virtual organizations were clearly illustrated by the rise and fall of IBM since the 1980s. Under threat from aggressive advances by Apple, IBM launched its first PC in 1981. Rather than developing its own technologies, IBM chose to outsource all major components from the market: microprocessors were purchased from Intel, and the operating system was licensed from Microsoft. The PC was based on a standard and components that were widely available on the market.
+The success and failure of virtual organizations were clearly illustrated by the rise and fall of IBM since the s. Under threat from aggressive advances by Apple, IBM launched its first PC in . Rather than developing its own technologies, IBM chose to outsource all major components from the market: microprocessors were purchased from Intel, and the operating system was licensed from Microsoft. The PC was based on a standard and components that were widely available on the market.
 
 This enabled hundreds of third-party developers of software and hardware to join the fray. IBM also relied on third parties to distribute its products. This greatly reduced the time and investment required, and they were able to bring the product to market in months.
 
-This approach brought clear early success to IBM, and by 1983, IBM replaced Apple as the number one supplier of PCs with a market share of 26 percent, which further grew to 40 percent.
+This approach brought clear early success to IBM, and by , IBM replaced Apple as the number one supplier of PCs with a market share of  percent, which further grew to  percent.
 
 However, the early success soon collapsed because IBM lost control of the IT architecture it created. Competitors were able to buy the same components, license the same operating system and application software, and use the same distribution channels, leaving IBM with little to establish competitive advantages.
 
-When IBM tried to regain control of the architecture by launching its own OS/2 operating system, Microsoft introduced a competing system, Windows, which was backward compatible with the old operating system, DOS. Compaq was also able to work with Intel to launch the first 'PC clone' before IBM. By 1998, IBM's PC market share had been reduced to a mere 8.6%, against Compaq's 12.8%.
+When IBM tried to regain control of the architecture by launching its own OS/ operating system, Microsoft introduced a competing system, Windows, which was backward compatible with the old operating system, DOS. Compaq was also able to work with Intel to launch the first 'PC clone' before IBM. By , IBM's PC market share had been reduced to a mere .%, against Compaq's .%.
 
-In 2004, the IBM PC was sold to China's Lenovo. However, IBM did help create some super-rich companies in the industry such as Intel, Microsoft, Hewlett-Packard, and Dell.
+In , the IBM PC was sold to China's Lenovo. However, IBM did help create some super-rich companies in the industry such as Intel, Microsoft, Hewlett-Packard, and Dell.
 
 ### Main Lessons
 

@@ -7,276 +7,242 @@ sidebar_position: 1
 
 ### Introduction 
 
-The new business environment has changed in several important aspects, this change requires organizations to adopt new strategies, business models and new organizational designs, develop new ways of doing business and manage disruptive innovations effectively.
+The new business environment has changed in several important aspects. This change requires organizations to adopt new strategies, business models, and organizational designs, develop new ways of doing business, and manage disruptive innovations effectively.
 
-This chapter first illustrates the web strategy that developed by Hagel and colleagues, and explores its implications for today's organizations in the knowledge-based, network economy.
+This chapter first illustrates the web strategy developed by Hagel and colleagues and explores its implications for today's organizations in the knowledge-based, network economy.
 
 Following this, the chapter examines the deconstruction of value chains, integrated business models, and how this might be done.
 
-Finally the chapter discusses the qualities and potential difficulties that face virtual organization.
+Finally, the chapter discusses the qualities and potential difficulties that virtual organizations face.
 
 ### Web Strategy, Business Unbundling, and Virtual Organization 
 
-The business environment is very different from the past, and under some circumstances new strategies and business models are needed for organizations to compete effectively today. These new strategies and business models are closely linked to some of the new rules of the network economy discussed in chapter . 
+The business environment is very different from the past, and under some circumstances, new strategies and business models are needed for organizations to compete effectively today. These new strategies and business models are closely linked to some of the new rules of the network economy discussed in Chapter 4. 
 
-The changing business environment requires organizations old and new to develop new strategies and business models.
+The changing business environment requires both old and new organizations to develop new strategies and business models.
 
-One such strategy that has emerged in recent years is the so-called 'web strategy',
+One such strategy that has emerged in recent years is the so-called 'web strategy.'
 
-The web here is the web refers to 'clusters of companies that collaborate on a particular technology'.
- 
-The concept of the 'web' overlaps with another popular concept in the studies of innovation - 'clusters', but clusters usually have a strong geographical connotation.
+The web here refers to 'clusters of companies that collaborate on a particular technology.'
 
-webs are primarily concerned with technological standards, customer, or market segments.
+The concept of the 'web' overlaps with another popular concept in the studies of innovation: 'clusters,' but clusters usually have a strong geographical connotation.
 
-Hagel regards the web as a Natural response to uncertainty and risks in environmental,
+Webs are primarily concerned with technological standards, customers, or market segments.
 
-Webs create powerful new ways to think about strategy, risk, technological uncertainty and innovation.
+Hagel regards the web as a natural response to uncertainty and risks in the environment.
 
-Different from traditional strategic or supply chains, the web explains how independent companies cluster around particular technological standards or customer segments t odeliver complex value propositions to the final consumers.
+Webs create powerful new ways to think about strategy, risk, technological uncertainty, and innovation.
+
+Different from traditional strategic or supply chains, the web explains how independent companies cluster around particular technological standards or customer segments to deliver complex value propositions to the final consumers.
 
 ### New Strategies for the Network Economy
 
-This strategy requires business executives to re-evaluate their management focus, organizational structure, performance measurement, and information systems,
+This strategy requires business executives to re-evaluate their management focus, organizational structure, performance measurement, and information systems.
 
 The web strategy also highlights the profound significance of virtual organizations in the new economy.
- 
-Virtual organization is unlike web strategy,
 
-The virtual organization illustrates situations where a cluster of independent companies active with each other to execute a project traditionally only manageable by large integrated organizations.
+A virtual organization is unlike the web strategy.
 
-The relationships between the partners of the virtual organizations could be strategic unions or other formal contracts. This allows independent to collaborate and compete with larger, vertically integrated organizations.
- 
+The virtual organization illustrates situations where a cluster of independent companies collaborate to execute a project traditionally managed by large integrated organizations.
+
+The relationships between the partners of the virtual organization could be strategic unions or other formal contracts. This allows independent companies to collaborate and compete with larger, vertically integrated organizations.
+
 An important process that links the web strategy and virtual organization is the deconstruction of integrated business processes and organizational models.
 
-Deconstruction is an effective mechanism that enables the web to grow rapidly, it is increasingly leading to the development of virtual organizations in many sectors.
- 
+Deconstruction is an effective mechanism that enables the web to grow rapidly. It increasingly leads to the development of virtual organizations in many sectors.
+
 ### The Web Strategy
 
 Hagel defined webs as clusters of companies collaborating around a particular technology.
 
-Examples of webs is the Microsoft Intel platform, SAP integrated IT solutions, Netscape and the Sony PlayStation.
+Examples of webs include the Microsoft-Intel platform, SAP integrated IT solutions, Netscape, and the Sony PlayStation.
 
-The webs create platform for each company can mobilizes and support of other companies to achieve their own objectives.
+The webs create a platform where each company can mobilize the support of other companies to achieve their own objectives.
 
-There are many different types of web, such as economic web, the technological and the value web, the customer web and the market web.
+There are many different types of webs, such as the economic web, the technological web, the value web, the customer web, and the market web.
 
 ### Classification of the Web 
 
-Economic web is a cluster of companies that use a common architecture to deliver independent elements of an overall value proposition to final consumers.
+An economic web is a cluster of companies that use a common architecture to deliver independent elements of an overall value proposition to final consumers.
 
-One example of an economic web is the Microsoft and Intel personal computer web - the Wintel web.
+One example of an economic web is the Microsoft and Intel personal computer web—the Wintel web.
 
 Within the web, independent companies combine to deliver the overall value proposition of a Windows PC. 
 
-The members of the web are independent companies, and very often they don’t know- indeed, do not even need to know-most other members of the web
+The members of the web are independent companies, and very often they don’t know—indeed, do not even need to know—most other members of the web.
 
-All companies in the web are totally independent: they price, market and sell their products autonomously.
+All companies in the web are totally independent: they price, market, and sell their products autonomously.
 
 It is the pursuit of economic self-interest that brings them together into the web.
 
-It is rarely any partner needs to develop a formal relations with the other participants.
+Rarely does any partner need to develop formal relations with the other participants.
 
-Technology web, where a cluster of independent companies organize around a particular technological platform.
+A technology web is where a cluster of independent companies organize around a particular technological platform.
 
 The development of the Internet and related technologies allows a growing number of industries to unbundle their vertically integrated business models to allow specialized, independent players to enter the market.
 
-Example; online service
+Example: online services.
 
-Unbundling has created more than virtual organizations,
+Unbundling has created more than virtual organizations.
 
-Because the providers of various services are independent and they provide their services to multiple buyers, and many of these buyers could be competitors. To do technology web.
+Because the providers of various services are independent and they provide their services to multiple buyers, many of these buyers could be competitors. This is the technology web.
 
-Value web.
+A value web operates within the technology web and focuses on maximizing value to the customer.
 
-It operates within the technology web and the technology web focuses on maximizing value to the customer.
+The value web focuses on creating value for a specific group of companies that have adopted a common technology platform.
 
-The value Web focus on creating value for a specific group of companies that have adopted a common technology platform.
+Examples are the value webs in the desktop-computing technology web: Apple’s Macintosh vs. the PC by Microsoft and Intel.
 
-Examples are the value webs in the desktop-computing technology web. Apple’s Macintosh vs. the PC by Microsoft and Intel
+Two types of webs are emerging: the customer web and the market web.
 
-Two types Of web are emerging which are customer web and the market web,
-
-The customer web focuses
-
-On managing the ownership of customer relationships and customer segments.
+The customer web focuses on managing the ownership of customer relationships and customer segments.
 
 By developing and maintaining deep relationships with a particular segment of customers,
 
-A company could use special relationship and deep understanding to serve a wide range of their needs by finding and delivering the most suitable products and services they need from the market and maximally satisfy each customer.
+a company can use special relationships and deep understanding to serve a wide range of their needs by finding and delivering the most suitable products and services they need from the market, thereby maximally satisfying each customer.
 
-Similarly, a market web
+Similarly, a market web focuses on a specific type of transaction by developing deep relationships for a particular need with all customers.
 
-Focuses on a specific type of transaction by developing deep relationships for a particular need with all customers.
+For example, a portal for mortgages is the focal point of a market web.
 
-Example, a portal for mortgages is the focal point of a market web.
+Hagel illustrated two conditions that must be present before an economic web can form:
 
-Hagel illustrated two conditions that must be present before an economic web
+First, a technological standard and increasing returns. When competing technology standards exist in a market,
 
-First Condition is a technological standard and increasing returns, When competing technology standards exist in a market,
+a common standard reduces risk by allowing companies to make investment decisions in the face of technological uncertainty.
 
-A common standard reduces risk by allowing companies to make investment decisions in the face of technological
-uncertainty.
+A technological standard provides the stability and safety net for firms to make dedicated investments; those who own or control the standard can often extract disproportionate rewards from it.
 
-A technological standard provides the stability and safety net for firms to make dedicated investments; and those who own or control the standard can often extract disproportionate reward from it.
+### Two Conditions of an Economic Web
 
-### Two conditions of an economic web
+A company often has to take huge risks when selecting which standard to follow. Once the decision is made, it often cannot go back, so following the wrong standard could be costly and strategically damaging to the company.
 
-A company often has to take huge risks when selecting which standard to follow ;
+This is why some companies give away their core technologies and products to boost widespread adoption by users.
 
-Once the decision is made, it often cannot go back. So following the wrong standard could be costly and strategically damaging to the company.
+The second condition of an economic web is increasing returns, which creates a shared dependence that supports the web by drawing in more customers and producers.
 
-Why some companies give away their core technologies and products to boost widespread adoption by users;
+This creates virtuous contributions, such as a positive feedback loop, drawing in ever more companies and consumers, and increasing the size of the whole market exponentially.
 
-The second condition of an economic web is increasing returns,
+The result is increasing returns for everyone within the web when more people join. The more valuable it is to stay in the web, the more people it could attract.
 
-Which creates a shared dependence that supports the web by drawing in more customers and producers.
-
-This creates a virtuous contributions such as a positive feedback loop, drawing in ever more companies and
-consumers, and increasing the size of the whole market exponentially.
-
-The result is increasing returns for everyone within the web when more people join the web. More valuable is to stay in the web which could attract more people.
- 
 The web has several key characteristics.
 
-Webs are not only union (association), because very often there is no formal relationship between the majority of participants.
+Webs are not only unions (associations) because very often there is no formal relationship between the majority of participants.
 
-Each company in a web is largely independent and their behaviors are driven by the pursuit of economic self-interest.
+Each company in a web is largely independent, and their behaviors are driven by the pursuit of economic self-interest.
 
-From theory perspective, they operate separately in the market including setting prices, marketing and selling
-their products and services.
+From a theoretical perspective, they operate separately in the market, including setting prices, marketing, and selling their products and services.
 
-Many of the companies working aggressively with one to another.
+Many of the companies work aggressively with one another.
 
-Webs are natural responses to risk and uncertainty environment according to Hagel.
+Webs are natural responses to risk and uncertainty in the environment, according to Hagel.
 
-The safety net of the web allows a firm:
+The safety net of the web allows a firm to focus on activities that offer unique value.
 
-To focus on activities that offer unique value
+The standards of web strategy ensure that the products and services offered by one company can be fundamental to another company's infrastructure.
 
-The standards of web strategy ensure the products and services that offered by one company can be as fundamental of another companies infrastructure.
+As a result, increasing returns will attract more and more companies and customers into the web, thereby enabling continued growth.
 
-As a result, increasing returns will lead to attract more and more companies and customers into the web. thereby enabling continued growth.
+Therefore, the web strategy is:
 
-Therefore, the web Strategy is:
+- Reducing the overall investment requirements for a company to enter the market,
+- Allowing the company to focus investments on areas most likely to succeed.
 
-Reducing the overall investment requirements by a company to enter the market,
-
-Allowing the company to focus investments on areas most likely to succeed.
-
-### Roles for different players in a web: shapers and adapters
+### Roles for Different Players in a Web: Shapers and Adapters
 
 A company can perform one of two roles in a web: a shaper or an adapter.
 
-Each role can potentially create substantial value but the strategies need to pursue they have to
-adopt differ significantly.
+Each role can potentially create substantial value, but the strategies they need to pursue differ significantly.
 
-For shapers, the central task is to define and influence the environment in order to enhance their ability to create value.
+For shapers, the central task is to define and influence the environment to enhance their ability to create value.
 
-Adapters focus on staying ahead of competition by anticipating and responding to environmental changes quickly.
+Adapters focus on staying ahead of the competition by anticipating and responding to environmental changes quickly.
 
-To illustrate the differences we can examine the strategies of Microsoft and Dell in the desktop computing web.
+To illustrate the differences, we can examine the strategies of Microsoft and Dell in the desktop computing web.
 
-As a leading shaper of this web. Microsoft has concentrated on controlling and developing key technologies and relationships in the computer arena and using these positions to shape the web.
+As a leading shaper of this web, Microsoft has concentrated on controlling and developing key technologies and relationships in the computer arena and using these positions to shape the web.
 
-Microsoft managed to establish MS-DOS, and then Windows, as the defacto operating system for PCs around the world.
+Microsoft managed to establish MS-DOS, and then Windows, as the de facto operating system for PCs around the world.
 
-Its strategic alliance with Intel further strengthened its architectural leadership and facilitated standard
-adoption.
+Its strategic alliance with Intel further strengthened its architectural leadership and facilitated standard adoption.
 
-For Microsoft, its huge profit and market value have been derived from the overall architecture rather than features and attributes of individual products.
+For Microsoft, its huge profit and market value have been derived from the overall architecture rather than the features and attributes of individual products.
 
 As a result, Microsoft's technology focus has always straddled product and architecture, so its long-term investment strategy is to strengthen the architecture and the web.
 
-Roles for different players in a web: shapers and adapters
-
-In contrast, Dell's desktop business has followed a very different strategy. Its focus is to use its low-cost
-business model to offer customized products at a low price and high quality.
+In contrast, Dell's desktop business has followed a very different strategy. Its focus is to use its low-cost business model to offer customized products at a low price and high quality.
 
 Unlike Microsoft, Dell's success depends on its ability to exploit near-term product opportunities in the Microsoft/Intel value web.
 
-Its marketing has focused on product excellence and customization, low cost and comprehensive service, rather than trying to define new standards or create a new architecture to challenging Microsoft's Windows.
+Its marketing has focused on product excellence and customization, low cost, and comprehensive service, rather than trying to define new standards or create a new architecture to challenge Microsoft's Windows.
 
-Roles for different players in a web Shapers’ Condition
+### Shapers’ Conditions
 
-the ownership of a key platform technology is essential, which shapes the broader architecture and provides long-term lock-in of other participants in the web.
+The ownership of a key platform technology is essential, which shapes the broader architecture and provides long-term lock-in of other participants in the web.
 
-The shapers also need to unbundle their businesses to release profitable opportunities for other web participants so as to attract companies to enter the web and create opportunities for increasing income
+Shapers also need to unbundle their businesses to release profitable opportunities for other web participants, attracting companies to enter the web and create opportunities for increasing income.
 
-For the shaper owning a smaller slice or large slice will help to increase the financial profit and more
-controlling (WHY).
+For the shaper, owning a smaller or larger slice will help to increase financial profit and control.
 
-Its strategic focus needs to go far beyond the organization's own boundary, because its success depends not only on how efficient or innovative it is internally, but also, more importantly, on how successful the web is.
+Their strategic focus needs to go far beyond the organization's own boundary because their success depends not only on how efficient or innovative they are internally but also, more importantly, on how successful the web is.
 
-By speeding up the adoption of core technologies and expanding the range of web participants, for an adapter to be successful,
+By speeding up the adoption of core technologies and expanding the range of web participants, an adapter can be successful.
 
-Early participation in value web is essential for establishing pre-emptive positions in attractive markets 
+Early participation in a value web is essential for establishing pre-emptive positions in attractive markets.
 
-The adapter must pursue market shares in the value web through aggressive competition and strengthen relationships with the key shapers for information on the latest development.
+The adapter must pursue market shares in the value web through aggressive competition and strengthen relationships with the key shapers for information on the latest developments.
 
-Strategically they could link their own strategies with keyshapers or
+Strategically, they could link their own strategies with key shapers or include several competing webs, although the latter can be expensive and often requires large scales.
 
-Include several competing webs, although the latter can be expensive and often requires large scales.
+For example, a games company could develop games for multiple platforms, but there are serious cost and skill implications.
 
-For example, a games company could develop games platforms, but there are serious cost and skill implications.
+### The Implications of the Web Strategy
 
-### The implications of the web strategy
+The implications of the web strategy are profound.
 
-The implications of the web strategy are very deep,
+It creates powerful new ways to think about strategy, risk, technological uncertainty, and innovation.
 
-It create powerful new ways to think about strategy, risk, technological uncertainty, and innovation
+It allows companies to manage risk and generate innovation in today’s complex, rapidly changing environment.
 
-Allows companies to manage risk and generate innovation in today’s complex, rapidly changing environment.
+#### Reduce Risk
 
-Reduce risk
+The web strategy enables companies to reduce risks by focusing on what they are good at.
 
-It enables companies to reduce risks by focusing on what they are good
+It increases flexibility, reduces the overall investment required by each company, and lowers the barriers to entry.
 
-Increases flexibility and reduce the overall investment required by each company and lowers the barriers of
-entry.
+It reduces risks for all participants in the web because if one company fails, multiple companies can take its place.
 
-Reduce risks for all participants in the web because if one company fails multiple companies will take it place.
+#### Encourage Innovation
 
-Encourage Innovation
+This mechanism encourages multiple entries in bottleneck areas or in areas employed by companies without unique capabilities.
 
-Thismechanism encourages multiple entries inbottleneck areas orinareas employed bycompanies without unique
-capabilities,
+It provides opportunities for innovative companies to succeed.
 
-Provide opportunities for innovative companies to succeed.
-
-Encourages competition.
+#### Encourages Competition
 
 The web encourages innovation because information is distributed far more widely than in a physical marketplace.
 
 This serves to improve functionality, service, and customer adoption.
 
-The implications of the web strategy:
-
 Management requires a new way of thinking about strategy, industry structure, relationships between companies, and value creation.
 
 Traditionally, a firm creates its own strategy and then negotiates alliances in the market to advance its strategy.
 
-In the web, management first needs to decide which web to enter and what role it should play, and then formulates strategy for the firm (opposite).
+In the web, management first needs to decide which web to enter and what role it should play, and then formulate a strategy for the firm.
 
-The performance measurement of business executives in shapers needs to be similar in physical firm performance as the web performance.
+The performance measurement of business executives in shapers needs to be similar to physical firm performance as the web performance.
 
-The implications of the web strategy:
-
-More recently, business unbundling and outsourcing has been pointed out carefully from reliable, competent suppliers.
+More recently, business unbundling and outsourcing have been pointed out carefully from reliable, competent suppliers.
 
 The information system of the firm often needs to extend beyond its own boundary to enhance communications and information sharing along the entire supply chain.
 
 The internet makes communication easy and affordable.
 
-The implications of the web strategy:
-
 Many issues remain unanswered.
 
-The web strategy requires organizations to adopt a flexible organizational design, outsource non-strategic activities, and increasingly.
+The web strategy requires organizations to adopt a flexible organizational design, outsource non-strategic activities, and increasingly give rise to the emergence of virtual organizations and new inter-organizational relations.
 
-It also gives rise to the emergence of virtual organizations and new inter-organizational relations.
-
-However, it remains unclear (Challenges):
+However, it remains unclear:
 
 + How unbundling can take place, and under what conditions a virtual organization should be adopted instead of vertical integration.
 
@@ -292,99 +258,39 @@ Stepping back from the sectoral details of these businesses, the nature of the a
 
 Most organizations' activities can be assigned to one of the three categories listed above, although the make-up of some organizations tends to lean more heavily towards some of these activities than others.
 
-Such an organizational composition is a major problem for many organizations in today's business environment. (WHY?)
+Such an organizational composition is a major problem for many organizations in today's business environment. Why? Because these three businesses have very different characteristics, and each of them requires very different strategies, business models, organizational structures, and processes to function efficiently and effectively.
 
-Because these three businesses have very different characteristics, and each of them requires very different strategies, business models, organizational structures, and processes to function efficiently and effectively.
+The customer relations business is driven by economies of scope. Each customer should be treated as an individual, and the offerings to each customer—as far as possible—modified to maximally satisfy their needs. The organization must focus efforts on customization, developing relationships with customers, and understanding their individual needs. The company should offer as many choices as possible to maximize selection for customers. The objective is to offer appropriate products and services in order to capture a large share of customers' spending.
 
-The customer relations business is driven by economies of scope.
+The product innovation and commercialization business is driven by speed—the faster an organization can innovate and commercialize new products and services, the better. This requires the organization to use all possible distribution channels to reach potential customers. The organizational culture needs to focus on attracting and retaining creative talents. The operations need to be appropriate to serve the needs of these creative talents for innovation. In other words, the product innovation and commercialization business requires very different strategies, organizational culture, and operational systems from the customer relations business.
 
-Each customer should be treated as an individual, and the offerings to each customer—as far as possible—modified to maximally satisfy their needs.
-
-The organization must focus efforts on customization, developing relationships with customers, and understanding their individual needs.
-
-The company should offer as many choices as possible to maximize selection for customers.
-
-The objective is to offer appropriate products and services in order to capture a large share of customers' spending.
-
-The product innovation and commercialization business is driven by speed—the faster an organization can innovate and commercialize new products and services, the better.
-
-This requires the organization to use all possible distribution channels to reach potential customers.
-
-The organizational culture needs to focus on attracting and retaining creative talents.
-
-The operations need to be appropriate to serve the needs of these creative talents for innovation.
-
-In other words, the product innovation and commercialization business requires very different strategies, organizational culture, and operational systems from the customer relations business.
-
-The infrastructure management business is driven by economies of scale.
-
-The organization should use the infrastructure to deliver as many products as possible, as fast as possible, and at the lowest costs.
-
-The strategic focus is on the full utilization of facilities and low-cost operations, so the organization needs to be oriented towards cost reduction and standardization.
+The infrastructure management business is driven by economies of scale. The organization should use the infrastructure to deliver as many products as possible, as fast as possible, and at the lowest costs. The strategic focus is on the full utilization of facilities and low-cost operations, so the organization needs to be oriented towards cost reduction and standardization.
 
 ### Unbundling the Unnaturally Bundled Corporations
 
-Each activity has different characteristics, requires very different strategies, business models, organizational structures, and processes, and most of all, different organizational cultures to function efficiently and effectively.
-
-Managing them within one organization means that a compromise has to be reached, and despite various other potential benefits, none of them can operate optimally.
+Each activity has different characteristics, requires very different strategies, business models, organizational structures, and processes, and most of all, different organizational cultures to function efficiently and effectively. Managing them within one organization means that a compromise has to be reached, and despite various other potential benefits, none of them can operate optimally.
 
 The different characteristics of the three businesses unnaturally bundled together within the same organization can create serious problems for each of them.
 
-In customer relationship business (e.g., banks):
+#### In Customer Relationship Business (e.g., banks)
 
-No bank could possibly provide the 'best products' in all categories. This creates a dilemma for the financial advisor in the bank.
+No bank could possibly provide the 'best products' in all categories. This creates a dilemma for the financial advisor in the bank. The moral of the story is that even if the customer relations management staff (the financial advisors) want to do a good job (that is, providing what is best for the customer), they cannot do so as long as they are part of an integrated bank. They have to sell all products from their own bank even though some of the products are not the best options for the customer. In contrast, a specialized customer service company could search the entire market and find the best-in-class products from multiple suppliers in each of the categories, and then bundle them together to maximally satisfy the needs of a customer. So for customer services, the integrated company cannot possibly compete with a specialist provider.
 
-Customer relationship management vs. specialized customer service company:
+#### In Product Innovation and Commercialization
 
-The moral of the story is that even if the customer relations management staff (the financial advisers) want to do a good job (that is, providing what is best for the customer), they cannot do so as long as they are part of an integrated bank.
+The integrated company, once they have invested in producing a product, will need to recover the investment over a certain period of time and extract as much profit from it as possible. If halfway through an investment cycle a newer and better product is invented, it may well be in the company's interest not to commercialize the new product too quickly, in case it cannibalizes the existing product and the investment already made in the existing product cannot be recovered. In comparison, for a product innovation and commercialization company, the consideration will be very different and they will explore different routes to market and commercialize the product as quickly as possible.
 
-They have to sell all products from their own bank even though some of the products are not the best options for the customer.
+#### In Infrastructure Management Business
 
-In contrast, a specialized customer service company could search the entire market and find the best-in-class products from multiple suppliers in each of the categories, and then bundle them together to maximally satisfy the needs of a customer.
+The driving force is scale—the more products that can be pumped through the infrastructure, the more quickly the organization can recover its investment and make a profit. However, being part of an integrated business will restrict what can and cannot be delivered through the infrastructure. For example, the cash machine networks (Automated Teller Machine or ATM) in the UK require huge investment to develop and maintain, and for most banks, it is a service they have to provide to customers, and often it is not a profitable activity. However, if the network can be detached from banks, the infrastructure can be used to deliver more than cash, and it can also be used to provide a range of other services, for example, selling theatre or football tickets, and so on, thereby generating additional revenues for its providers. This may enable the ATM network to become a stand-alone, profitable business.
 
-So for customer services, the integrated company cannot possibly compete with a specialist provider.
+The implications are very profound. Since then, large companies have spent considerable energy and resources re-engineering and redesigning their core processes. They have used the latest ICTs to eliminate human intervention, cut waiting time, and reduce errors. For many companies, streamlining core processes has yielded impressive gains, saving money and time, and providing customers with more valuable products and services. However, there are limits to such gains. The principles governing the three core processes conflict with one another. Bundling them into a single corporation inevitably forces management to compromise the performance of each process in ways that no amount of re-engineering can overcome.
 
-The same is true for product innovation and commercialization. The integrated company, once they have invested in producing a product, will need to recover the investment over a certain period of time and extract as much profit from it as possible.
+In the past, when transaction costs were high, and sometimes for other strategic reasons, these activities were bundled together under the same organizational roof and managed via vertically integrated business models and organizational designs. However, the conditions today have changed, and it often makes more sense to unbundle them and run each of the three activities as stand-alone businesses. Examining the fundamental nature of the business provides one way to deconstruct the vertically integrated business model and processes.
 
-If halfway through an investment cycle a newer and better product is invented, it may well be in the company's interest not to commercialize the new product too quickly, in case it cannibalizes the existing product and the investment already made in the existing product cannot be recovered.
+Transaction cost pressures may also influence some organizations to choose not to unbundle. Hagel and Singer believed that only product innovation is likely to be dominated by a large number of small companies because of the need for creativity, which favors smaller companies. The other two businesses—customer relations management and infrastructure management—are likely to consolidate quickly and be dominated by a small number of large companies.
 
-In comparison, for a product innovation and commercialization company, the consideration will be very different and they will explore different routes to market and commercialize the product as quickly as possible.
-
-For infrastructure management businesses, the driving force is scale—the more products that can be pumped through the infrastructure, the more quickly the organization can recover its investment and make a profit.
-
-However, being part of an integrated business will restrict what can and cannot be delivered through the infrastructure.
-
-For example, the cash machine networks (Automated Teller Machine or ATM) in the UK require huge investment to develop and maintain, and for most banks it is a service they have to provide to customers, and often it is not a profitable activity.
-
-However, if the network can be detached from banks, the infrastructure can be used to deliver more than cash, and it can also be used to provide a range of other services, for example, selling theatre or football tickets, and so on, thereby generating additional revenues for its providers.
-
-This may enable the ATM network to become a stand-alone, profitable business.
-
-The implications are very profound.
-
-Since then, large companies have spent considerable energy and resources re-engineering and redesigning their core processes. They have used the latest ICTs to eliminate human intervention, cut waiting time, and reduce errors.
-
-For many companies, streamlining core processes has yielded impressive gains, saving money and time, and providing customers with more valuable products and services.
-
-However, there are limits to such gains. The principles governing the three core processes conflict with one another. Bundling them into a single corporation inevitably forces management to compromise the performance of each process in ways that no amount of re-engineering can overcome.
-
-In the past, when transaction costs were high, and sometimes for other strategic reasons, these activities were bundled together under the same organizational roof and managed via vertically integrated business models and organizational designs.
-
-However, the conditions today have changed, and it often makes more sense to unbundle them and run each of the three activities as stand-alone businesses. Examining the fundamental nature of the business provides one way to deconstruct the vertically integrated business model and processes.
-
-Transaction cost pressures may also influence some organizations to choose not to unbundle.
-
-Hagel and Singer believed that only product innovation is likely to be dominated by a large number of small companies because of the need for creativity, which favors smaller companies.
-
-The other two businesses—customer relations management and infrastructure management—are likely to consolidate quickly and be dominated by a small number of large companies.
-
-A second wave of unbundling for transforming intensive companies is 'unbundling the unbundled.' Most basic capital-intensive services were heavily regulated and/or owned by the country. Such services were mostly delivered by monopolies (single supplier).
-
-Examples include gas, electricity, water, telecommunication, and other utilities.
-
-Since deregulation, most of these services have been privatized, and the previous services have been unbundled into separate businesses. An example of this is the gas business, where the ownership of the pipeline is separated from the business of pipeline operation, maintenance, and upgrading, and the business of day-to-day work.
-
-The unbundling of vertical business has led to significant improvements and innovative efficiency. This was largely achieved by introducing competition into those stages of the value chain and separating ownership, management, and service delivery.
+A second wave of unbundling for transforming intensive companies is 'unbundling the unbundled.' Most basic capital-intensive services were heavily regulated and/or owned by the country. Such services were mostly delivered by monopolies (single supplier). Examples include gas, electricity, water, telecommunication, and other utilities. Since deregulation, most of these services have been privatized, and the previous services have been unbundled into separate businesses. An example of this is the gas business, where the ownership of the pipeline is separated from the business of pipeline operation, maintenance, and upgrading, and the business of day-to-day work. The unbundling of vertical business has led to significant improvements and innovative efficiency. This was largely achieved by introducing competition into those stages of the value chain and separating ownership, management, and service delivery.
 
 ### When is Virtual Worthy?
 

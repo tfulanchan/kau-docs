@@ -1,6 +1,6 @@
 ---
 title: Chapter 7 Managing Disruptive Strategic Innovation in the New Economy
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 ### Introduction

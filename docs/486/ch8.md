@@ -1,6 +1,6 @@
 ---
 title: Chapter 8 Emerging E-Business Models in the Network Economy
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 ### Introduction

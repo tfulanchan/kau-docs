@@ -1,6 +1,6 @@
 ---
 title: Chapter 6 Emerging Strategies and Business Models in the Network Economy
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 [New Strategies for the Network Economy Feng](https://citeseerx.ist.psu.edu/document?repid=rep&type=pdf&doi=bafabbaadeecaccc)
@@ -294,7 +294,7 @@ The implications are very profound. Since then, large companies have spent consi
 
 In the past, when transaction costs were high, and sometimes for other strategic reasons, these activities were bundled together under the same organizational roof and managed via vertically integrated business models and organizational designs. However, the conditions today have changed, and it often makes more sense to unbundle them and run each of the three activities as stand-alone businesses. Examining the fundamental nature of the business provides one way to deconstruct the vertically integrated business model and processes.
 
-Transaction cost pressures may also influence some organizations to choose not to unbundle. Hagel and Singer believed that only product innovation is likely to be dominated by a large number of small companies because of the need for creativity, which favors smaller companies. The other two businesses—customer relations management and infrastructure management—are likely to consolidate quickly and be dominated by a small number of large companies.
+Transaction cost pressures may also influence some organizations to choose not to unbundle. Hagel and Singer believed that **only product innovation is likely to be dominated by a large number of small companies** because of the need for creativity, which favors smaller companies. The other two businesses—customer relations management and infrastructure management—are likely to consolidate quickly and be dominated by a small number of large companies.
 
 A second wave of unbundling for transforming intensive companies is 'unbundling the unbundled.' Most basic capital-intensive services were heavily regulated and/or owned by the country. Such services were mostly delivered by monopolies (single supplier). Examples include gas, electricity, water, telecommunication, and other utilities. Since deregulation, most of these services have been privatized, and the previous services have been unbundled into separate businesses. An example of this is the gas business, where the ownership of the pipeline is separated from the business of pipeline operation, maintenance, and upgrading, and the business of day-to-day work. The unbundling of vertical business has led to significant improvements and innovative efficiency. This was largely achieved by introducing competition into those stages of the value chain and separating ownership, management, and service delivery.
 
@@ -306,7 +306,7 @@ Virtual organizations require less investment and are more responsive to market 
 
 Despite repeated warnings about the potential risks of the virtual organization since the mid-1990s, managers are still urged to subcontract everything possible today through downsizing, decentralization, alliances, and more recently, strategic and operational outsourcing.
 
-Virtual organizations have many advantages. According to Chesbrough and Teece, the keys to the success of virtual organizations are incentives and responsiveness. Rather than relying on administrative measures of the hierarchy to deploy resources and set priorities, virtual organizations use market entities to bring free agents together to buy and sell goods and services.
+Virtual organizations have many advantages. According to Chesbrough and Teece, **the keys to the success of virtual organizations are incentives and responsiveness**. Rather than relying on administrative measures of the hierarchy to deploy resources and set priorities, virtual organizations use market entities to bring free agents together to buy and sell goods and services.
 
 ### When is Virtual Virtuous?
 
@@ -318,7 +318,7 @@ These networks can be more sensitive, innovative, and responsive to market chang
 
 The problem is that great motivations could lead to excessive risk-taking by some of the free agents. When some of them fail, the entire network can be pulled down with them.
 
-Free agents are independent and work from their own self-interest, often at the expense of others. Furthermore, many of these unions will take a short-term view, and therefore, there is also the risk of friendly partnerships becoming long-term unhealthy.
+Free agents are independent and work for their own self-interest, often at the expense of others. Furthermore, many of these unions will take a short-term view, and therefore, there is also the risk of friendly partnerships becoming long-term unhealthy.
 
 #### Virtual organization characteristics
 

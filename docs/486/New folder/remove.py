@@ -5,7 +5,7 @@ import os
 def remove_copyright(md_file):
     with open(md_file, "r", encoding="utf-8") as file:
         content = file.read()
-        A = "Allan Afuah and Christopher Tucci"
+        A = "================================================================================"
         new_content = content.replace(A, "")
     
     with open(md_file, "w", encoding="utf-8") as file:

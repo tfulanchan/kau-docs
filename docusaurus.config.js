@@ -81,7 +81,12 @@ const config = {
             position: "left",
             label: "CPIS-434",
             to: 'docs/434',
-          },          
+          }, 
+          {
+            position: "left",
+            label: "CPIS-486",
+            to: 'docs/486',
+          },      
         ],
       },
       footer: {

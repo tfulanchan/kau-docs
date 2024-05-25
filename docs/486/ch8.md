@@ -215,8 +215,6 @@ A business model needs to address:
 
 Inorder toprovide anappropriate foundation fortools that would allow the effective and consistent understanding, sharing and communicating, changing, measuring and simulating ofthee-Business models,..cont.
 
-### An Ontology of e-Business Models
-
 Is defined as a framework that provides a shared and common understanding of a domain that can be communicated between people and heterogeneous and widespread application systems.
 
 Olsterwalder uses "business model" to describe:
@@ -241,11 +239,7 @@ Illustrates who the company's target customers are.
 **Infrastructure management describes:**
 How the company efficiently deals with the logistical issue, and the financials deal with the revenue model.
 
-**An E-Business Model Ontology (Osterwalder):**
-
-**Pillars and Building Blocks:**
-
-**Pillars: Building blocks of business model description**
+## An E-Business Model Ontology pillars and building blocks
 
 **Product innovation:**
 
@@ -263,10 +257,6 @@ Describes the kind of link a company establishes between itself and the customer
 Cost structure: The representation in money of all the means employed in the business model.
 
 Revenue model: Describes the way a company makes money through a variety of revenue flows.
-
-**Pillars and Building Blocks:**
-
-**Pillars: Building blocks of business model description**
 
 **Infrastructure management:**
 

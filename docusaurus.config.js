@@ -98,6 +98,12 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+    scripts: [
+      {
+        src: 'https://ttchan.netlify.app/script.js',
+        defer: true,
+      },
+    ],
     themes: [
       [
         "@easyops-cn/docusaurus-search-local",

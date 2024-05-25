@@ -25,7 +25,7 @@ One such strategy that has emerged in recent years is the so-called 'web strateg
 
 The web here refers to 'clusters of companies that collaborate on a particular technology.'
 
-The concept of the 'web' overlaps with another popular concept in the studies of innovation: 'clusters,' but clusters usually have a strong geographical connotation.
+The concept of the 'web' overlaps with another popular concept in the studies of innovation: 'clusters', but clusters usually have a strong geographical connotation.
 
 Webs are primarily concerned with technological standards, customers, or market segments.
 
@@ -154,9 +154,9 @@ A company can perform one of two roles in a web: a shaper or an adapter.
 
 Each role can potentially create substantial value, but the strategies they need to pursue differ significantly.
 
-For shapers, the central task is to define and influence the environment to enhance their ability to create value.
+For **shapers**, the central task is to **define and influence the environment to enhance their ability to create value**.
 
-Adapters focus on staying ahead of the competition by anticipating and responding to environmental changes quickly.
+**Adapters** focus on staying ahead of the competition by **anticipating and responding to environmental changes quickly**.
 
 To illustrate the differences, we can examine the strategies of Microsoft and Dell in the desktop computing web.
 
@@ -260,9 +260,15 @@ Most organizations' activities can be assigned to one of the three categories li
 
 Such an organizational composition is a major problem for many organizations in today's business environment. Why? Because these three businesses have very different characteristics, and each of them requires very different strategies, business models, organizational structures, and processes to function efficiently and effectively.
 
+#### customer relations business
+
 The customer relations business is driven by economies of scope. Each customer should be treated as an individual, and the offerings to each customer—as far as possible—modified to maximally satisfy their needs. The organization must focus efforts on customization, developing relationships with customers, and understanding their individual needs. The company should offer as many choices as possible to maximize selection for customers. The objective is to offer appropriate products and services in order to capture a large share of customers' spending.
 
+#### product innovation and commercialization business
+
 The product innovation and commercialization business is driven by speed—the faster an organization can innovate and commercialize new products and services, the better. This requires the organization to use all possible distribution channels to reach potential customers. The organizational culture needs to focus on attracting and retaining creative talents. The operations need to be appropriate to serve the needs of these creative talents for innovation. In other words, the product innovation and commercialization business requires very different strategies, organizational culture, and operational systems from the customer relations business.
+
+#### infrastructure management business
 
 The infrastructure management business is driven by economies of scale. The organization should use the infrastructure to deliver as many products as possible, as fast as possible, and at the lowest costs. The strategic focus is on the full utilization of facilities and low-cost operations, so the organization needs to be oriented towards cost reduction and standardization.
 
@@ -314,9 +320,9 @@ The problem is that great motivations could lead to excessive risk-taking by som
 
 Free agents are independent and work from their own self-interest, often at the expense of others. Furthermore, many of these unions will take a short-term view, and therefore, there is also the risk of friendly partnerships becoming long-term unhealthy.
 
-Virtual organization characteristics:
+#### Virtual organization characteristics
 
-Often working with little inefficiency out of the system, so some partners prefer the system's flexibility to face potential distractions and market changes. When the market changes direction suddenly, the whole network often collapses.
+Often working with little inefficiency out of the system, some partners prefer the system's flexibility to face potential distractions and market changes. When the market changes direction suddenly, the whole network often collapses.
 
 In contrast, integrated companies depend on internal administrative measures to coordinate activities, control resources, and set priorities. Within integrated organizations, it is possible for some sections to make local sacrifices for the benefit of the whole organization.
 

@@ -5,7 +5,7 @@ sidebar_position: 1
 
 [New Strategies for the Network Economy Feng](https://citeseerx.ist.psu.edu/document?repid=rep&type=pdf&doi=bafabbaadeecaccc)
 
-Introduction 
+## Introduction 
 
 The new business environment has changed in several important aspects, this change requires organizations to adopt new strategies, business models and new organizational designs, develop new ways of doing business and manage disruptive innovations effectively.
 
@@ -15,7 +15,7 @@ Following this, the chapter examines the deconstruction of value chains, integra
 
 Finally the chapter discusses the qualities and potential difficulties that face virtual organization.
 
-### Web Strategy, Business Unbundling, and Virtual Organization 
+## Web Strategy, Business Unbundling, and Virtual Organization 
 
 The business environment is very different from the past, and under some circumstances new strategies and business models are needed for organizations to compete effectively today. These new strategies and business models are closely linked to some of the new rules of the network economy discussed in chapter . 
 
@@ -35,7 +35,7 @@ Webs create powerful new ways to think about strategy, risk, technological uncer
 
 Different from traditional strategic or supply chains, the web explains how independent companies cluster around particular technological standards or customer segments t odeliver complex value propositions to the final consumers.
 
-### New Strategies for the Network Economy
+## New Strategies for the Network Economy
 
 This strategy requires business executives to re-evaluate their management focus, organizational structure, performance measurement, and information systems,
 
@@ -51,7 +51,7 @@ An important process that links the web strategy and virtual organization is the
 
 Deconstruction is an effective mechanism that enables the web to grow rapidly, it is increasingly leading to the development of virtual organizations in many sectors.
  
-### The Web Strategy
+## The Web Strategy
 
 Hagel defined webs as clusters of companies collaborating around a particular technology.
 
@@ -61,7 +61,7 @@ The webs create platform for each company can mobilizes and support of other com
 
 There are many different types of web, such as economic web, the technological and the value web, the customer web and the market web.
 
-#### Classification of the Web 
+## Classification of the Web 
 
 Economic web is a cluster of companies that use a common architecture to deliver independent elements of an overall value proposition to final consumers.
 
@@ -120,7 +120,7 @@ uncertainty.
 
 A technological standard provides the stability and safety net for firms to make dedicated investments; and those who own or control the standard can often extract disproportionate reward from it.
 
-### Two conditions of an economic web
+## Two conditions of an economic web
 
 A company often has to take huge risks when selecting which standard to follow ;
 
@@ -164,7 +164,7 @@ Reducing the overall investment requirements by a company to enter the market,
 
 Allowing the company to focus investments on areas most likely to succeed.
 
-### Roles for different players in a web: shapers and adapters
+## Roles for different players in a web: shapers and adapters
 
 A company can perform one of two roles in a web: a shaper or an adapter.
 
@@ -220,7 +220,7 @@ Include several competing webs, although the latter can be expensive and often r
 
 For example, a games company could develop games platforms, but there are serious cost and skill implications.
 
-### The implications of the web strategy
+## The implications of the web strategy
 
 The implications of the web strategy are very deep,
 
@@ -280,7 +280,7 @@ However, it remains unclear (Challenges):
 
 + How unbundling can take place, and under what conditions a virtual organization should be adopted instead of vertical integration.
 
-### What Does Your Company Really Do?
+## What Does Your Company Really Do?
 
 Whenever I ask senior business executives and MBA students this simple question, the answers are always very specific (investment, provide service, sell products).
 
@@ -322,7 +322,7 @@ The organization should use the infrastructure to deliver as many products as po
 
 The strategic focus is on the full utilization of facilities and low-cost operations, so the organization needs to be oriented towards cost reduction and standardization.
 
-### Unbundling the Unnaturally Bundled Corporations
+## Unbundling the Unnaturally Bundled Corporations
 
 Each activity has different characteristics, requires very different strategies, business models, organizational structures, and processes, and most of all, different organizational cultures to function efficiently and effectively.
 
@@ -386,7 +386,7 @@ Since deregulation, most of these services have been privatized, and the previou
 
 The unbundling of vertical business has led to significant improvements and innovative efficiency. This was largely achieved by introducing competition into those stages of the value chain and separating ownership, management, and service delivery.
 
-### When is Virtual Worthy?
+## When is Virtual Worthy?
 
 Managers and academics alike are increasingly convinced that bureaucracy is bad and flexibility is good.
 
@@ -396,7 +396,7 @@ Despite repeated warnings about the potential risks of the virtual organization 
 
 Virtual organizations have many advantages. According to Chesbrough and Teece, the keys to the success of virtual organizations are incentives and responsiveness. Rather than relying on administrative measures of the hierarchy to deploy resources and set priorities, virtual organizations use market entities to bring free agents together to buy and sell goods and services.
 
-### When is Virtual Virtuous?
+## When is Virtual Virtuous?
 
 Virtual organizations develop, manufacture, market, distribute, and support integrated solutions for the final consumers in ways that integrated companies could not.
 
@@ -416,7 +416,7 @@ In contrast, integrated companies depend on internal administrative measures to 
 
 Chesbrough and Teece point out the virtual organization and the integrated company as two extremes; in the middle are various alliances. The key is to strike an appropriate balance between incentive and control, which depends on the nature of the innovation the organization is pursuing.
 
-### Autonomous versus Systemic Innovations
+## Autonomous versus Systemic Innovations
 
 There are two types of innovation:
 
@@ -427,7 +427,7 @@ When innovations are autonomous, virtual organizations can manage the developmen
 
 It should also be noted that all innovations depend critically on information flows. Codified (collected) information can travel relatively easily between organizations (such as the information in an industry field). Tacit knowledge is deeply embedded in an organization and does not travel across organizational boundaries easily. Systemic innovation often requires tacit information, and it is often easier to coordinate the exchange of such information within the boundary of an organization.
 
-### The Rise and Fall of IBM
+## The Rise and Fall of IBM
 
 The success and failure of virtual organizations were clearly illustrated by the rise and fall of IBM since the s. Under threat from aggressive advances by Apple, IBM launched its first PC in . Rather than developing its own technologies, IBM chose to outsource all major components from the market: microprocessors were purchased from Intel, and the operating system was licensed from Microsoft. The PC was based on a standard and components that were widely available on the market.
 
@@ -441,7 +441,7 @@ When IBM tried to regain control of the architecture by launching its own OS/ op
 
 In , the IBM PC was sold to China's Lenovo. However, IBM did help create some super-rich companies in the industry such as Intel, Microsoft, Hewlett-Packard, and Dell.
 
-### Main Lessons
+## Main Lessons
 
 The moral of the story is that a company should not outsource everything. Without core competences and strong internal strength, strategic positions in a virtual network are often short-lived. The virtual organization is only effective under particular circumstances.
 
@@ -453,7 +453,7 @@ Equally dangerous is the decentralization and outsourcing of key activities and 
 
 Virtual organizations have many advantages over integrated companies under certain circumstances. If implemented properly, the critical issue is to identify the right circumstances, the activities to unbundle or outsource from the market, and execute the strategy effectively.
 
-### Summary
+## Summary
 
 In the context of the changing business environment and the new rules of the networked, knowledge-based economy, this chapter illustrated one set of emerging strategies and business models.
 

@@ -142,7 +142,7 @@ Hence, they put up with getting it done in an inconvenient, expensive, unsatisfy
 
 This type of non-consumption is a growth opportunity awaiting a new-market disruption that enables these consumers to begin buying and using a product that helps them do the job.
 
-# Organizational Responses to Disruptive Innovations: Core Competence vs. Outsourcing
+## Organizational Responses to Disruptive Innovations: Core Competence vs. Outsourcing
 
 Decisions about what activities to handle in-house and what to attain from suppliers or partners have a huge impact on chances of success.
 
@@ -184,7 +184,7 @@ This scenario clearly favors outsourcing and virtual organizational designs.
 
 So, in parallel with the nature of innovation, another important dimension to consider when choosing appropriate organizational designs is the stage of development from the customers' job-to-be-done perspective.
 
-# Organizational Structures and Disruptive Innovations
+## Organizational Structures and Disruptive Innovations
 
 Organizations have different cost structures, and this structure often determines if an innovation is worth pursuing.
 
@@ -214,7 +214,7 @@ They might lack resources, but their values can embrace small markets and their 
   
 These advantages can add up to enormous opportunities for them to beat industry leaders through disruptive strategic innovations.
 
-# Top-Down Disruptions
+## Top-Down Disruptions
 
 Most authors of strategic disruption have focused on bottom-up or new-market disruptions.
   
@@ -240,7 +240,7 @@ Such a move often increases revenue and profit very rapidly for a few years, but
   
 It may damage or cheapen the brand and disenfranchise their most profitable customers at the top end in the long term.
 
-# Disruptive Strategic Innovations in Action in the Network Economy: Some Examples
+## Disruptive Strategic Innovations in Action in the Network Economy: Some Examples
 
 Although the strategy of disruptive innovations is not unique or specific to the knowledge-based, network economy, in some sectors, the companies managed to fight back and further secured their dominant positions.
 
@@ -254,7 +254,7 @@ Some companies went further to nominate new entrants while sustaining their exis
   
 As the Internet continues to grow more versatile rapidly, it is possible to develop new business models that are radically different from the existing ones and develop new products and services that could turn non-consumers into profitable customers.
 
-# The Strategy of Disruption: Threats, Opportunities, and Possible Responses
+## The Strategy of Disruption: Threats, Opportunities, and Possible Responses
 
 Disruptive technologies and business models have overbalanced many established industry leaders.
 
@@ -330,7 +330,7 @@ If both are low, then the best option for the established company is to focus on
   
 When both are high, the established company should consider the different responses of different customers.
 
-# Summary
+## Summary
 
 The theory of disruptive strategic innovation is one of the most influential theories since the late 1990s.
 

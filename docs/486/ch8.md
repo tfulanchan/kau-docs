@@ -167,7 +167,7 @@ A business model needs to address:
 - The business actor and network aspects,
 - The marketing aspects of a business."
 
-Inorder toprovide anappropriate foundation fortools that would allow the effective and consistent understanding, sharing and communicating, changing, measuring and simulating ofthee-Business models,..cont.
+In order to provide anappropriate foundation for tools that would allow the effective and consistent understanding, sharing and communicating, changing, measuring and simulating of thee-Business models,..cont.
 
 Is defined as a framework that provides a shared and common understanding of a domain that can be communicated between people and heterogeneous and widespread application systems.
 
@@ -176,6 +176,10 @@ Olsterwalder uses "business model" to describe:
 The value a company offers to one or several segments of customers.
 
 The architecture of the firm and its network of partners for creating, marketing, and delivering this relationship capital, in order to generate profitable and sustainable revenue streams.
+
+(A business model needs to address three key aspects: revenue and product, business actor and network, and marketing. To provide an appropriate foundation for tools that allow effective and consistent understanding, sharing, communicating, changing, measuring and simulating e-Business models, a framework is required that provides a shared and common understanding of the domain, which can be communicated between people and heterogeneous and widespread application systems.
+
+Alexander Osterwalder uses the concept of a "business model" to describe the value a company offers to one or several segments of customers, as well as the architecture of the firm and its network of partners for creating, marketing, and delivering this relationship capital, in order to generate profitable and sustainable revenue streams.)
 
 The ontological framework of the e-Business model is based on four main pillars:
 

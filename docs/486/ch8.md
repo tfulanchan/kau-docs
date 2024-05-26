@@ -84,13 +84,15 @@ Most of these models are self-explanatory.
 | Information Brokerage | New information services such as information search, customer profiling, and business opportunity brokerage. |
 | Trust and Other Services | Trust services by certification authorities or others. Other services include the delivery of business information and consultancy services. |
 
-By mapping the business models onto a two-dimensional framework, Timmers identified two opposite trends for the future evolution of e-business models:
+By mapping the business models onto a two-dimensional framework, [Timmers](https://www.electronicmarkets.org/fileadmin/user_upload/doc/Issues/Volume_08/Issue_02/V08I2_Business_Models_for_Electronic_Markets.pdf) identified two opposite trends for the future evolution of e-business models:
   - One is the move toward increased integration of information flow.
   - The other is the development of specialized, highly innovative services.
 
+(Timmers identified two contrasting trends for the future evolution of e-business models by mapping them onto a two-dimensional framework. The first trend involves an increased integration of information flow, indicating a move towards more interconnected and seamless data exchange within business processes. On the other hand, the second trend focuses on the development of specialized, highly innovative services, suggesting a shift towards offering unique and cutting-edge solutions tailored to specific market needs. These trends reflect the dual directions in which e-business models are evolving, emphasizing both enhanced connectivity and the delivery of specialized, value-added services in the digital marketplace.)
+
 Rappa identified and conceptualized a series of e-business models primarily from the perspective of revenue generation.
 
-The main categories are summarized in the following table.
+The main categories are [summarized](https://core.ac.uk/download/pdf/301352104.pdf) in the following table.
 
 | E-Business Model | Meaning | Sub-models |
 |-|-|-|
@@ -106,7 +108,7 @@ The main categories are summarized in the following table.
 
 ### Afuah and Tucci's Classification
 
-Afuah and Tucci moved beyond the identification of individual categories of e-business models to developing a classification.
+[Afuah and Tucci](https://www.researchgate.net/profile/Christopher-Tucci/publication/37408327_Internet_Business_Models_and_Strategies/links/54ae1ec80cf2828b29fcbb7c/Internet-Business-Models-and-Strategies.pdf) moved beyond the identification of individual categories of e-business models to developing a classification.
 
 They have specifically emphasized the importance of revenue generation in their classification of e-business models.
 
@@ -129,6 +131,8 @@ What a firm must do to sustain any advantages it has;
 
 How well it can implement all these different elements.
 
+(Afuah and Tucci developed a classification of e-business models that goes beyond identifying individual categories by emphasizing the importance of revenue generation. Their classification is based on key components including the value offered to customers, the targeted customer segments, the scope of products and services for each segment, the profit site chosen, the sources of revenue, the prices set for the offered value, the activities required to deliver that value, the capabilities these activities rely on, what is needed to sustain competitive advantages, and how effectively all these elements can be implemented. In essence, their classification provides a comprehensive framework for designing e-business models by considering the interplay between customer value proposition, revenue sources, operational capabilities, and competitive positioning.)
+
 The authors then argued that these components must work in a system. How well the system works depends on the key components as well as the relationships between and amongst them. Furthermore, the relationship between the business model and its environment is also very important. A good business model needs to be capable of taking advantage of any new opportunities and containing the effects of emerging threats and challenges.
 
 Afuah and Tucci considered the e-Business model as the method by which a firm plans to make money long-term using the Internet. It is the system that takes advantage of the properties of the Internet to make money. They identified seven possible revenue models in their classification of e-Business models:
@@ -147,7 +151,7 @@ They identified eleven profit sites within the Internet infrastructure, summariz
 
 They identified the revenue models, summarized as Commission, Advertising, Mark-up, Production, Referral-based, Subscription-based, and Fee-for-service based.
 
-Along the dimension of commerce strategy, they identified five main categories: BB (business to business), BC (business to consumer), PP (person to person or peer to peer, also known as consumer to consumer-CC), CB (consumer to business), and BE (business to employee).
+Along the dimension of commerce strategy, they identified five main categories: B2B (business to business), B2C (business to consumer), P2P (person to person or peer to peer, also known as consumer to consumer-C2C), C2B (consumer to business), and B2E (business to employee).
 
 In terms of pricing models, they identified five separate categories: fixed pricing, one-to-one bargaining, auctions, reverse auctions, and barter.
 

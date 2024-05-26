@@ -4,9 +4,7 @@ sidebar_position: 0
 
 # CPIS-486 E-commerce strategies
 
-Adpater
-
-Shaper
+### Shaper / Adpater
 
 Shapers focus on influencing and shaping the evolution of the industry structure and environment to their advantage. They leverage key platform technologies, manage increasing returns dynamics, and mobilize economic incentives to accelerate web growth and create lock-in effects.
 
@@ -14,11 +12,7 @@ Adapters quickly respond to changes happening in the environment. Adapters estab
 
 While shapers proactively shape the playing field, adapters flexibly adapt and thrive within that changing landscape shaped by others.
 
-Customer relationship business
-
-Product innovation and commercialization business
-
-Infrastructure management business
+### Customer relationship business / Product innovation and commercialization business / Infrastructure management business
 
 | business | example | description | 
 |-|-|-|
@@ -26,9 +20,7 @@ Infrastructure management business
 | Product innovation and commercialization | Apple conceiving new products and bringing them to market quickly | prioritize speed-to-market and rewarding creative talent |
 | Infrastructure management | logistics companies like FedEx managing high-volume operational facilities efficiently at scale | pursue economies of scale through standardization to drive down unit costs in high-volume operations. While often bundled together historically, these business types have conflicting economics, cultures and competitive requirements. |
 
-Autonomous innovations
-
-Systemic innovations
+### Autonomous innovations / Systemic innovations
 
 Autonomous innovations are those that can be independently pursued without relying on other innovations or actors, such as developing a new turbocharger to increase horsepower. 
 
@@ -36,9 +28,7 @@ Systemic innovations require a series of interdependent and complementary innova
 
 Virtual organizations are better suited for pursuing autonomous innovations at the edges of the organization, leveraging external partnerships and alliances. However, they face challenges in coordinating systemic innovations that require tighter integration and control across organizational boundaries. 
 
-Virtual organization
-
-Integrated companies
+### Virtual organization / Integrated companies
 
 Virtual organizations in the network economy are geographically distributed networks of independent entities collaborating remotely through communication technologies. They concentrate on core competencies while outsourcing non-core activities, relying heavily on trust and flexibility to rapidly adapt to changing conditions. Extensive use of IT enables seamless coordination and information sharing across these fluid virtual structures.
 
@@ -59,7 +49,7 @@ The choice depends on whether innovations are autonomous or systemic, with virtu
 | Thrive on agility and external partnerships | Prioritize self-sufficiency and control |
 | Suitable for autonomous innovations | Advantageous for systemic innovations requiring tight coordination |
 
-Unbundling the unbundled
+### Unbundling the unbundled
 
 In the network economy, business activities should be unbundled when separating monopolistic network functions from competitive segments is necessary to promote fair competition and prevent discrimination. Unbundling can occur at different levels, from accounting to legal and ownership separation.
 
@@ -67,9 +57,7 @@ In the network economy, business activities should be unbundled when separating 
 
 Focusing on specific areas can lead to significant success in the digital economy. This strategy allows companies to excel in niche markets and adapt to changing industry dynamics more effectively.
 
-Sustaining innovations
-
-Disruptive innovations
+### Sustaining innovations / Disruptive innovations
 
 Sustaining innovation focuses on incrementally improving existing products or services to serve an organization's existing customer base, such as Apple releasing updated iPhone models each year with enhanced features.
 
@@ -82,11 +70,7 @@ While Apple exemplifies sustaining innovation in the smartphone industry, compan
 | Sustaining Innovations | Incremental improvements to existing products or services to better serve an organization's current customer base | Apple releasing updated iPhone models annually with enhanced features and performance |
 | Disruptive Innovations | Create entirely new markets and value networks by providing simplicity, affordability, and accessibility to non-consumers or overlooked segments, disrupting established players | Netflix disrupting home video rental with online streaming, Uber disrupting taxis with ride-sharing app, Amazon disrupting retail with e-commerce and logistics capabilities |
 
-Low-end disruption
-
-New-market disruption
-
-Top-down disruption
+### Low-end disruption / New-market disruption / Top-down disruption
 
 Low-end disruption occurs when a company introduces a simpler, more affordable product or service that initially underperforms compared to existing offerings but is good enough for the low-end of the market. Over time, the disruptor improves its offering to eventually meet the needs of more demanding customers, displacing established competitors.
 
@@ -100,7 +84,7 @@ Top-down disruption refers to when an established company leverages new technolo
 | New-market Disruption | New entrant | Non-consumers lacking skills, wealth or access | Creates entirely new market with simple, accessible product | Serves previously unserved segment |
 | Top-down Disruption | Established company | Existing high-end market | Leverages new tech or business model for higher-quality, affordable product | Disrupts incumbents from above, not low-end |
 
-E-business model
+### E-business model
 
 A business model needs to address:
 - The revenue and product aspects,

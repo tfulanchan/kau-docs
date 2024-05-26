@@ -5,6 +5,29 @@ title: CPIS-486 E-business strategies
 
 # [CPIS-486 E-business strategies](https://fcit.kau.edu.sa/aims/runReportAPI2.php?REP_ID=3&FL_TYPE=pdf&CLG_ID=1&PRA_STR=(PARAM1:18)%7C(PARAM2:2)%7C(PARAM3:3)%7C(PARAM4:BINDER)%7C(PARAM6:CPIS-486)%7C(PARAM5:0)%7C(PARAM7:)%7C(P_DESFORMAT:PDF)%7C(P_RDF_FILENAME:BINDER)%7C(P_OUTPUT_FILENAME:Syllabus))
 
+
+### Economic web
+
+In the web economy, companies often face high risks when selecting standards, as changing course later can be costly. To mitigate this, some firms give away core technologies to boost adoption, creating increasing returns that attract more participants in a positive feedback loop. Webs are not formal associations, but rather independent companies pursuing economic self-interest, enabled by shared standards that allow them to focus on unique value while benefiting from the web's growth. This reduces market entry barriers and investment requirements, allowing firms to concentrate on their most promising areas, ultimately driving continued expansion of the web economy.
+
+An economic web is a network of independent companies using a common architecture to deliver elements of a value proposition, exemplified by the Microsoft and Intel (Wintel) PC web. Within this network, companies operate autonomously, driven by economic self-interest. 
+
+A technology web consists of independent companies organized around a technological platform, enabling industries to unbundle and allow specialized players, such as in online services.
+
+Within this, a value web focuses on maximizing value for companies using a common technology platform, like Apple's Macintosh vs. Microsoft/Intel PCs.
+
+Emerging types of webs include the customer web, which manages deep customer relationships to satisfy a wide range of needs, and the market web, which focuses on specific transactions, such as mortgage portals.
+
+For an economic web to form, there must be a technological standard and increasing returns to encourage investment and reduce risk.
+
+| Type of Web      | Description                                                                                                                 | Example                               |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| Economic Web     | A cluster of independent companies using a common architecture to deliver elements of a value proposition to consumers.     | Microsoft and Intel (Wintel) PC web   |
+| Technology Web   | A cluster of independent companies organized around a technological platform, enabling unbundling of vertically integrated business models. | Online services                       |
+| Value Web        | Operates within the technology web to maximize value for companies adopting a common technology platform.                    | Apple's Macintosh vs. Microsoft/Intel PC |
+| Customer Web     | Focuses on managing ownership of customer relationships and segments, serving wide-ranging needs by delivering suitable products and services. | -                                     |
+| Market Web       | Focuses on a specific type of transaction by developing deep relationships for a particular need with all customers.        | Mortgage portals                      |
+
 ### Shaper / Adpater
 
 Shapers focus on influencing and shaping the evolution of the industry structure and environment to their advantage. They leverage key platform technologies, manage increasing returns dynamics, and mobilize economic incentives to accelerate web growth and create lock-in effects.

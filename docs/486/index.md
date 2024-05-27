@@ -125,6 +125,78 @@ A business model needs to address:
 | Subscription-based | Company charges users a flat rate on a periodic basis for certain services. | Netflix generates revenue through monthly subscription fees for its streaming service |
 | Fee-for-service based | Activities are metered and users pay for what they consume, known as the utility model. | Utilities like electricity and gas companies charge customers based on their metered usage |
 
+E-business models consist of key building blocks that define their architectural configuration, such as supply chain management, cost reduction, relationship marketing, and value addition.
+
+E-business model content and evaluation centers around assessing their viability, value creation potential, and ability to capture value. This involves using frameworks to systematically assess the feasibility, desirability, and viability of the business model.
+
+E-business models can also be classified based on their purpose, such as generating revenue, reducing costs, or creating new markets. Categorizing models in this way helps analyze their strategic objectives and competitive positioning.
+
+---
+
 Hagel's web strategy emphasizes leveraging web services to drive profits and growth in the knowledge-based, network economy by accelerating capability building, tapping into network effects, shifting from products to services, embracing disruptive innovation, and cultivating specialized capabilities. This has led to the deconstruction of traditional vertically integrated value chains, replaced by flexible coordination mechanisms and new business models.
 
 Virtual organizations, while offering access to global talent, flexibility, cost savings, and knowledge transfer, face challenges such as lack of camaraderie, communication issues, delegation problems, work ethic differences, and personal connection barriers. Navigating these qualities and difficulties is crucial for virtual organizations to succeed, requiring effective leadership, clear communication, structured workflows, and fostering team camaraderie.
+
+---
+
+Four dimensions that determine the classification of business models:
+1. Profit site 
+2. Revenue model
+3. Commerce strategy
+4. Pricing model
+
+Eleven profit sites within the Internet infrastructure:
+1. e-Commerce
+2. Content aggregators
+3. Brokers/agents
+4. Market-makers
+5. Service providers
+6. Backbone operators
+7. ISPs
+8. Last mile
+9. Content creators
+10. Software suppliers
+11. Hardware suppliers
+
+Seven revenue models
+
+| E-Business Model | Description |
+| --- | --- |
+| Commission | Companies charge a percentage of each sale as a fee. |
+| Advertising | Websites earn money by displaying ads, not by charging users. |
+| Mark-up | The main revenue source is adding a profit margin to the products sold online. |
+| Production | Manufacturers sell directly to customers through the Internet. |
+| Referral-based | Companies get paid for sending visitors to another company's website. |
+| Subscription-based | Users pay a regular flat fee to access certain services. |
+| Fee-for-service based | Customers pay based on how much they use the service. |
+
+Five main categories of commerce strategy:
+1. B2B (business to business)
+2. B2C (business to consumer) 
+3. P2P (person to person or peer to peer, also known as consumer to consumer-C2C)
+4. C2B (consumer to business)
+5. B2E (business to employee)
+
+---
+
+| Concept | Definition |
+|---------|------------|
+| economic web | network of interconnected businesses and economic activities that influence each other through transactions, competition and collaboration |
+| technology web | interconnected digitall infrastructure and platforms enabling economic activities |
+| value web | network of business that collaborate and create value through shared goals and mutual benfit, often centered around a technologicial platform |
+| market web | network of businesses and customers that interact to meet specific market demands, creating a focused ecosystem around a particular need or industry |
+| customer web | communities of consumers co-creating value within the value web |
+| shaper | an organization that defines industry architecture and landscape for other businesses to build upon |
+| adapter | an organization that build upon business defined by the shapers and take advantages of market trends |
+| customer relation business | driven by economies of scope, focus on customization, offer as many choices as possible to maximize selection for customers |
+| product innovation and commercialization business | driven by speed, innovate new products, use all possible distribution channels to reach potential customers, attract and serve the needs of talents |
+| infrastructure management business | driven by economies of scale, oriented towards cost reduction and standardization |
+| virtual organization | organization that relies on ICT technologies to operate without a central physical location, often with a flexible and decentralized structure |
+| integrated organization | an organization that has clear defined hierachichal structure and roles |
+| autonomous innovation | innovation which relies on the independent decision of an organization |
+| systematic innovation | innovation that requires interdepent and collaborations of different business actors and functional units |
+| disruptive innovation | innovation that creates a new market and value network, eventually disrupting existing markets and displacing established businesses |
+| new-market disruption | disruption which occur when new market of new customers are identified whom often were non-consumers before the discovery of their needs |
+| low-end disruption | innovation that disrupt current market trends, often begins with targeting low-end customers and eventually displacing established businesses |
+| top-down disruption | disruption which begins with high-end consumers and eventually targeting low-end consumers |
+| e-business model | a logic of how a business generate profits and sustain its competitive advantages |

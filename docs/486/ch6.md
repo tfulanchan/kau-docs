@@ -63,7 +63,7 @@ There are many different types of webs, such as the economic web, the technologi
 
 ### Classification of the Web 
 
-An economic web is a cluster of companies that use a common architecture to deliver independent elements of an overall value proposition to final consumers.
+An economic web is **a cluster of companies that use a common architecture to deliver independent elements of an overall value proposition to final consumers**.
 
 One example of an economic web is the Microsoft and Intel personal computer web—the Wintel web.
 
@@ -77,7 +77,7 @@ It is the pursuit of economic self-interest that brings them together into the w
 
 Rarely does any partner need to develop formal relations with the other participants.
 
-A technology web is where a cluster of independent companies organize around a particular technological platform.
+A technology web is where **a cluster of independent companies organize around a particular technological platform**.
 
 The development of the Internet and related technologies allows a growing number of industries to unbundle their vertically integrated business models to allow specialized, independent players to enter the market.
 
@@ -89,19 +89,19 @@ Because the providers of various services are independent and they provide their
 
 A value web operates within the technology web and focuses on maximizing value to the customer.
 
-The value web focuses on creating value for a specific group of companies that have adopted a common technology platform.
+The value web focuses on **creating value for a specific group of companies that have adopted a common technology platform**.
 
 Examples are the value webs in the desktop-computing technology web: Apple’s Macintosh vs. the PC by Microsoft and Intel.
 
 Two types of webs are emerging: the customer web and the market web.
 
-The customer web focuses on managing the ownership of customer relationships and customer segments.
+The customer web focuses on **managing the ownership of customer relationships and customer segments**.
 
 By developing and maintaining deep relationships with a particular segment of customers,
 
 a company can use special relationships and deep understanding to serve a wide range of their needs by finding and delivering the most suitable products and services they need from the market, thereby maximally satisfying each customer.
 
-Similarly, a market web focuses on a specific type of transaction by developing deep relationships for a particular need with all customers.
+Similarly, a market web focuses on a specific type of transaction by **developing deep relationships for a particular need with all customers**.
 
 For example, a portal for mortgages is the focal point of a market web.
 

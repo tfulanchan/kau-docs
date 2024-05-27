@@ -102,11 +102,11 @@ New-market disruption happens when a company creates an entirely new market by o
 
 Top-down disruption refers to when an established company leverages new technology or a new business model to introduce a higher-quality but more affordable product that disrupts the incumbents from above, rather than from the low-end of the market. 
 
-| Type of Disruption | Disruptor | Target Market | Approach | Impact |
-|---------------------|------------|----------------|----------|--------|
-| Low-end Disruption | Existing company | Low-end of existing market | Introduces simpler, more affordable product initially underperforming | Over time, improves offering to meet needs of more demanding customers, displacing incumbents |
-| New-market Disruption | New entrant | Non-consumers lacking skills, wealth or access | Creates entirely new market with simple, accessible product | Serves previously unserved segment |
-| Top-down Disruption | Established company | Existing high-end market | Leverages new tech or business model for higher-quality, affordable product | Disrupts incumbents from above, not low-end |
+| Type of Disruption | Target Market | Approach | Impact |
+|---------------------|--------------|----------|--------|
+| Low-end Disruption | Low-end of existing market | Introduces simpler, more affordable product initially underperforming | Over time, improves offering to meet needs of more demanding customers, displacing incumbents |
+| New-market Disruption | Non-consumers lacking skills, wealth or access | Creates entirely new market with simple, accessible product | Serves previously unserved segment |
+| Top-down Disruption | Existing high-end market | Leverages new tech or business model for higher-quality, affordable product | Disrupts incumbents from above, not low-end |
 
 ### E-business model
 

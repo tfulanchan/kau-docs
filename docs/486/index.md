@@ -193,10 +193,11 @@ Five main categories of commerce strategy:
 | infrastructure management business | driven by economies of scale, oriented towards cost reduction and standardization |
 | virtual organization | organization that relies on ICT technologies to operate without a central physical location, often with a flexible and decentralized structure |
 | integrated organization | an organization that has clear defined hierachichal structure and roles |
-| autonomous innovation | innovation which relies on the independent decision of an organization |
+| autonomous innovation | innovation that can be followed up independently |
 | systematic innovation | innovation that requires interdepent and collaborations of different business actors and functional units |
-| disruptive innovation | innovation that creates a new market and value network, eventually disrupting existing markets and displacing established businesses |
+| sustaining innovation | product improvements, either incremental or breakthrough, that cater to the needs of demanding, high-end customers |
+| disruptive innovation | usually sold for less money than the current offering, to the least profitable customers, and gain low margins |
 | new-market disruption | disruption which occur when new market of new customers are identified whom often were non-consumers before the discovery of their needs |
-| low-end disruption | innovation that disrupt current market trends, often begins with targeting low-end customers and eventually displacing established businesses |
+| low-end disruption | innovation that disrupt current market trends, often begins with targeting low-end customers, displace established businesses |
 | top-down disruption | disruption which begins with high-end consumers and eventually targeting low-end consumers |
 | e-business model | a logic of how a business generate profits and sustain its competitive advantages |

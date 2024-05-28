@@ -86,6 +86,11 @@ const config = {
             position: "left",
             label: "CPIS-486",
             to: 'docs/486',
+          },  
+          {
+            position: "left",
+            label: "CPCS-335",
+            to: 'docs/cpcs335',
           },      
         ],
       },

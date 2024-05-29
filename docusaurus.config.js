@@ -71,9 +71,9 @@ const config = {
         },
       },
       navbar: {
-        title: '主頁',
+        title: 'Home',
         logo: {
-          alt: '主頁',
+          alt: 'Home',
           src: 'img/kau_square.jpg',
         },
         items: [
@@ -121,18 +121,6 @@ const config = {
         },
       ],
     ],
-    plugins: [
-      [
-        "@orama/plugin-docusaurus",
-        {
-          cloud: {
-            indexId: "jdf9kh7tt3piue4e7zb3gy40",
-            oramaCloudAPIKey: process.env.ORAMA_CLOUD_API_KEY, // Env variable suggested
-            deploy: true // Enables deploy while building/starting
-          },
-        },
-      ],
-    ]
 };
 
 module.exports = config;

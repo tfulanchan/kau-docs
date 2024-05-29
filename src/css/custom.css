@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -18,7 +21,7 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #3cab6e;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -31,4 +34,40 @@
 
 p {
   /* font-family: 'Consolas' */
+}
+
+@layer base {
+  @font-face {
+    font-family: "Merriweather";
+    src: url("@site/assets/Merriweather/Merriweather-Regular.ttf")
+      format("TrueType");
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+pre,
+li,
+td,
+a {
+  font-family: "Merriweather";
+}
+h1 {
+  font-size: 1.25 rem;
+}
+h2 {
+  font-size: 1 rem;
+}
+h3 {
+  font-size: 0.95 rem;
+}
+p,
+a,
+li,
+pre,
+td {
+  font-size: 0.75 rem;
 }

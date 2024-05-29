@@ -53,7 +53,7 @@ pre,
 li,
 td,
 a {
-  font-family: "Merriweather";
+  /* font-family: "Merriweather"; */
 }
 h1 {
   font-size: 1.25 rem;
@@ -64,10 +64,13 @@ h2 {
 h3 {
   font-size: 0.95 rem;
 }
+th {
+  font-size: 0.75 rem;
+}
 p,
 a,
 li,
 pre,
 td {
-  font-size: 0.75 rem;
+  font-size: 0.55 rem;
 }

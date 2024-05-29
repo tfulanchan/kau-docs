@@ -27,6 +27,11 @@ function HomepageHeader() {
             to="/docs/486">
             CPIS-486
           </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/cpcs335">
+            CPCS-335
+          </Link>
         </div>
       </div>
     </header>

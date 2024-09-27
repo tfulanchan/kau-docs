@@ -5,7 +5,7 @@ title: CPCS-335 Fundamentals of artificial intelligence
 
 | Supervised learning | Unsupervised learning |
 | --- | --- |
-| Linear Regression<br />Naive Bayes<br />Support vector machines<br />K-nearest neighbour<br />Neural networks | Clustering<br />Dimensionality reduction |
+| Linear regression<br />Naive Bayes<br />Support vector machines<br />K-nearest neighbour<br />Neural networks | Clustering<br />Dimensionality reduction |
 
 | Approach | Characteristics | Drawbacks |
 | --- | --- | --- |

@@ -89,8 +89,8 @@ const config = {
           },  
           {
             position: "left",
-            label: "CPCS-335",
-            to: 'docs/cpcs335',
+            label: "MRKT-260",
+            to: 'docs/mrkt260',
           },      
         ],
       },

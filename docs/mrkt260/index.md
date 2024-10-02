@@ -30,3 +30,7 @@ A **value chain** refers to the full lifecycle of a product or process, includin
 A **business market** is a market in which organisations sell their goods and services to other organisations to use in their manufacturing process or service provision.
 
 [Break bulk](https://dhl-freight-connections.com/en/logistics-dictionary/break-bulk/) is the system of transporting goods in pieces separately, rather than being shipped in a container. Goods shipped in crates, bags, boxes, drums, barrels without the use of container are referred to as break bulk cargoes. These type of cargoes are usually large in sizes and dimensions.
+
+Business aims are the results that a company strives to achieve, whilst marketing objectives get down to the specifics on how your efforts can impact the business' wider goals.
+
+**Positioning** is determining the distinctive place you want your product to occupy. **Differentiation** is designing your product offering so that it has one or more unique qualities valued by the customer. A value proposition is any answer to the question of why should the customer buy your product.

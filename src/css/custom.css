@@ -49,28 +49,29 @@ p {
   }
 }
 
-h1,
-h2,
-h3,
-h4,
 p,
 pre,
 li,
 td,
 a {
-  /* font-family: "Merriweather"; */
+  font-family: "Google Sans";
 }
+
 h1 {
   font-size: 1.25 rem;
+  font-family: "Google Sans";
 }
 h2 {
   font-size: 1 rem;
+  font-family: "Google Sans";
 }
 h3 {
   font-size: 0.95 rem;
+  font-family: "Google Sans";
 }
 th {
   font-size: 0.75 rem;
+  font-family: "Google Sans";
 }
 p,
 a,
@@ -78,4 +79,5 @@ li,
 pre,
 td {
   font-size: 0.55 rem;
+  font-family: "Google Sans";
 }

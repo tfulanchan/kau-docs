@@ -1,44 +1,15 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
-
-/* You can override the default Infima variables here. */
-:root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-}
-
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme="dark"] {
-  --ifm-color-primary: #3cab6e;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
-
-p {
-  /* font-family: 'Consolas' */
-}
-
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
+ 
 @import url('https://fonts.googleapis.com/css2?family=Google+Sans:wght@400&display=swap');
 
-@layer base {
+/* @layer base {
   * {
     font-family: 'Google Sans', sans-serif;
   }
@@ -47,37 +18,159 @@ p {
     src: url("@site/assets/Merriweather/Merriweather-Regular.ttf")
       format("TrueType");
   }
-}
+} */
 
-p,
-pre,
-li,
-td,
-a {
-  font-family: "Google Sans";
-}
+ @layer base {
+   @font-face {
+     font-family: 'Alimama ShuHeiTi Bold';
+     font-weight: 800;
+     /* font-display: fallback; */
+     src: url('@site/static/AlimamaShuHeiTi-Bold.ttf') format('TrueType');
+     /* unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+       U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; */
+   }
+ 
+   @font-face {
+     font-family: 'Noto Serif Bold';
+     font-weight: 800;
+     /* font-display: fallback; */
+     src: url('@site/static/NotoSerifTC-Bold.otf') format('OpenType');
+     /* unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+       U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; */
+   }
+ 
+   @font-face {
+     font-family: 'Noto Serif SemiBold';
+     font-weight: 600;
+     /* font-display: fallback; */
+     src: url('@site/static/NotoSerifTC-SemiBold.otf') format('OpenType');
+     /* unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+       U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; */
+   }
+ 
+   @font-face {
+     font-family: 'Noto Serif Regular';
+     font-weight: 400;
+     /* font-display: fallback; */
+     src: url('@site/static/NotoSerifTC-Regular.otf') format('OpenType');
+     /* unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+       U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; */
+   }
+ 
+   @font-face {
+     font-family: 'Questrial';
+     font-weight: 800;
+     /* font-display: fallback; */
+     src: url('@site/static/Questrial-Regular.ttf') format('TrueType');
+     /* unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+       U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; */
+   }
+ 
+   @font-face {
+     font-family: 'ReadexPro';
+     font-weight: 600;
+     /* font-display: fallback; */
+     src: url('@site/static/ReadexPro-SemiBold.ttf') format('TrueType');
+     /* unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+       U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; */
+   }
+ 
+   h1 {
+     font-family: 'Google Sans';
+     font-weight: bold;
+     font-size: 1.25rem;
+   }
+ 
+   h2 {
+     /* font-family: 'Alimama ShuHeiTi Bold'; */
+     font-family: 'Google Sans';
+     font-size: 1 rem;
+   }
+ 
+   h3 {
+     /* font-family: 'Alimama ShuHeiTi Bold'; */
+     font-family: 'Google Sans', 'ReadexPro';
+     font-size: 0.95 rem;
+   }
+ 
+   h4 {
+     /* font-family: 'Alimama ShuHeiTi Bold'; */
+     font-family: 'Google Sans', 'ReadexPro';
+     font-size: 1.2rem;
+   }
+ 
+  a {
+    /* font-family: 'Alimama ShuHeiTi Bold'; */
+    font-family: 'Google Sans', 'ReadexPro';
+    font-size: 1rem;
+  }
+ 
+   div,
+   p,
+   li,
+   code,
+   b {
+     font-family: 'Google Sans', 'ReadexPro';
+   }
+ 
+  blockquote {
+    margin-bottom: 1.5rem;
+  }
+ 
 
-h1 {
-  font-size: 1.25 rem;
-  font-family: "Google Sans";
-}
-h2 {
-  font-size: 1 rem;
-  font-family: "Google Sans";
-}
-h3 {
-  font-size: 0.95 rem;
-  font-family: "Google Sans";
-}
-th {
-  font-size: 0.75 rem;
-  font-family: "Google Sans";
-}
-p,
-a,
-li,
-pre,
-td {
-  font-size: 0.55 rem;
-  font-family: "Google Sans";
-}
+   .footnote-ref {
+     font-size: 0.5rem;
+   }
+ 
+   svg {
+     display: inline;
+   }
+ 
+   ol {
+     list-style-type: decimal;
+     margin-left: 2rem;
+   }
+ 
+   .Alimama {
+     font-family: 'Alimama ShuHeiTi Bold';
+   }
+ 
+   .bann {
+     /* max-height: 119px;
+     max-width: 514px;  */
+     /* display: flex;
+     position: relative;  */
+     /* margin-top: 0.25rem;  */
+     /* align-items: center;  */
+     /* width: 100%;  */
+   }
+ 
+   .guides-top-header {
+     @apply ml-6 mr-2 rounded-md border-secondary-700;
+     border-width: 1px;
+   }
+ 
+   :root {
+     --ifm-color-primary: #2e8555;
+     --ifm-color-primary-dark: #29784c;
+     --ifm-color-primary-darker: #277148;
+     --ifm-color-primary-darkest: #205d3b;
+     --ifm-color-primary-light: #33925d;
+     --ifm-color-primary-lighter: #359962;
+     --ifm-color-primary-lightest: #3cad6e;
+     --ifm-code-font-size: 95%;
+     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+   }
+ 
+   /* For readability concerns, you should choose a lighter palette in dark mode. */
+   [data-theme='dark'] {
+     --ifm-color-primary: #3cab6e;
+     --ifm-color-primary-dark: #21af90;
+     --ifm-color-primary-darker: #1fa588;
+     --ifm-color-primary-darkest: #1a8870;
+     --ifm-color-primary-light: #29d5b0;
+     --ifm-color-primary-lighter: #32d8b4;
+     --ifm-color-primary-lightest: #4fddbf;
+     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+   }
+ }

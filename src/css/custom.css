@@ -36,7 +36,12 @@ p {
   /* font-family: 'Consolas' */
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:wght@400&display=swap');
+
 @layer base {
+  * {
+    font-family: 'Google Sans', sans-serif;
+  }
   @font-face {
     font-family: "Merriweather";
     src: url("@site/assets/Merriweather/Merriweather-Regular.ttf")

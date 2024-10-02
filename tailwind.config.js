@@ -1,30 +1,37 @@
-const { fontFamily } = require("tailwindcss/defaultTheme");
+const defaultTheme = require('tailwindcss/defaultTheme')
+
+// https://medium.com/@bargadyahmed/docusaurus-a-guide-to-seamless-integration-with-tailwind-css-dd202211caac
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   corePlugins: {
-    preflight: false,
-    container: false,
+    // preflight: false,
+    // container: false,
   },
-  darkMode: ["class", '[data-theme="dark"]'],
-  content: ["./src/**/*.{jsx,tsx,html}"],
+  darkMode: ['class', '[data-theme="dark"]'],
+  content: ['./src/**/*.{js,jsx,ts,tsx,html}'],
+  plugins: [
+    // require('@tailwindcss/typography')
+  ],
   theme: {
     extend: {
       fontFamily: {
-        sans: ['"Inter"', ...fontFamily.sans],
-        jakarta: ['"Plus Jakarta Sans"', ...fontFamily.sans],
-        mono: ['"Fira Code"', ...fontFamily.mono],
+        // AlimamaShuHeiTi: "'AlimamaShuHeiTi-Bold', 'AlimamaShuHeiTi', 'serif' ",
+        mono: ["'DM Mono'", ...defaultTheme.fontFamily.mono]
       },
-      borderRadius: {
-        sm: "4px",
+      colors: {
+        primary: { "50": "#eff6ff", "100": "#dbeafe", "200": "#bfdbfe", "300": "#93c5fd", "400": "#60a5fa", "500": "#3b82f6", "600": "#2563eb", "700": "#1d4ed8", "800": "#1e40af", "900": "#1e3a8a", "950": "#172554" }
       },
-      screens: {
-        sm: "0px",
-        lg: "997px",
+      spacing: {
+        list: '1.75rem', // You can customize the spacing as per your requirement
       },
-      colors: {},
     },
   },
-  plugins: [],
+  variants: {
+    listStyleType: ['responsive', 'hover', 'focus'],
+    listStylePosition: ['responsive', 'hover', 'focus'],
+  },
+  corePlugins: {
+    preflight: false,
+  }
 };
-

@@ -21,52 +21,7 @@
 } */
 
  @layer base {
-   
-   @font-face {
-     font-family: 'Noto Serif Bold';
-     font-weight: 800;
-     /* font-display: fallback; */
-     src: url('@site/static/NotoSerifTC-Bold.otf') format('OpenType');
-     /* unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
-       U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; */
-   }
- 
-   @font-face {
-     font-family: 'Noto Serif SemiBold';
-     font-weight: 600;
-     /* font-display: fallback; */
-     src: url('@site/static/NotoSerifTC-SemiBold.otf') format('OpenType');
-     /* unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
-       U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; */
-   }
- 
-   @font-face {
-     font-family: 'Noto Serif Regular';
-     font-weight: 400;
-     /* font-display: fallback; */
-     src: url('@site/static/NotoSerifTC-Regular.otf') format('OpenType');
-     /* unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
-       U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; */
-   }
- 
-   @font-face {
-     font-family: 'Questrial';
-     font-weight: 800;
-     /* font-display: fallback; */
-     src: url('@site/static/Questrial-Regular.ttf') format('TrueType');
-     /* unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
-       U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; */
-   }
- 
-   @font-face {
-     font-family: 'ReadexPro';
-     font-weight: 600;
-     /* font-display: fallback; */
-     src: url('@site/static/ReadexPro-SemiBold.ttf') format('TrueType');
-     /* unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
-       U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; */
-   }
- 
+
    h1 {
      font-family: 'Google Sans';
      font-weight: bold;
@@ -81,19 +36,19 @@
  
    h3 {
      /* font-family: 'Alimama ShuHeiTi Bold'; */
-     font-family: 'Google Sans', 'ReadexPro';
+     font-family: 'Google Sans' ;
      font-size: 0.95 rem;
    }
  
    h4 {
      /* font-family: 'Alimama ShuHeiTi Bold'; */
-     font-family: 'Google Sans', 'ReadexPro';
+     font-family: 'Google Sans' ;
      font-size: 1.2rem;
    }
  
   a {
     /* font-family: 'Alimama ShuHeiTi Bold'; */
-    font-family: 'Google Sans', 'ReadexPro';
+    font-family: 'Google Sans' ;
     font-size: 1rem;
   }
  
@@ -102,7 +57,7 @@
    li,
    code,
    b {
-     font-family: 'Google Sans', 'ReadexPro';
+     font-family: 'Google Sans' ;
    }
  
   blockquote {
@@ -122,11 +77,11 @@
      list-style-type: decimal;
      margin-left: 2rem;
    }
- 
+/*  
    .Alimama {
      font-family: 'Alimama ShuHeiTi Bold';
    }
- 
+  */
    .bann {
      /* max-height: 119px;
      max-width: 514px;  */

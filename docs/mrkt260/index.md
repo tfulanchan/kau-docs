@@ -34,3 +34,11 @@ A **business market** is a market in which organisations sell their goods and se
 Business aims are the results that a company strives to achieve, whilst marketing objectives get down to the specifics on how your efforts can impact the business' wider goals.
 
 **Positioning** is determining the distinctive place you want your product to occupy. **Differentiation** is designing your product offering so that it has one or more unique qualities valued by the customer. A value proposition is any answer to the question of why should the customer buy your product.
+
+Value-based pricing is a business strategy that primarily relies on customers' perceived value of goods or services to determine cost.
+
+Societal Marketing focuses on social responsibilities and recommends maintaining long-term success.
+
+Figure 2.3 - The Product/Market Expansion Grid
+![figure](./assets/productMarketExpansionGrid.jpg)
+

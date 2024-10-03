@@ -21,7 +21,7 @@
 } */
 
  @layer base {
-
+   
    h1 {
      font-family: 'Google Sans';
      font-weight: bold;
@@ -36,19 +36,19 @@
  
    h3 {
      /* font-family: 'Alimama ShuHeiTi Bold'; */
-     font-family: 'Google Sans' ;
+     font-family: 'Google Sans', 'ReadexPro';
      font-size: 0.95 rem;
    }
  
    h4 {
      /* font-family: 'Alimama ShuHeiTi Bold'; */
-     font-family: 'Google Sans' ;
+     font-family: 'Google Sans', 'ReadexPro';
      font-size: 1.2rem;
    }
  
   a {
     /* font-family: 'Alimama ShuHeiTi Bold'; */
-    font-family: 'Google Sans' ;
+    font-family: 'Google Sans', 'ReadexPro';
     font-size: 1rem;
   }
  
@@ -57,7 +57,7 @@
    li,
    code,
    b {
-     font-family: 'Google Sans' ;
+     font-family: 'Google Sans', 'ReadexPro';
    }
  
   blockquote {
@@ -77,11 +77,11 @@
      list-style-type: decimal;
      margin-left: 2rem;
    }
-/*  
+ 
    .Alimama {
      font-family: 'Alimama ShuHeiTi Bold';
    }
-  */
+ 
    .bann {
      /* max-height: 119px;
      max-width: 514px;  */

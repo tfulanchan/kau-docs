@@ -5,6 +5,8 @@ title: MRKT-260 Principles of Marketing
 
 # [MRKT-260 Principles of Marketing](https://www.kau.edu.sa/Files/0013274/Subjects/Syllabus_MRKT260.pdf)
 
+![alt text](image.png)(https://www.bcg.com/about/overview/our-history/growth-share-matrix)
+
 The **Production Concept**: It holds that consumers will prefer products that are widely available and inexpensive. Assume that consumers are primarily interested in product availability and low prices. This orientation makes sense in developing countries, where consumers are more interested in obtaining the product than in its features.
 
 The **Product Concept**: This orientation holds that consumers will favor those products that offer the most quality, performance, or innovative features. Assume that buyers admire well-made products and can appraise quality and performance. Management might commit the “better-mousetrap” fallacy, believing that a better mousetrap will lead people to beat a path to its door. 

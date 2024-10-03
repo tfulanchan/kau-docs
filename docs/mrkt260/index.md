@@ -39,6 +39,12 @@ Value-based pricing is a business strategy that primarily relies on customers' p
 
 Societal Marketing focuses on social responsibilities and recommends maintaining long-term success.
 
+Figure 2.2 - Growth-Share Matrix
+![figure](./assets/growthShareMatrix.jpg)
+
+
 Figure 2.3 - The Product/Market Expansion Grid
 ![figure](./assets/productMarketExpansionGrid.jpg)
 
+Figure 2.5 - The four Ps of the marketing matrix
+![figure](./assets/4Ps.jpg)

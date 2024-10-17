@@ -19,39 +19,39 @@
       format("TrueType");
   }
 } */
+h1 {
+  font-family: 'Google Sans';
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+h2 {
+  /* font-family: 'Alimama ShuHeiTi Bold'; */
+  font-family: 'Google Sans';
+  font-size: 1 rem;
+}
+
+h3 {
+  /* font-family: 'Alimama ShuHeiTi Bold'; */
+  font-family: 'Google Sans', 'ReadexPro';
+  font-size: 0.95 rem;
+}
+
+h4 {
+  /* font-family: 'Alimama ShuHeiTi Bold'; */
+  font-family: 'Google Sans', 'ReadexPro';
+  font-size: 1.2rem;
+}
+
+a {
+ /* font-family: 'Alimama ShuHeiTi Bold'; */
+ font-family: 'Google Sans', 'ReadexPro';
+ font-size: 1rem;
+}
 
  @layer base {
    
-   h1 {
-     font-family: 'Google Sans';
-     font-weight: bold;
-     font-size: 1.25rem;
-   }
- 
-   h2 {
-     /* font-family: 'Alimama ShuHeiTi Bold'; */
-     font-family: 'Google Sans';
-     font-size: 1 rem;
-   }
- 
-   h3 {
-     /* font-family: 'Alimama ShuHeiTi Bold'; */
-     font-family: 'Google Sans', 'ReadexPro';
-     font-size: 0.95 rem;
-   }
- 
-   h4 {
-     /* font-family: 'Alimama ShuHeiTi Bold'; */
-     font-family: 'Google Sans', 'ReadexPro';
-     font-size: 1.2rem;
-   }
- 
-  a {
-    /* font-family: 'Alimama ShuHeiTi Bold'; */
-    font-family: 'Google Sans', 'ReadexPro';
-    font-size: 1rem;
-  }
- 
+
    div,
    p,
    li,

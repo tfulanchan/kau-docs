@@ -103,12 +103,12 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    scripts: [
-      {
-        src: 'https://ttchan.netlify.app/speech.js',
-        defer: true,
-      },
-    ],
+    // scripts: [
+    //   {
+    //     src: 'https://ttchan.netlify.app/speech.js',
+    //     defer: true,
+    //   },
+    // ],
     themes: [
       [
         "@easyops-cn/docusaurus-search-local",

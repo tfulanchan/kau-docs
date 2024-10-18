@@ -84,8 +84,8 @@ const config = {
           }, 
           {
             position: "left",
-            label: "CPIS-486",
-            to: 'docs/486',
+            label: "CPIS-312",
+            to: 'docs/312',
           },  
           {
             position: "left",

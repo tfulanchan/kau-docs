@@ -24,13 +24,13 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/486">
-            CPIS-486
+            to="/docs/312">
+            CPIS-312
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/cpcs335">
-            CPCS-335
+            to="/docs/428">
+            CPCS-428
           </Link>
         </div>
       </div>

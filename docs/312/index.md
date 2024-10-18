@@ -5,7 +5,28 @@ title: CPIS-312
 
 # [CPIS-312 Information systems strategies and policies](https://fcit.kau.edu.sa/aims/runReportAPI2.php?REP_ID=3&FL_TYPE=pdf&CLG_ID=1&PRA_STR=(PARAM1:18)%7C(PARAM2:2)%7C(PARAM3:3)%7C(PARAM4:BINDER)%7C(PARAM6:CPIS-312)%7C(PARAM5:0)%7C(PARAM7:)%7C(P_DESFORMAT:PDF)%7C(P_RDF_FILENAME:BINDER)%7C(P_OUTPUT_FILENAME:Syllabus))
 
+| **OSI Model**            | **TCP/IP Model**         | **Description**                                                                 |
+|--------------------------|--------------------------|---------------------------------------------------------------------------------|
+| 7. Application Layer      | 4. Application Layer     | Handles network processes and user applications (e.g., HTTP, FTP, SMTP).        |
+| 6. Presentation Layer     | -                        | Manages data format translation, encryption, and compression.                   |
+| 5. Session Layer          | -                        | Manages sessions and controls dialogues between computers.                      |
+| 4. Transport Layer        | 3. Transport Layer       | Ensures end-to-end communication, reliability (e.g., TCP, UDP).                 |
+| 3. Network Layer          | 2. Internet Layer        | Routes data between devices across different networks (e.g., IP).               |
+| 2. Data Link Layer        | 1. Network Access Layer  | Handles physical addressing and error detection for data transmission.          |
+| 1. Physical Layer         | 1. Network Access Layer  | Manages the physical connection, electrical signals, and hardware interaction.   |
+
 ### OSI Model
+
+|-| **OSI Layer**            | **Function**                                                                                          | **Example Protocols/Technologies**             |
+|-|--------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| 7 | Application      | Provides network services directly to user applications, handling high-level APIs and application protocols. | HTTP, FTP, SMTP, DNS                          |
+| 6 | Presentation     | Ensures data is in a usable format, manages encryption, decryption, compression, and data translation.  | SSL/TLS, JPEG, GIF, MPEG                      |
+| 5 | Session          | Manages sessions between applications, coordinating communication and maintaining connections.         | NetBIOS, RPC                                  |
+| 4 | Transport        | Provides reliable or unreliable delivery, error detection, and flow control for end-to-end communication. | TCP, UDP                                      |
+| 3 | Network          | Determines the best path for data, handles logical addressing and packet forwarding.                   | IP, ICMP, OSPF, RIP                           |
+| 2 | Data Link        | Provides physical addressing (MAC), error detection, and frames for the network.                       | Ethernet, PPP, Wi-Fi, ARP                     |
+| 1 | Physical         | Deals with the physical transmission of raw bitstreams over a medium (cables, radio waves).            | Ethernet cables, Fiber optics, 802.11 (Wi-Fi) |
+
 
 |-| OSI Model Layer | Description |
 |-|-|-|
@@ -18,6 +39,13 @@ title: CPIS-312
 | 1 | Physical | Describe the mechanical, eletrical, functional, and procedural means to activate, maintain, and deactivate physical connections for a big transmission between devices |
 
 ### TCP/IP Model
+
+|-| **TCP/IP Layer**          | **Function**                                                                                           | **Example Protocols/Technologies**             |
+|-|---------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| 4 | Application       | Combines the functionalities of OSI's Application, Presentation, and Session layers, handling high-level protocols for data exchange. | HTTP, FTP, SMTP, DNS, SNMP                   |
+| 3 | Transport         | Manages end-to-end communication, including data segmentation, flow control, and error handling.       | TCP, UDP                                      |
+| 2 | Internet          | Responsible for logical addressing, packet routing, and forwarding across multiple networks.            | IP, ICMP, ARP, OSPF, BGP                      |
+| 1 | Network Access    | Encompasses OSI's Physical and Data Link layers, handling hardware addressing and physical data transmission. | Ethernet, Wi-Fi, ARP, PPP, Frame Relay        |
 
 |-| TCP/IP Model Layer | Description |
 |-|-|-|

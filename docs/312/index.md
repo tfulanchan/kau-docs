@@ -5,6 +5,8 @@ title: CPIS-312
 
 # [CPIS-312 Information systems strategies and policies](https://fcit.kau.edu.sa/aims/runReportAPI2.php?REP_ID=3&FL_TYPE=pdf&CLG_ID=1&PRA_STR=(PARAM1:18)%7C(PARAM2:2)%7C(PARAM3:3)%7C(PARAM4:BINDER)%7C(PARAM6:CPIS-312)%7C(PARAM5:0)%7C(PARAM7:)%7C(P_DESFORMAT:PDF)%7C(P_RDF_FILENAME:BINDER)%7C(P_OUTPUT_FILENAME:Syllabus))
 
+### OSI Model
+
 | OSI Model Layer | Description |
 |-|-|
 | 7 - Application | Contains protocols used for process-to-process communication |
@@ -15,12 +17,16 @@ title: CPIS-312
 | 2 - Data Link | Describe methods for exchanging data frames between devices over a common media |
 | 1 - Physical | Describe the mechanical, eletrical, functional, and procedural means to activate, maintain, and deactivate physical connections for a big transmission between devices |
 
+### TCP/IP Model
+
 | TCP/IP Model Layer | Description |
 |-|-|
 | 4 - Application | Represents data to the user, plus encoding and dialog control |
 | 3 - Transport | Supports communication between various devices across diverse networks |
 | 2 - Internet | Determines best path through network |
 | 1 - Network Access | Controls the hardware devices and media that make up the network |
+
+### Encapsulation
 
 |-|-|
 |-|-|
@@ -31,6 +37,8 @@ title: CPIS-312
 | de-encapsulation | is the process used by a receiving device to remove one or more of the protocol headers. |
 
 =====================
+
+### Hacker tool
 
 | Categories of Tools | Description |-|
 |-|-|-|
@@ -48,6 +56,8 @@ title: CPIS-312
 | Vulnerability exploitation tools | These tools identify whether a remote host is vulnerable to a security attack.  | Metasploit, Core Impact |
 | Vulnerability scanners | These tools scan a network or system to identify open ports. They can also be used to scan for known vulnerabilities and scan VMs, BYOD devices, and client databases. | Nipper, Securia PSI |
 
+### Attacks
+
 | Category of Attack | Description |
 |-|-|
 | Eavesdropping attack | An eavesdropping attack is when a threat actor captures and listens to network traffic. This is also called as sniffing or snooping. |
@@ -61,6 +71,8 @@ title: CPIS-312
 
 ====================================
 
+### Trojan Horse
+
 | Type of Trojan Horse | Description |
 |-|-|
 | Remote-access | Enables unauthorized remote access. |
@@ -72,6 +84,8 @@ title: CPIS-312
 | Denial of Service (DoS) | Slows or halts network activity. |
 | Keylogger | Actively attempts to steal confidential information, such as credit card numbers, by recording keystrokes entered into a web form. |
 
+### Malware
+
 | Type of Malware | Description |
 |-|-|
 | Scareware | Includes scam software which uses social engineering to shock or induce anxiety by creating the perception of a threat. It is generally directed at an unsuspecting user and attempts to persuade the user to infect a computer by taking action to address the bogus threat. |
@@ -79,6 +93,8 @@ title: CPIS-312
 | Rootkits | Installed on a compromised system. After it is installed, it continues to hide its intrusion and provide privileged access to the threat actor. |
 | Spyware | Used to gather information about a user and send the information to another entity without the user’s consent. Spyware can be a system monitor, Trojan horse, Adware, tracking cookies, and key loggers. |
 | Adware | Displays annoying pop-ups to generate revenue for its author. The malware may analyze user interests by tracking the websites visited. It can then send pop-up advertising pertinent to those sites. |
+
+### Exploitation
 
 | Technique | Description |-|
 |-|-|-|
@@ -88,11 +104,15 @@ title: CPIS-312
 | Vulnerability scanners | This is to query the identified ports to determine the type and version of the application and operating system that is running on the host. | Nipper, Secuna PSI, Core Impact, Nessus v6, SAINT, Open VAS. |
 | Exploitation tools | The threat actor now attempts to discover vulnerable services that can be exploited. A variety of vulnerability exploitation tools | Metasploit, Core Impact, Sqlmap, Social Engineer Toolkit, Netsparker. |
 
+### Attacks
+
 |-|-|
 |-|-|
 | Access attacks | exploit known vulnerabilities in authentication services, FTP services, and web services to gain entry into web accounts, confidential databases, and other sensitive information. |
 | Password Attacks | The threat actor attempts to discover critical system passwords using a variety of password cracking tools. |
 | Spoofing Attacks | The threat actor device attempts to pose as another device by falsifying data. |
+
+### Social engineering
 
 | Social Engineering Attack | Description |
 |-|-|
@@ -106,6 +126,8 @@ title: CPIS-312
 | Tailgating | This is where a threat actor quickly follows an authorized person into a secure location to gain access to a secure area. |
 | Shoulder surfing | This is where a threat actor inconspicuously looks over someone’s shoulder to steal their passwords or other information. |
 | Dumpster diving | This is where a threat actor rummages through trash bins to discover confidential documents. |
+
+### Evasion
 
 | Evasion Method | Description |
 |-|-|

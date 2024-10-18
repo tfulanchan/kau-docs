@@ -9,7 +9,7 @@ title: CPIS-312
 
 |-| OSI Model Layer | Description |
 |-|-|-|
-| 7 | - Application | Contains protocols used for process-to-process communication |
+| 7 | Application | Contains protocols used for process-to-process communication |
 | 6 | Presentation | Provides presentation of the data transferred between application layer services |
 | 5 | Transport | Provides services to the presentation layer to organize its dialogue and the manage data exchange |
 | 4 | Session | Defines services to segment, transfer, and reassemble the data for individual communications between the end devices |
@@ -20,11 +20,11 @@ title: CPIS-312
 ### TCP/IP Model
 
 | TCP/IP Model Layer | Description |
-|-|-|
-| 4 - Application | Represents data to the user, plus encoding and dialog control |
-| 3 - Transport | Supports communication between various devices across diverse networks |
-| 2 - Internet | Determines best path through network |
-| 1 - Network Access | Controls the hardware devices and media that make up the network |
+|-|-|-|
+| 4 | Application | Represents data to the user, plus encoding and dialog control |
+| 3 | Transport | Supports communication between various devices across diverse networks |
+| 2 | Internet | Determines best path through network |
+| 1 | Network Access | Controls the hardware devices and media that make up the network |
 
 ### Encapsulation
 

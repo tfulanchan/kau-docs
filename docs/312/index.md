@@ -62,7 +62,7 @@ title: CPIS-312
 | multiplexing | increased speed is gained because many data conversations can happen at the same time on the network. |
 | encapsulation | as data is passed down the protocol stack to be sent, different information is added by each layer. |
 | protocol data unit | the form that data takes at different layer |
-| de-encapsulation | is the process used by a receiving device to remove one or more of the protocol headers. |
+| de-encapsulation | the process used by a receiving device to remove one or more of the protocol headers. |
 
 =====================
 
@@ -70,19 +70,19 @@ title: CPIS-312
 
 | Categories of Tools | Description |-|
 |-|-|-|
-| Password crackers | Used to crack or recover the password. | John the Ripper, Ophcrack |
-| Wireless hacking tools | Used to intentionally hack into a wireless network to detect security vulnerabilities. | Aircrack-ng, Kismet |
-| Network scanning and hacking tools | Used to probe network devices, servers, and hosts for open TCP or UDP ports.  | Nmap, SuperScan |
-| Packet crafting tools | Used to probe and test a firewall’s robustness.  | Hping, Scapy
-| Packet sniffers | Used to capture and analyze packets within traditional Ethernet LANs or WLANs.  | Wireshark, Tcpdump |
-| Rootkit detectors | It is a directory and file integrity checker used by white hats to detect installed root kits.  | AIDE, Netfilter |
-| Fuzzers to search vulnerabilities | Used by threat actors when attempting to discover a computer system’s security vulnerabilities.  | Skipfish, Wapiti |
-| Forensic tools | White hat hackers use these tools to sniff out any trace of evidence existing in a particular computer system.  | Sleuth Kit, Helix |
-| Debuggers | Used by black hats to reverse engineer binary files when writing exploits and used by white hats when analyzing malware. Eg:GDB, WinDbg |
-| Hacking operating systems | These are preloaded with tools and technologies optimized for hacking.  | Kali Linux, SELinux |
-| Encryption tools | These tools use algorithm schemes to encode the data to prevent unauthorized access to the data.  | VeraCrypt, CipherShed |
-| Vulnerability exploitation tools | These tools identify whether a remote host is vulnerable to a security attack.  | Metasploit, Core Impact |
-| Vulnerability scanners | These tools scan a network or system to identify open ports. They can also be used to scan for known vulnerabilities and scan VMs, BYOD devices, and client databases. | Nipper, Securia PSI |
+| Password crackers | crack or recover the password. | John the Ripper, Ophcrack |
+| Wireless hacking tools | intentionally hack into a wireless network to detect security vulnerabilities. | Aircrack-ng, Kismet |
+| Network scanning and hacking tools | probe network devices, servers, and hosts for open TCP or UDP ports.  | Nmap, SuperScan |
+| Packet crafting tools | probe and test a firewall’s robustness.  | Hping, Scapy
+| Packet sniffers | capture and analyze packets within traditional Ethernet LANs or WLANs.  | Wireshark, Tcpdump |
+| Rootkit detectors | a directory and file integrity checker used by white hats to detect installed root kits.  | AIDE, Netfilter |
+| Fuzzers to search vulnerabilities | discover computer systems’ security vulnerabilities.  | Skipfish, Wapiti |
+| Forensic tools | sniff out any trace of evidence existing in a particular computer system.  | Sleuth Kit, Helix |
+| Debuggers | reverse engineer binary files when writing exploits and used by white hats when analyzing malware. Eg:GDB, WinDbg |
+| Hacking operating systems | preloaded with tools and technologies optimized for hacking.  | Kali Linux, SELinux |
+| Encryption tools | use algorithm schemes to encode the data to prevent unauthorized access to the data.  | VeraCrypt, CipherShed |
+| Vulnerability exploitation tools | identify whether a remote host is vulnerable to a security attack.  | Metasploit, Core Impact |
+| Vulnerability scanners | scan a network or system to identify open ports. They can also be used to scan for known vulnerabilities and scan VMs, BYOD devices, and client databases. | Nipper, Securia PSI |
 
 ### Attacks
 
@@ -119,7 +119,7 @@ title: CPIS-312
 | Scareware | Includes scam software which uses social engineering to shock or induce anxiety by creating the perception of a threat. It is generally directed at an unsuspecting user and attempts to persuade the user to infect a computer by taking action to address the bogus threat. |
 | Phishing | Attempts to convince people to divulge sensitive information. Examples include receiving an email from their bank asking users to divulge their account and PIN numbers. |
 | Rootkits | Installed on a compromised system. After it is installed, it continues to hide its intrusion and provide privileged access to the threat actor. |
-| Spyware | Used to gather information about a user and send the information to another entity without the user’s consent. Spyware can be a system monitor, Trojan horse, Adware, tracking cookies, and key loggers. |
+| Spyware | gather information about a user and send the information to another entity without the user’s consent. Spyware can be a system monitor, Trojan horse, Adware, tracking cookies, and key loggers. |
 | Adware | Displays annoying pop-ups to generate revenue for its author. The malware may analyze user interests by tracking the websites visited. It can then send pop-up advertising pertinent to those sites. |
 
 ### Exploitation

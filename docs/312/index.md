@@ -33,7 +33,7 @@ title: CPIS-312
 | segmentation | data broken into a series of smaller pieces and sent over the network. |
 | multiplexing | increased speed is gained because many data conversations can happen at the same time on the network. |
 | encapsulation | as data is passed down the protocol stack to be sent, different information is added by each layer. |
-| protocol data unit (PDU) | the form that data takes at different layer |
+| protocol data unit | the form that data takes at different layer |
 | de-encapsulation | is the process used by a receiving device to remove one or more of the protocol headers. |
 
 =====================
@@ -81,7 +81,7 @@ title: CPIS-312
 | Proxy | Uses the victim's computer as the source device to launch attacks and perform other illegal activities. |
 | FTP | Enables unauthorized file transfer services on end devices. |
 | Security software disabler | Stops antivirus programs or firewalls from functioning. |
-| Denial of Service (DoS) | Slows or halts network activity. |
+| Denial of Service | Slows or halts network activity. |
 | Keylogger | Actively attempts to steal confidential information, such as credit card numbers, by recording keystrokes entered into a web form. |
 
 ### Malware

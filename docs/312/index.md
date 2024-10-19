@@ -140,6 +140,12 @@ While Indicators of Attack help in detecting and preventing attacks in real-time
 
 ## Module 14 Common Threats and Attacks
 
+A virus is a malicious code that attaches itself to a legitimate program or file and spreads when that file is executed by the user, requires human action to propagate.
+
+A worm is self-replicating and does not need a host file or human intervention to spread. It exploits vulnerabilities in network systems to move across devices. It is autonomous and faster in infecting systems.
+
+A Trojan horse disguises itself as legitimate software but contains malicious code. A Trojan does not replicate but relies on users to be tricked into downloading and running it, often to give attackers remote control or to steal sensitive information.
+
 ### Trojan Horse
 
 | Type of Trojan Horse | Description |

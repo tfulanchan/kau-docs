@@ -45,26 +45,26 @@ physical layer: physical transmission of bitstreams through physical medium
 
 ### TCP/IP Model
 
-| **Layer**               | **Function**                                                                                             | **Example Protocols/Technologies**             |
-|-------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| **4. Application Layer** | Handles high-level protocols for data exchange and user services, ensuring communication between applications. | HTTP, FTP, SMTP, DNS, SNMP                    |
-| **3. Transport Layer**   | Manages end-to-end communication, provides data segmentation, error correction, and flow control.         | TCP, UDP                                      |
-| **2. Internet Layer**    | Responsible for packet routing, logical addressing, and forwarding between networks.                      | IP, ICMP, ARP, OSPF, BGP                      |
-| **1. Network Access Layer** | Handles hardware addressing, data link control, and physical data transmission across the network medium.  | Ethernet, Wi-Fi, PPP, Frame Relay             |
+|-| **Layer**               | **Function**                                                                                             | **Example Protocols/Technologies**             |
+|-|-------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| 4 | Application Layer | Handles high-level protocols for data exchange and user services, ensures communication between applications. | HTTP, FTP, SMTP, DNS, SNMP                    |
+| 3 | Transport Layer | Manages end-to-end communication, provides data segmentation, error correction, and flow control.         | TCP, UDP                                      |
+| 2 | Internet Layer | Packet routing, logical addressing, and forwarding between networks.                      | IP, ICMP, ARP, OSPF, BGP                      |
+| 1 | Network Access Layer | Handles hardware addressing, data link control, and physical data transmission across the network medium.  | Ethernet, Wi-Fi, PPP, Frame Relay             |
 
 ### Encapsulation
 
 | **Concept**                | **Definition**                                                                                   |
 |----------------------------|--------------------------------------------------------------------------------------------------|
-| **Segmentation**            | The process of breaking down large data packets into smaller ones for easier transmission.       |
-| **Multiplexing**            | A technique that combines multiple signals or data streams into one for more efficient processing.|
-| **Encapsulation**           | Wrapping data with protocol information (like headers) before transmission across a network.     |
-| **De-encapsulation**        | The process of removing protocol headers from data as it reaches its destination.                |
-| **Denial-of-Service (DoS)** | An attack that overwhelms a network or service with traffic, causing it to become unavailable.   |
-| **Man-in-the-Middle Attack**| A cyberattack where an attacker intercepts and potentially alters communications between two parties.|
-| **Sniffer Attack**          | A network attack where an attacker captures data packets to steal sensitive information.         |
-| **IP Address Spoofing Attack**| A technique where an attacker disguises their device’s IP address to impersonate another system. |
-| **Eavesdropping Attack**    | A passive attack where an attacker listens in on private communications to steal information.    |
+| Segmentation            | The process of breaking down large data packets into smaller ones for easier transmission.       |
+| Multiplexing            | A technique that combines multiple signals or data streams into one for more efficient processing.|
+| Encapsulation           | Wrapping data with protocol information (like headers) before transmission across a network.     |
+| De-encapsulation        | The process of removing protocol headers from data as it reaches its destination.                |
+| Denial-of-Service (DoS) | An attack that overwhelms a network or service with traffic, causing it to become unavailable.   |
+| Man-in-the-Middle Attack| A cyberattack where an attacker intercepts and potentially alters communications between two parties.|
+| Sniffer Attack          | A network attack where an attacker captures data packets to steal sensitive information.         |
+| IP Address Spoofing Attack| A technique where an attacker disguises their device’s IP address to impersonate another system. |
+| Eavesdropping Attack    | A passive attack where an attacker listens in on private communications to steal information.    |
 
 =====================
 

@@ -81,17 +81,17 @@ While Indicators of Attack help in detecting and preventing attacks in real-time
 | Categories of Tools | Description |-|
 |-|-|-|
 | Password crackers | crack or recover the password. | John the Ripper, Ophcrack |
-| Wireless hacking tools | intentionally hack into a wireless network to detect security vulnerabilities. | Aircrack-ng, Kismet |
-| Network scanning and hacking tools | probe network devices, servers, and hosts for open TCP or UDP ports.  | Nmap, SuperScan |
-| Packet crafting tools | probe and test a firewall’s robustness.  | Hping, Scapy
+| Wireless hacking | intentionally hack into a wireless network to detect security vulnerabilities. | Aircrack-ng, Kismet |
+| Network scanning and hacking | probe network devices, servers, and hosts for open TCP or UDP ports.  | Nmap, SuperScan |
+| Packet crafting | probe and test a firewall’s robustness.  | Hping, Scapy
 | Packet sniffers | capture and analyze packets within traditional Ethernet LANs or WLANs.  | Wireshark, Tcpdump |
 | Rootkit detectors | a directory and file integrity checker used by white hats to detect installed root kits.  | AIDE, Netfilter |
 | Fuzzers to search vulnerabilities | discover computer systems’ security vulnerabilities.  | Skipfish, Wapiti |
-| Forensic tools | sniff out any trace of evidence existing in a particular computer system.  | Sleuth Kit, Helix |
+| Forensic | sniff out any trace of evidence existing in a particular computer system.  | Sleuth Kit, Helix |
 | Debuggers | reverse engineer binary files when writing exploits and used by white hats when analyzing malware. | GDB, WinDbg |
 | Hacking operating systems | preloaded with tools and technologies optimized for hacking.  | Kali Linux, SELinux |
-| Encryption tools | use algorithm schemes to encode the data to prevent unauthorized access to the data.  | VeraCrypt, CipherShed |
-| Vulnerability exploitation tools | identify whether a remote host is vulnerable to a security attack.  | Metasploit, Core Impact |
+| Encryption | use algorithm schemes to encode the data to prevent unauthorized access to the data.  | VeraCrypt, CipherShed |
+| Vulnerability exploitation | identify whether a remote host is vulnerable to a security attack.  | Metasploit, Core Impact |
 | Vulnerability scanners | scan a network or system to identify open ports. They can also be used to scan for known vulnerabilities and scan VMs, BYOD devices, and client databases. | Nipper, Securia PSI |
 
 ### Attacks
@@ -140,7 +140,7 @@ While Indicators of Attack help in detecting and preventing attacks in real-time
 | Initiate a ping sweep of the target network | The information query usually reveals the target’s network address. The threat actor can now initiate a ping sweep to determine which IP addresses are active. |-|
 | Port scanner initiate a port scan of active IP addresses | This is used to determine which ports or services are available. | Nmap, SuperScan, Angry IP Scanner, NetScanTools. |
 | Vulnerability scanners | This is to query the identified ports to determine the type and version of the application and operating system that is running on the host. | Nipper, Secuna PSI, Core Impact, Nessus v6, SAINT, Open VAS. |
-| Exploitation tools | The threat actor now attempts to discover vulnerable services that can be exploited | Metasploit, Core Impact, Sqlmap, Social Engineer Toolkit, Netsparker. |
+| Exploitation | The threat actor now attempts to discover vulnerable services that can be exploited | Metasploit, Core Impact, Sqlmap, Social Engineer Toolkit, Netsparker. |
 
 ### Attacks
 

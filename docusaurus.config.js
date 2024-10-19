@@ -114,7 +114,6 @@ const config = {
     },
     themes: 
     [
-      '@docusaurus/theme-mermaid',
       [
         "@easyops-cn/docusaurus-search-local",
         {

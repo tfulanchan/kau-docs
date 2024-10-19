@@ -23,19 +23,6 @@ physical layer: physical transmission of bitstreams through physical medium
 
 At School
 
-```mermaid
-graph TD;
-    A[Device] -->|Connects to| B[School's Wi-Fi Network];
-    B -->|Communicates via| C[Router];
-    C -->|Formats search query into packets| D[Network Layer];
-    D -->|Encapsulates into frames| E[Radio Waves];
-    E -->|Converts to electrical signals| F[Wired Network];
-    F -->|Routes to| G[ISP Network];
-    G -->|Processes query at| H[Search Engine];
-    H -->|Returns results to| G;
-    G -->|Sends results back through| F;
-    F -->|Displays results on| A;
-
 1. In a school environment, students utilize devices like laptops and tablets to access online learning resources.
 2. When Student 1 connects to the school's Wi-Fi network, their device communicates with the router using the Physical and Data Link layers for wireless communication.
 3. Their search query is formatted into packets at the Network layer, addressed to ensure it reaches the appropriate destination.

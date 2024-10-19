@@ -5,6 +5,20 @@ title: CPIS-312
 
 # [CPIS-312 Information systems strategies and policies](https://fcit.kau.edu.sa/aims/runReportAPI2.php?REP_ID=3&FL_TYPE=pdf&CLG_ID=1&PRA_STR=(PARAM1:18)%7C(PARAM2:2)%7C(PARAM3:3)%7C(PARAM4:BINDER)%7C(PARAM6:CPIS-312)%7C(PARAM5:0)%7C(PARAM7:)%7C(P_DESFORMAT:PDF)%7C(P_RDF_FILENAME:BINDER)%7C(P_OUTPUT_FILENAME:Syllabus))
 
+application layer: handle high level API
+
+presentation layer: ensure data in usable format, encryption, decryption, compression and data translation
+
+session layer: manage sessions of applications, coordinate communciation and maintain connections
+
+transport layer: provide services to presentation layer to organize dialogue and manage data exchange
+
+network layer: routing of datagrams from source to destination, handle logic addressing and packet forwarding
+
+data link layer: data transfer between neighboring network elements, provides physcial addressing
+
+physical layer: physical transmission of bitstreams through physical medium
+
 ## Module 5 Network Protocols
 
 | **OSI Model**            | **TCP/IP Model**         | **Description**                                                                 |
@@ -21,50 +35,36 @@ title: CPIS-312
 
 |-| **OSI Layer**            | **Function**                                                                                          | **Example Protocols/Technologies**             |
 |-|--------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| 7 | Application      | Provides network services directly to user applications, handling high-level APIs and application protocols. | HTTP, FTP, SMTP, DNS                          |
-| 6 | Presentation     | Ensures data is in a usable format, manages encryption, decryption, compression, and data translation.  | SSL/TLS, JPEG, GIF, MPEG                      |
-| 5 | Session          | Manages sessions between applications, coordinating communication and maintaining connections.         | NetBIOS, RPC                                  |
-| 4 | Transport        | Provides reliable or unreliable delivery, error detection, and flow control for end-to-end communication. | TCP, UDP                                      |
-| 3 | Network          | Determines the best path for data, handles logical addressing and packet forwarding.                   | IP, ICMP, OSPF, RIP                           |
-| 2 | Data Link        | Provides physical addressing (MAC), error detection, and frames for the network.                       | Ethernet, PPP, Wi-Fi, ARP                     |
-| 1 | Physical         | Deals with the physical transmission of raw bitstreams over a medium (cables, radio waves).            | Ethernet cables, Fiber optics, 802.11 (Wi-Fi) |
-
-
-|-| OSI Model Layer | Description |
-|-|-|-|
-| 7 | Application | Contains protocols used for process-to-process communication |
-| 6 | Presentation | Provides presentation of the data transferred between application layer services |
-| 5 | Transport | Provides services to the presentation layer to organize its dialogue and manage data exchange |
-| 4 | Session | Defines services to segment, transfer, and reassemble the data for individual communications between the end devices |
-| 3 | Network | Provides services to exchange the individual pieces of data over the network |
-| 2 | Data Link | Describe methods for exchanging data frames between devices over a common media |
-| 1 | Physical | Describe the mechanical, eletrical, functional, and procedural means to activate, maintain, and deactivate physical connections for a big transmission between devices |
+| 7 | Application | Provides network services directly to user applications, handle high-level APIs and application protocols. | HTTP, FTP, SMTP, DNS                          |
+| 6 | Presentation | Translates data between the application and network, ensures data is in a usable format, manages encryption, decryption, compression, and data translation.  | SSL/TLS, JPEG, GIF, MPEG                      |
+| 5 | Session | Manages sessions between applications and connections between computers, coordinate communication and maintaining connections.         | NetBIOS, RPC                                  |
+| 4 | Transport | Trasmits data via trasmission protocols, ensures error-free transmission of data between hosts, manage flow control and error checking. | TCP, UDP                                      |
+| 3 | Network | Route datagrams from source to destination, handle logic addressing and packet forwarding | IP, ICMP, OSPF, RIP                           |
+| 2 | Data Link | Transfers data between nodes on the same network segment, provides physical addressing (MAC), error detection, and frames for the network.                       | Ethernet, PPP, Wi-Fi, ARP                     |
+| 1 | Physical | Transmits raw bit streams over the physical medium (cables, radio waves).            | Ethernet cables, Fiber optics, 802.11 (Wi-Fi) |
 
 ### TCP/IP Model
 
-|-| **TCP/IP Layer**          | **Function**                                                                                           | **Example Protocols/Technologies**             |
-|-|---------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| 4 | Application       | Combines the functionalities of OSI's Application, Presentation, and Session layers, handling high-level protocols for data exchange. | HTTP, FTP, SMTP, DNS, SNMP                   |
-| 3 | Transport         | Manages end-to-end communication, including data segmentation, flow control, and error handling.       | TCP, UDP                                      |
-| 2 | Internet          | Responsible for logical addressing, packet routing, and forwarding across multiple networks.            | IP, ICMP, ARP, OSPF, BGP                      |
-| 1 | Network Access    | Encompasses OSI's Physical and Data Link layers, handling hardware addressing and physical data transmission. | Ethernet, Wi-Fi, ARP, PPP, Frame Relay        |
-
-|-| TCP/IP Model Layer | Description |
-|-|-|-|
-| 4 | Application | Represents data to the user, plus encoding and dialog control |
-| 3 | Transport | Supports communication between various devices across diverse networks |
-| 2 | Internet | Determines best path through network |
-| 1 | Network Access | Controls the hardware devices and media that make up the network |
+| **Layer**               | **Function**                                                                                             | **Example Protocols/Technologies**             |
+|-------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| **4. Application Layer** | Handles high-level protocols for data exchange and user services, ensuring communication between applications. | HTTP, FTP, SMTP, DNS, SNMP                    |
+| **3. Transport Layer**   | Manages end-to-end communication, provides data segmentation, error correction, and flow control.         | TCP, UDP                                      |
+| **2. Internet Layer**    | Responsible for packet routing, logical addressing, and forwarding between networks.                      | IP, ICMP, ARP, OSPF, BGP                      |
+| **1. Network Access Layer** | Handles hardware addressing, data link control, and physical data transmission across the network medium.  | Ethernet, Wi-Fi, PPP, Frame Relay             |
 
 ### Encapsulation
 
-|-|-|
-|-|-|
-| segmentation | data broken into a series of smaller pieces and sent over the network. |
-| multiplexing | increased speed is gained because many data conversations can happen at the same time on the network. |
-| encapsulation | as data is passed down the protocol stack to be sent, different information is added by each layer. |
-| protocol data unit | the form that data takes at different layer |
-| de-encapsulation | the process used by a receiving device to remove one or more of the protocol headers. |
+| **Concept**                | **Definition**                                                                                   |
+|----------------------------|--------------------------------------------------------------------------------------------------|
+| **Segmentation**            | The process of breaking down large data packets into smaller ones for easier transmission.       |
+| **Multiplexing**            | A technique that combines multiple signals or data streams into one for more efficient processing.|
+| **Encapsulation**           | Wrapping data with protocol information (like headers) before transmission across a network.     |
+| **De-encapsulation**        | The process of removing protocol headers from data as it reaches its destination.                |
+| **Denial-of-Service (DoS)** | An attack that overwhelms a network or service with traffic, causing it to become unavailable.   |
+| **Man-in-the-Middle Attack**| A cyberattack where an attacker intercepts and potentially alters communications between two parties.|
+| **Sniffer Attack**          | A network attack where an attacker captures data packets to steal sensitive information.         |
+| **IP Address Spoofing Attack**| A technique where an attacker disguises their device’s IP address to impersonate another system. |
+| **Eavesdropping Attack**    | A passive attack where an attacker listens in on private communications to steal information.    |
 
 =====================
 

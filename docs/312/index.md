@@ -70,7 +70,7 @@ physical layer: physical transmission of bitstreams through physical medium
 
 ## Module 13 Attackers and Their Tools
 
-Indicators of Attack are signs of potential malicious activity or tactics that may indicate an ongoing or future attack, emphasizing behavior and intent, such as unusual network activity or suspicious access patterns.
+Indicators of Attack are signs of potential malicious activity or tactics that may indicate an ongoing or future attack, such as unusual network activity or suspicious access patterns.
 
 Indicators of Compromise are evidence that an attack has already occurred, such as malware signatures, compromised files, or logs of unauthorized access.
 
@@ -98,14 +98,14 @@ While Indicators of Attack help in detecting and preventing attacks in real-time
 
 | Category of Attack | Description |
 |-|-|
-| Eavesdropping attack | An eavesdropping attack is when a threat actor captures and listens to network traffic. This is also called as sniffing or snooping. |
-| Data modification attack | Data modification attacks occur when a threat actor has captured enterprise traffic and has altered the data in the packets without the knowledge of the sender or receiver. |
-| IP address spoofing attack | An IP address spoofing attack is when a threat actor constructs an IP packet that appears to originate from a valid address inside the corporate intranet. |
-| Password-based attacks | Password-based attacks occur when a threat actor obtains the credentials for a valid user account. |
-| Denial-of-service attack | A Denial-of-service attack prevents normal use of a computer or network by valid users. This attack can block traffic, which results in a loss of access to network resources. |
-| Man-in-the-middle attack | A Man-in-the-middle attack attack occurs when threat actors have positioned themselves between a source and destination. |
-| Compromised key attack | A compromised-key attack occurs when a threat actor obtains a secret key. A compromised key can be used to gain access to a secured communication without the sender or receiver. |
-| Sniffer attack | A sniffer is an application or device that can read, monitor, and capture network data exchanges and read network packets. If the packets are not encrypted, a sniffer provides a full view of the data inside the packet. |
+| Eavesdropping attack         | intercepts network communications to secretly listen in on data transfers, often referred to as snooping or packet sniffing |
+| Data modification attack     | intercepts and alters the contents of data packets during transmission, modifying information without the sender or receiver noticing |
+| IP address spoofing attack   | forges IP packet headers to make it appear as though the traffic originates from a trusted, legitimate source within the network |
+| Password-based attacks       | gains access to a user’s credentials, allowing unauthorized access to a network or system using valid login information |
+| Denial-of-service attack     | floods a target system or network with excessive requests or traffic, overwhelming resources and preventing legitimate users from accessing services |
+| Man-in-the-middle attack     | intercepts the data being exchanged without their knowledge |
+| Compromised key attack       | gains unauthorized access to a cryptographic key, enabling them to decrypt and read secure communications without detection |
+| Sniffer attack               | captures and monitors network traffic to view unencrypted data transmitted over the network |
 
 ====================================
 

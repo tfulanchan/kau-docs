@@ -21,6 +21,35 @@ physical layer: physical transmission of bitstreams through physical medium
 
 ## Module 5 Network Protocols
 
+At School
+
+1. In a school environment, students utilize devices like laptops and tablets to access online learning resources.
+2. When Student 1 connects to the school's Wi-Fi network, their device communicates with the router using the Physical and Data Link layers for wireless communication.
+3. Their search query is formatted into packets at the Network layer, addressed to ensure it reaches the appropriate destination.
+4. These packets are then encapsulated into frames and transmitted as radio waves, which are converted into electrical signals that traverse the school's wired network, move through the Transport layer for reliable data transmission.
+5. Once the request reaches the school's Internet Service Provider (ISP), the packets are routed through the ISP's infrastructure and travel across the Internet to the search engine.
+6. At the Application layer, the search engine processes the query and returns results, which are sent back through the same layers and eventually displayed on Student 1's device.
+
+Gaming
+
+1. Student 2 connects their gaming console to the internet via a home network that includes a router and a cable modem.
+2. At the Physical layer, the console communicates through a wired connection, while the Data Link layer establishes a local area network (LAN) connection.
+3. When Student 2 joins an online game, their gameplay data is encapsulated into packets at the Transport layer and sent through the ISP’s network.
+4. The ISP's infrastructure uses the Network layer to route these packets to the game provider’s servers, which host the game.
+5. The packets carry information identify Student 2, their gaming actions, and network location.
+6. The game provider's servers process this data at the Application layer and send back high-speed updates, including graphics and sound, which travel back through the OSI layers to Student 2's console.
+
+Medical Consultations
+
+1. In the medical context, Professional 1 relies on a cloud service for consulting with specialists about patient cases.
+2. When a patient undergoes an X-ray, the hospital's imaging equipment digitizes the image, prepare it for transmission over the network.
+3. At the Application layer, the medical data, including the X-ray and patient information, is encrypted to ensure confidentiality.
+4. The data is then segmented into packets at the Transport layer, ensure reliable delivery.
+5. The hospital’s network infrastructure uses the Network layer to route the encrypted data securely to the cloud service provider’s data center.
+6. This data is encapsulated into frames at the Data Link layer and transmitted across various physical mediums, such as fiber-optic cables, utilize the Physical layer.
+7. Once at the cloud provider's data center, the data can be accessed and managed securely, allow authorized medical personnel to retrieve and analyze the patient’s X-ray and other relevant information as needed.
+
+
 | **OSI Model**            | **TCP/IP Model**         | **Description**                                                                 |
 |--------------------------|--------------------------|---------------------------------------------------------------------------------|
 | 7. Application Layer      | 4. Application Layer     | Handles network processes and user applications (e.g., HTTP, FTP, SMTP).        |

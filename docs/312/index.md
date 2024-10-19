@@ -23,6 +23,19 @@ physical layer: physical transmission of bitstreams through physical medium
 
 At School
 
+```mermaid
+graph TD;
+    A[Device] -->|Connects to| B[School's Wi-Fi Network];
+    B -->|Communicates via| C[Router];
+    C -->|Formats search query into packets| D[Network Layer];
+    D -->|Encapsulates into frames| E[Radio Waves];
+    E -->|Converts to electrical signals| F[Wired Network];
+    F -->|Routes to| G[ISP Network];
+    G -->|Processes query at| H[Search Engine];
+    H -->|Returns results to| G;
+    G -->|Sends results back through| F;
+    F -->|Displays results on| A;
+
 1. In a school environment, students utilize devices like laptops and tablets to access online learning resources.
 2. When Student 1 connects to the school's Wi-Fi network, their device communicates with the router using the Physical and Data Link layers for wireless communication.
 3. Their search query is formatted into packets at the Network layer, addressed to ensure it reaches the appropriate destination.
@@ -32,11 +45,11 @@ At School
 
 Gaming
 
-1. Student 2 connects their gaming console to the internet via a home network that includes a router and a cable modem.
+1. Student 2 connects gaming console to the internet via a home network that includes a router and a cable modem.
 2. At the Physical layer, the console communicates through a wired connection, while the Data Link layer establishes a local area network (LAN) connection.
-3. When Student 2 joins an online game, their gameplay data is encapsulated into packets at the Transport layer and sent through the ISP’s network.
+3. When Student 2 joins an online game, the gameplay data is encapsulated into packets at the Transport layer and sent through the ISP’s network.
 4. The ISP's infrastructure uses the Network layer to route these packets to the game provider’s servers, which host the game.
-5. The packets carry information identify Student 2, their gaming actions, and network location.
+5. The packets carry information identify Student 2, gaming actions, and network location.
 6. The game provider's servers process this data at the Application layer and send back high-speed updates, including graphics and sound, which travel back through the OSI layers to Student 2's console.
 
 Medical Consultations

@@ -144,12 +144,14 @@ While Indicators of Attack help in detecting and preventing attacks in real-time
 | Data modification attack     | intercepts and alters the contents of data packets during transmission, modifying information without the sender or receiver noticing |
 | IP address spoofing attack   | forges IP packet headers to make it appear as though the traffic originates from a trusted, legitimate source within the network |
 | Password-based attacks       | gains access to a user’s credentials, allowing unauthorized access to a network or system using valid login information |
-| Denial-of-service attack     | floods a target system or network with excessive requests or traffic, overwhelming resources and preventing legitimate users from accessing services |
+| Denial-of-service attack     | floods a target system or network with excessive requests or traffic, overwhelming resources and prevent legitimate users from accessing services |
 | Man-in-the-middle attack     | intercepts the data being exchanged without their knowledge |
 | Compromised key attack       | gains unauthorized access to a cryptographic key, enabling them to decrypt and read secure communications without detection |
 | Sniffer attack               | captures and monitors network traffic to view unencrypted data transmitted over the network |
 
 ====================================
+
+## Module 14 Common Threats and Attacks
 
 ### Trojan Horse
 

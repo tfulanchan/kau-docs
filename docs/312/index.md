@@ -180,6 +180,8 @@ A Trojan horse disguises itself as legitimate software but contains malicious co
 | Vulnerability scanners | This is to query the identified ports to determine the type and version of the application and operating system that is running on the host. | Nipper, Secuna PSI, Core Impact, Nessus v6, SAINT, Open VAS. |
 | Exploitation | The threat actor attempts to discover vulnerable services that can be exploited | Metasploit, Core Impact, Sqlmap, Social Engineer Toolkit, Netsparker. |
 
+.
+
 | Technique | Description |-|
 |-----------|-|-------------|
 | Perform an information query of a target | The attacker gathers publicly accessible information about the target, such as network addresses, employee details, or organizational structure. | Google search, organization’s website, WHOIS |

@@ -50,31 +50,31 @@ Medical Consultations
 7. Once at the cloud provider's data center, the data can be accessed and managed securely, allow authorized medical personnel to retrieve and analyze the patient’s X-ray and other relevant information as needed.
 
 
-| **OSI Model**            | **TCP/IP Model**         | **Description**                                                                 |
+| **OSI Model**            | **TCP/IP Model**         | **Description**     |
 |--------------------------|--------------------------|---------------------------------------------------------------------------------|
 | 7. Application Layer      | 4. Application Layer     | Handles network processes and user applications (e.g., HTTP, FTP, SMTP).        |
-| 6. Presentation Layer     | -                        | Manages data format translation, encryption, and compression.                   |
-| 5. Session Layer          | -                        | Manages sessions and controls dialogues between computers.                      |
-| 4. Transport Layer        | 3. Transport Layer       | Ensures end-to-end communication, reliability (e.g., TCP, UDP).                 |
-| 3. Network Layer          | 2. Internet Layer        | Routes data between devices across different networks (e.g., IP).               |
+| 6. Presentation Layer     | -         | Manages data format translation, encryption, and compression.    |
+| 5. Session Layer          | -         | Manages sessions and controls dialogues between computers.       |
+| 4. Transport Layer        | 3. Transport Layer       | Ensures end-to-end communication, reliability (e.g., TCP, UDP).  |
+| 3. Network Layer          | 2. Internet Layer        | Routes data between devices across different networks (e.g., IP).|
 | 2. Data Link Layer        | 1. Network Access Layer  | Handles physical addressing and error detection for data transmission.          |
 | 1. Physical Layer         | 1. Network Access Layer  | Manages the physical connection, electrical signals, and hardware interaction.   |
 
 ### OSI Model
 
-|-| **OSI Layer**            | **Function**                                                                                          | **Example Protocols/Technologies**             |
+|-| **OSI Layer**            | **Function** | **Example Protocols/Technologies**             |
 |-|--------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| 7 | Application | Provides network services directly to user applications, handle high-level APIs and application protocols. | HTTP, FTP, SMTP, DNS                          |
-| 6 | Presentation | Translates data between the application and network, ensures data is in a usable format, manages encryption, decryption, compression, and data translation.  | SSL/TLS, JPEG, GIF, MPEG                      |
-| 5 | Session | Manages sessions between applications and connections between computers, coordinate communication and maintaining connections.         | NetBIOS, RPC                                  |
-| 4 | Transport | Trasmits data via trasmission protocols, ensures error-free transmission of data between hosts, manage flow control and error checking. | TCP, UDP                                      |
-| 3 | Network | Route datagrams from source to destination, handle logic addressing and packet forwarding | IP, ICMP, OSPF, RIP                           |
-| 2 | Data Link | Transfers data between nodes on the same network segment, provides physical addressing (MAC), error detection, and frames for the network.                       | Ethernet, PPP, Wi-Fi, ARP                     |
+| 7 | Application | Provides network services directly to user applications, handle high-level APIs and application protocols. | HTTP, FTP, SMTP, DNS           |
+| 6 | Presentation | Translates data between the application and network, ensures data is in a usable format, manages encryption, decryption, compression, and data translation.  | SSL/TLS, JPEG, GIF, MPEG       |
+| 5 | Session | Manages sessions between applications and connections between computers, coordinate communication and maintaining connections.         | NetBIOS, RPC    |
+| 4 | Transport | Trasmits data via trasmission protocols, ensures error-free transmission of data between hosts, manage flow control and error checking. | TCP, UDP        |
+| 3 | Network | Route datagrams from source to destination, handle logic addressing and packet forwarding | IP, ICMP, OSPF, RIP            |
+| 2 | Data Link | Transfers data between nodes on the same network segment, provides physical addressing (MAC), error detection, and frames for the network.        | Ethernet, PPP, Wi-Fi, ARP      |
 | 1 | Physical | Transmits raw bit streams over the physical medium (cables, radio waves).            | Ethernet cables, Fiber optics, 802.11 (Wi-Fi) |
 
 ### TCP/IP Model
 
-|-| **Layer**               | **Function**                                                                                             | **Example Protocols/Technologies**             |
+|-| **Layer** | **Function**   | **Example Protocols/Technologies**             |
 |-|-------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------|
 | 4 | Application Layer | Handles high-level protocols for data exchange and user services, ensures communication between applications. | HTTP, FTP, SMTP, DNS, SNMP                    |
 | 3 | Transport Layer | Manages end-to-end communication, provides data segmentation, error correction, and flow control.         | TCP, UDP                                      |
@@ -83,7 +83,7 @@ Medical Consultations
 
 ### Encapsulation
 
-| **Concept**                | **Definition**                                                                                   |
+| **Concept** | **Definition** |
 |----------------------------|--------------------------------------------------------------------------------------------------|
 | Segmentation            | The process of breaking down large data packets into smaller ones for easier transmission.       |
 | Multiplexing            | A technique that combines multiple signals or data streams into one for more efficient processing.|
@@ -189,18 +189,18 @@ A Trojan horse disguises itself as legitimate software but contains malicious co
 
 ### Social engineering
 
-| Social Engineering Attack | Description |
-|-|-|
-| Pretexting | A threat actor pretends to need personal or financial data to confirm the identity of the recipient. |
-| Phishing | A threat actor sends fraudulent email which is disguised as being from a legitimate, trusted source to trick the recipient into installing malware on their device, or to share personal or financial information. |
-| Spear phishing |A threat actor creates a targeted phishing attack tailored for a specific individual or organization. |
-| Spam | Also known as junk mail, this is unsolicited email which often contains harmful links, malware, or deceptive content. |
-| Something for Something | Sometimes called “Quid pro quo”, this is when a threat actor requests personal information from a party in exchange for something such as a gift. |
-| Baiting | A threat actor leaves a malware infected flash drive in a public location. A victim finds the drive and unsuspectingly inserts it into their laptop, unintentionally installing malware. |
-| Impersonation | In this type of attack, a threat actor pretends to be someone else to gain the trust of a victim. |
-| Tailgating | This is where a threat actor quickly follows an authorized person into a secure location to gain access to a secure area. |
-| Shoulder surfing | This is where a threat actor inconspicuously looks over someone’s shoulder to steal their passwords or other information. |
-| Dumpster diving | This is where a threat actor rummages through trash bins to discover confidential documents. |
+| **Social Engineering Attack** | **Description**                                                                                                                                                                        |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Pretexting | The attacker fabricates a scenario to trick the victim into divulging sensitive information by posing as a trusted individual or authority, often under the guise of a legitimate request. |
+| Phishing | A mass attack where an attacker sends fraudulent communications, typically emails, designed to appear as if they come from legitimate sources, with the intent of stealing credentials or installing malware. |
+| Spear Phishing | A highly targeted form of phishing directed at a specific individual or organization, often using personalized information to increase the likelihood of success. |
+| Spam | Unsolicited bulk messages, often sent via email, that may include deceptive offers, malicious links, or attachments, with the intent to deceive or compromise the recipient's system. |
+| Quid Pro Quo (Something for Something) | The attacker offers a benefit or service in exchange for personal information or access, tricking the victim into thinking they will receive something of value. |
+| Baiting | The attacker lures victims by placing enticing physical objects, such as malware-infected USB drives, in public spaces, counting on human curiosity to lead to their use in computers. |
+| Impersonation | The attacker poses as a trusted individual, such as an IT administrator or colleague, to manipulate the victim into providing sensitive information or access. |
+| Tailgating  | The attacker physically follows an authorized person into a restricted area, exploiting the person's trust or lack of attention to bypass security measures. |
+| Shoulder Surfing | The attacker covertly observes a victim's private information, such as passwords or PINs, by looking over their shoulder, often in public places like ATMs or workstations. |
+| Dumpster Diving | The attacker searches through discarded items, such as old documents, hard drives, or other media, to recover sensitive information that can be used for further exploitation. |
 
 ### Evasion
 
@@ -209,9 +209,9 @@ A Trojan horse disguises itself as legitimate software but contains malicious co
 | Encryption and Tunneling  | This method involves encrypting malware files or utilizing tunneling to conceal malicious activity. Encryption scrambles the data, making it difficult for security tools to detect the malware. Tunneling hides malicious data within legitimate traffic, allowing it to bypass detection mechanisms.       |
 | Resource Exhaustion       | Attackers deliberately overload the target system, consuming its resources such as CPU, memory, or bandwidth. This prevents the system from effectively running security checks, thus evading detection. |
 | Traffic Fragmentation     | The attacker splits a malicious payload into smaller fragments to bypass security systems. These fragments, which might appear benign, are reassembled on the receiving end, where the malware can then begin its attack.    |
-| Protocol-Level Misinterpretation | Attackers exploit weaknesses in how network security devices interpret certain protocol data units (PDUs), such as incorrect handling of checksums or Time-to-Live (TTL) values. This misinterpretation can cause firewalls or intrusion detection systems to incorrectly allow malicious traffic through.                |
-| Traffic Substitution      | The attacker obfuscates the malicious data by encoding it in an unfamiliar format (e.g., using Unicode instead of ASCII). The security system fails to recognize the threat, while the target system correctly interprets the payload.                                          |
+| Protocol-Level Misinterpretation | Attackers exploit weaknesses in how network security devices interpret certain protocol data units (PDUs), such as incorrect handling of checksums or Time-to-Live (TTL) values. This misinterpretation can cause firewalls or intrusion detection systems to incorrectly allow malicious traffic through. |
+| Traffic Substitution      | The attacker obfuscates the malicious data by encoding it in an unfamiliar format (e.g., using Unicode instead of ASCII). The security system fails to recognize the threat, while the target system correctly interprets the payload.            |
 | Traffic Insertion | Attackers insert additional benign data into a malicious sequence to evade detection by intrusion prevention systems (IPS). The IPS misses the hidden malicious code, as it is masked by seemingly innocuous extra bytes.        |
-| Pivoting          | This technique involves expanding access after compromising a host within a network. For instance, a threat actor who gains access to an administrator’s credentials might use these to compromise additional hosts on the network, pivoting through the compromised system to escalate the attack.                              |
+| Pivoting          | This technique involves expanding access after compromising a host within a network. For instance, a threat actor who gains access to an administrator’s credentials might use these to compromise additional hosts on the network, pivoting through the compromised system to escalate the attack.|
 | Rootkits          | Rootkits are sophisticated malware that deeply integrate into the operating system, hiding the attacker's activity. They manipulate system functions to present sanitized results, hiding malicious processes, files, and connections from detection tools. This allows attackers to maintain long-term access without being discovered. |
-| Proxies           | Attackers route malicious network traffic through intermediary proxy systems to obscure the final destination. This technique prevents security systems from identifying the true destination of stolen data or malicious communications, making it harder to detect and block command-and-control communications.               |
+| Proxies           | Attackers route malicious network traffic through intermediary proxy systems to obscure the final destination. This technique prevents security systems from identifying the true destination of stolen data or malicious communications, making it harder to detect and block command-and-control communications.|

@@ -99,7 +99,7 @@ Medical Consultations
 
 ## Module 13 Attackers and Their Tools
 
-Indicators of Attack are signs of potential malicious activity or tactics that may indicate an ongoing or future attack, such as unusual network activity or suspicious access patterns.
+Indicators of Attack are signs of potential malicious activity that may indicate an ongoing or future attack, such as unusual network activity or suspicious access patterns.
 
 Indicators of Compromise are evidence that an attack has already occurred, such as malware signatures, compromised files, or logs of unauthorized access.
 
@@ -126,15 +126,16 @@ While Indicators of Attack help in detecting and preventing attacks in real-time
 ### Attacks
 
 | Category of Attack | Description |
-|-|-|
-| Eavesdropping attack         | intercepts network communications to secretly listen in on data transfers, often referred to as snooping or packet sniffing |
-| Data modification attack     | intercepts and alters the contents of data packets during transmission, modifying information without the sender or receiver noticing |
-| IP address spoofing attack   | forges IP packet headers to make it appear as though the traffic originates from a trusted, legitimate source within the network |
-| Password-based attacks       | gains access to a user’s credentials, allowing unauthorized access to a network or system using valid login information |
-| Denial-of-service attack     | floods a target system or network with excessive requests or traffic, overwhelming resources and prevent legitimate users from accessing services |
-| Man-in-the-middle attack     | intercepts the data being exchanged without their knowledge |
-| Compromised key attack       | gains unauthorized access to a cryptographic key, enabling them to decrypt and read secure communications without detection |
-| Sniffer attack               | captures and monitors network traffic to view unencrypted data transmitted over the network |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Eavesdropping attack          | Intercepts network communications to covertly monitor data transfers, commonly known as packet sniffing or snooping. |
+| Data modification attack      | Intercepts and alters the contents of data packets during transmission, changing information without the knowledge of the sender or receiver.    |
+| IP address spoofing attack    | Forges IP packet headers to make it appear as though the traffic originates from a trusted source.           |
+| Sniffer attack                | Captures and monitors network traffic to analyze unencrypted data being transmitted over the network. |
+| Password-based attacks        | Uses stolen or guessed credentials to gain unauthorized access to systems or networks by exploiting valid login information. |
+| Denial-of-service attack      | Overloads a system or network with an overwhelming amount of traffic or requests, render it unavailable to legitimate users. |
+| Buffer Overflow attack | More data is written to a memory buffer than it can handle, cause the extra data to overwrite adjacent memory locations. |
+| Man-in-the-middle attack      | Intercepts and manipulates the communication between two parties without their knowledge, potentially altering or stealing sensitive information. |
+| Compromised key attack        | Obtains unauthorized access to cryptographic keys, decrypt secure communications and access confidential data. |
 
 ====================================
 
@@ -177,7 +178,15 @@ A Trojan horse disguises itself as legitimate software but contains malicious co
 | Initiate a ping sweep of the target network | The information query usually reveals the target’s network address. The threat actor can now initiate a ping sweep to determine which IP addresses are active. |-|
 | Port scanner initiate a port scan of active IP addresses | This is used to determine which ports or services are available. | Nmap, SuperScan, Angry IP Scanner, NetScanTools. |
 | Vulnerability scanners | This is to query the identified ports to determine the type and version of the application and operating system that is running on the host. | Nipper, Secuna PSI, Core Impact, Nessus v6, SAINT, Open VAS. |
-| Exploitation | The threat actor now attempts to discover vulnerable services that can be exploited | Metasploit, Core Impact, Sqlmap, Social Engineer Toolkit, Netsparker. |
+| Exploitation | The threat actor attempts to discover vulnerable services that can be exploited | Metasploit, Core Impact, Sqlmap, Social Engineer Toolkit, Netsparker. |
+
+| Technique | Description |-|
+|-----------|-|-------------|
+| Perform an information query of a target | The attacker gathers publicly accessible information about the target, such as network addresses, employee details, or organizational structure. | Google search, organization’s website, WHOIS |
+| Initiate a ping sweep of the target network | After identifying the target’s network range, the attacker sends ICMP echo requests to determine which hosts are active and reachable. | - |
+| Perform a port scan of active IP addresses | The attacker scans the active IP addresses to discover open ports and identify services running on each host, determining potential entry points. | Nmap, SuperScan, Angry IP Scanner, NetScanTools |
+| Use vulnerability scanners              | The attacker uses automated tools to assess the open ports and services, identifying vulnerabilities in the operating system or applications. | Nipper, Secunia PSI, Core Impact, Nessus, OpenVAS |
+| Exploitation                            | The attacker attempts to exploit identified vulnerabilities, gaining unauthorized access to systems or executing malicious payloads. | Metasploit, Core Impact, Sqlmap, Social Engineer Toolkit, Netsparker |
 
 ### Attacks
 

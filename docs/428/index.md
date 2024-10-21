@@ -7,25 +7,27 @@ title: CPIS-428
 
 ## Overview
 
-Bathsheba syndrome is the moral decline of people in power, often made worse by others ignoring their inappropriate actions. 
+Bathsheba syndrome refers to the tendency of successful leaders to actively violate ethical principles that should be obvious to them. 
 
 A code of ethics is a document that outlines an organization's main ethical issues and describes its core values and principles for decision-making. 
 
 The common good approach sees society as a community where members work together to achieve shared values and goals. 
 
-A corporate compliance officer is a senior manager who leads an organization in following business rules and ethics, often coming from various professional backgrounds like legal or human resources. 
+A corporate compliance officer leads an organization in following business rules and ethics, often coming from various professional backgrounds like legal or human resources. 
 
 Corporate social responsibility means that organizations should act ethically by considering the effects of their actions on the environment, the community, and their employees' well-being. 
 
-Ethics are the beliefs that define what is right and wrong in a society, while the fairness approach focuses on how fairly benefits and burdens are shared among those affected. 
+Ethics are the beliefs that define what is right and wrong in a society.
 
-Integrity is a key part of ethical behavior, showing that a person follows their personal principles. 
+The fairness approach focuses on how fairly benefits and burdens are shared among those affected. 
 
-Law is a system of rules that tells us what we can and cannot do, enforced by institutions like police and courts. 
+Integrity the quality of being honest and having strong moral principles.
+
+Law is a system of rules that tells us what we can and cannot do, enforced by police and courts.
 
 A moral code consists of rules that outline acceptable behavior. 
 
-Morality refers to widely accepted social ideas about right and wrong that create a general agreement in a community. 
+Morality refers to widely accepted social ideas about right and wrong that create a general agreement in a community.
 
 Morals are individual beliefs about what is right and wrong. 
 
@@ -41,10 +43,11 @@ A stakeholder is anyone who can gain or lose based on how a situation turns out,
 
 The utilitarian approach suggests choosing actions or policies that have the best overall results for everyone involved. 
 
-Vice refers to bad habits or behaviors, while virtue means habits that encourage good behavior. 
+Vice refers to bad habits or behaviors.
+
+Virtue means habits that encourage good behavior. 
 
 The virtue ethics approach emphasizes how people should act and think about their relationships in everyday life within their community.
-
 
 ## Ethics for IT Workers and IT Users
 
@@ -86,3 +89,4 @@ Zero-day attack: Takes place before the security community or software developer
 
 ## Privacy
 
+Privacy is the ability of an individual or group to seclude themselves or information about themselves, and thereby express themselves selectively.

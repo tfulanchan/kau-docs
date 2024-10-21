@@ -7,39 +7,41 @@ title: CPIS-428
 
 ## Overview
 
-Bathsheba syndrome refers to the moral decay of individuals in power, often exacerbated by a collective tendency to overlook inappropriate actions by leaders.
+Bathsheba syndrome refers to the moral decay of individuals in power, often exacerbated by a collective tendency to overlook inappropriate actions by leaders. 
 
-A code of ethics is a document that outlines an organization’s key ethical issues and articulates its core values and principles guiding decision-making.
+A code of ethics is a document that outlines an organization’s key ethical issues and articulates its core values and principles guiding decision-making. 
 
-The common good approach envisions society as a community where members collaborate to achieve shared values and goals.
+The common good approach envisions society as a community where members collaborate to achieve shared values and goals. 
 
-A corporate compliance officer is a senior manager responsible for providing leadership and vision in business conduct.
+A corporate compliance officer is a senior manager responsible for providing leadership and vision in business conduct, typically coming from diverse professional backgrounds such as legal, human resources, or finance. 
 
-Corporate social responsibility is the principle that organizations should ethically consider the impact of their actions on the environment, community, and employee welfare.
+Corporate social responsibility is the principle that organizations should ethically consider the impact of their actions on the environment, community, and employee welfare. 
 
-Ethics encompasses the beliefs that define right and wrong behavior within a society
+Ethics encompasses the beliefs that define right and wrong behavior within a society, while the fairness approach emphasizes equitable distribution of benefits and burdens among affected individuals. 
 
-The fairness approach emphasizes equitable distribution of benefits and burdens among affected individuals. 
+Integrity is a fundamental aspect of ethical behavior, characterized by adherence to a personal code of principles. 
 
-Integrity is a fundamental aspect of ethical behavior, characterized by adherence to a personal code of principles.
+Law represents a system of rules governing permissible actions, enforced by institutions such as police and courts. 
 
-Law represents a system of rules governing permissible actions, enforced by institutions such as police and courts.
+A moral code consists of rules that delineate generally accepted behavior boundaries. 
 
-A moral code consists of rules that delineate generally accepted behavior boundaries.
+Morality pertains to widely shared social conventions regarding right and wrong that form a consensus within a community. 
 
-Morality pertains to widely shared social conventions regarding right and wrong that form a consensus within a community. Morals are individual beliefs about right and wrong conduct.
+Morals are individual beliefs about right and wrong conduct. 
 
-A problem statement succinctly describes the issue requiring resolution in a decision-making context.
+A problem statement succinctly describes the issue requiring resolution in a decision-making context. 
 
-The Sarbanes-Oxley Act of 2002 aimed to restore investor confidence in corporate executives and their financial disclosures, leading to significant reforms in public company reporting practices.
+The Sarbanes-Oxley Act of 2002 aimed to restore investor confidence in corporate executives and their financial disclosures, leading to significant reforms in public company reporting practices. 
 
-A social audit involves an organization assessing its performance in meeting ethical and social responsibility objectives while setting new goals for the upcoming year.
+A social audit involves an organization assessing its performance in meeting ethical and social responsibility objectives while setting new goals for the upcoming year. 
 
-Supply chain sustainability is an aspect of corporate social responsibility focused on creating a supply chain that fulfills present needs without compromising future generations' ability to meet theirs.
+Supply chain sustainability is an aspect of corporate social responsibility focused on creating a supply chain that fulfills present needs without compromising future generations' ability to meet theirs. 
 
-A stakeholder is any individual or group that stands to gain or lose based on the outcomes of a situation, including shareholders, employees, customers, suppliers, and the community. The utilitarian approach advocates for selecting actions or policies that yield the best overall consequences for all affected parties.
+A stakeholder is any individual or group that stands to gain or lose based on the outcomes of a situation, including shareholders, employees, customers, suppliers, and the community. 
 
-Vice denotes habitual unacceptable behavior, whereas virtue refers to habits that encourage acceptable conduct.
+The utilitarian approach advocates for selecting actions or policies that yield the best overall consequences for all affected parties. 
+
+Vice denotes habitual unacceptable behavior, whereas virtue refers to habits that encourage acceptable conduct. 
 
 The virtue ethics approach emphasizes how individuals should behave and consider relationships within their daily community interactions.
 
@@ -51,7 +53,9 @@ Whistle-blowing involves an employee reporting a negligent, illegal, unethical, 
 
 Fraud is the act of acquiring goods, services, or property through deceit or trickery.
 
-Misrepresentation refers to the incorrect or incomplete presentation of a material fact. Breach of contract occurs when one party fails to fulfill the terms agreed upon in a contract.
+Misrepresentation refers to the incorrect or incomplete presentation of a material fact. 
+
+Breach of contract occurs when one party fails to fulfill the terms agreed upon in a contract.
 
 Ethical decision-making entails following a professional code of ethics that provides core values and beliefs to guide practitioners in making ethical choices.
 

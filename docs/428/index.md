@@ -31,7 +31,7 @@ Morality refers to widely accepted social ideas about right and wrong that creat
 
 Morals are individual beliefs about what is right and wrong. 
 
-A problem statement clearly describes the issue that needs to be solved in decision-making. 
+A problem statement describes the issue that needs to be solved in decision-making. 
 
 The Sarbanes-Oxley Act of 2002 aimed to restore investor trust in corporate leaders and their financial reports, leading to important changes in how public companies disclose information. 
 
@@ -51,11 +51,11 @@ The virtue ethics approach emphasizes how people should act and think about thei
 
 ## Ethics for IT Workers and IT Users
 
-Duty of care is the obligation to safeguard individuals from unreasonable harm or risk.
+Duty of care is a duty recognized by law to take reasonable care to avoid conduct that poses an unreasonable risk of harm to others.
 
-Whistle-blowing involves an employee reporting a negligent, illegal, unethical, or abusive act by a company that poses a threat to the public interest.
+Whistleblowing is the activity of a person revealing information about activity within an organization that is deemed illegal, immoral, illicit, unsafe or fraudulent.
 
-Fraud is the act of acquiring goods, services, or property through deceit or trickery.
+Fraud is any activity that relies on deception in order to achieve a gain.
 
 Misrepresentation refers to the incorrect or incomplete presentation of a material fact. 
 

@@ -41,7 +41,7 @@ Supply chain sustainability focuses on creating a supply chain that meets curren
 
 A stakeholder is anyone who can gain or lose based on how a situation turns out, including shareholders, employees, customers, suppliers, and the community. 
 
-The utilitarian approach suggests choosing actions or policies that have the best overall results for everyone involved. 
+The utilitarian approach suggests choosing actions or policies that have the best overall results for everyone involved.
 
 Vice refers to bad habits or behaviors.
 

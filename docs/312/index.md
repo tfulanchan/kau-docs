@@ -5,6 +5,14 @@ title: CPIS-312
 
 # [CPIS-312 Information systems strategies and policies](https://fcit.kau.edu.sa/aims/runReportAPI2.php?REP_ID=3&FL_TYPE=pdf&CLG_ID=1&PRA_STR=(PARAM1:18)%7C(PARAM2:2)%7C(PARAM3:3)%7C(PARAM4:BINDER)%7C(PARAM6:CPIS-312)%7C(PARAM5:0)%7C(PARAM7:)%7C(P_DESFORMAT:PDF)%7C(P_RDF_FILENAME:BINDER)%7C(P_OUTPUT_FILENAME:Syllabus))
 
+[Hash Function](https://www.sciencedirect.com/topics/computer-science/hash-function)
+
+[Symmetric Cryptography](https://www.sciencedirect.com/topics/computer-science/symmetric-cryptography#:~:text=Symmetric%20cryptography%20is%20also%20known,cipher%20text%20(received%20message).)
+
+[Asymmetric Cryptography](https://www.sciencedirect.com/topics/computer-science/asymmetric-cryptography)
+
+[Diffie-Hellman Key Exchange](https://www.sciencedirect.com/topics/computer-science/diffie-hellman-key-exchange)
+
 application layer: handle high level API
 
 presentation layer: ensure data in usable format, encryption, decryption, compression and data translation
